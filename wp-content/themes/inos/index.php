@@ -104,31 +104,31 @@ get_header();
             'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
             'walker' => new BottomMenuWalker()
         ]); ?>
-        <div class="bottom-menu-block">
-            <div class="bottom-menu-block-item b-m-b-i-color-1">
-                <p>ОСНОВНЫЕ СВЕДЕНИЯ</p>
-            </div>
-            <div class="bottom-menu-block-item b-m-b-i-color-2">
-                <p>ОБРАЗОВАНИЕ</p>
-            </div>
-            <div class="bottom-menu-block-item b-m-b-i-color-3">
-                <p>ИНСТИТУТ НА КАРТЕ</p>
-            </div>
-            <div class="bottom-menu-block-item b-m-b-i-color-4">
-                <p>СТРУКТУРА И ОРГАНЫ УПРАВЛЕНИЯ</p>
-            </div>
-            <div class="bottom-menu-block-item b-m-b-i-color-5">
-                <p>НАУЧНО-ПЕДАГОГИЧЕСКИЙ СОСТАВ</p>
-            </div>
-            <div class="bottom-menu-block-item b-m-b-i-color-6">
-                <p>ТЕКУЩИЕ ЦИКЛЫ ЛЕКЦИЙ</p>
-            </div>
-            <div class="bottom-menu-block-item b-m-b-i-color-7">
-                <p>ГАЛЕРЕЯ</p>
-            </div>
-
-
-        </div>
+<!--        <div class="bottom-menu-block">-->
+<!--            <div class="bottom-menu-block-item b-m-b-i-color-1">-->
+<!--                <p>ОСНОВНЫЕ СВЕДЕНИЯ</p>-->
+<!--            </div>-->
+<!--            <div class="bottom-menu-block-item b-m-b-i-color-2">-->
+<!--                <p>ОБРАЗОВАНИЕ</p>-->
+<!--            </div>-->
+<!--            <div class="bottom-menu-block-item b-m-b-i-color-3">-->
+<!--                <p>ИНСТИТУТ НА КАРТЕ</p>-->
+<!--            </div>-->
+<!--            <div class="bottom-menu-block-item b-m-b-i-color-4">-->
+<!--                <p>СТРУКТУРА И ОРГАНЫ УПРАВЛЕНИЯ</p>-->
+<!--            </div>-->
+<!--            <div class="bottom-menu-block-item b-m-b-i-color-5">-->
+<!--                <p>НАУЧНО-ПЕДАГОГИЧЕСКИЙ СОСТАВ</p>-->
+<!--            </div>-->
+<!--            <div class="bottom-menu-block-item b-m-b-i-color-6">-->
+<!--                <p>ТЕКУЩИЕ ЦИКЛЫ ЛЕКЦИЙ</p>-->
+<!--            </div>-->
+<!--            <div class="bottom-menu-block-item b-m-b-i-color-7">-->
+<!--                <p>ГАЛЕРЕЯ</p>-->
+<!--            </div>-->
+<!---->
+<!---->
+<!--        </div>-->
 
 
 

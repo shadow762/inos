@@ -51,7 +51,6 @@ class BottomMenuWalker extends Walker_Nav_Menu
         $atts['target'] = ! empty( $item->target )     ? $item->target     : '';
         $atts['rel']    = ! empty( $item->xfn )        ? $item->xfn        : '';
         $atts['href']   = ! empty( $item->url )        ? $item->url        : '';
-        $atts['class']  = 'menu-btn ' . get_field('color_class', $item->ID);
 
         $atts = apply_filters( 'nav_menu_link_attributes', $atts, $item, $args, $depth );
 
