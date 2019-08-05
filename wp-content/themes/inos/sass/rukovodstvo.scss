@@ -1,0 +1,76 @@
+/* Styles for Rokovodstvo */
+
+.ruk-center-block {
+  width: 955px;
+  height: 225px;
+  margin: 0 auto;
+  background-color: #fff;
+  margin-top: 15px;
+  border-radius: 20px;
+}
+
+.ruk-center-block-id {
+  float: left;
+  width: 28%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.ruk-center-block-id>span {
+  font-size: 23px;
+  font-style: italic;
+  margin-left: 20px;
+}
+
+.ruk-center-block-id>span:first-child {
+  font-style: normal;
+}
+
+.ruk-center-block-pic {
+  float: left;
+  width: 31%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.ruk-center-block-pic img {
+  height: 110px;
+  //width: 120px;
+  margin-bottom: 10px;
+}
+
+.ruk-center-block-pic>span {
+  font-size: 23px;
+}
+
+.ruk-center-block-pic>span:last-child {
+  font-size: 15px;
+  font-style: italic;
+}
+
+.ruk-center-block-contacts {
+  height: 100%;
+  float: left;
+  width: 40%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.ruk-center-block-contacts img {
+  height: 67px;
+  width: 89px;
+}
+
+.ruk-center-block-contacts>p {
+  font-size: 16px;
+  margin: 0;
+  margin-left: 40px;
+  margin-bottom: 5px;
+}
+

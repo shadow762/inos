@@ -1,0 +1,66 @@
+/* Styles for Rekvizity */
+
+
+// Блок реквизитов с заголовком и галочками
+.rekv-info-block {
+  width: 800px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.rekv-flag {
+  width: 5%;
+  float: left;
+  height: 100%;
+}
+.rekv-flag span {
+  color: #66349c;
+  font-size: 36px;
+  font-family: TimesNewPSBoldMT;
+  line-height: 36px;
+  font-weight: 600;
+  font-style: italic;
+  text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
+}
+.rekv-info-block span {
+  color: #66349c;
+  font-size: 25px;
+  font-family: TimesNewPSBoldMT;
+  line-height: 24px;
+  font-weight: 600;
+  font-style: italic;
+  text-transform: uppercase;
+  text-shadow: 1px 2px 3px rgba(0,0,0,0.3);
+}
+.rekv-info-block-header>p {
+  margin: 0;
+  color: #800000;
+  width: 95%;
+  font-size: 20px;
+  font-family: TimesNewPSBoldMT;
+  line-height: 24px;
+  font-weight: 600;
+  font-style: italic;
+  text-transform: uppercase;
+  text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3)
+}
+.rekv-info-block>p {
+  font-size: 18px;
+  font-family: TimesNewPSBoldMT;
+  line-height: 24px;
+  font-weight: 600;
+  text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
+  margin: 5px 0 0 0;
+}
+//Блок картинки, картинок посередине
+
+.rekv-img-block {
+  width: 800px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.rekv-info-block p img {
+  height: 67px;
+  width: 89px;
+}

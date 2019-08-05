@@ -1,0 +1,172 @@
+/* Styles for all pages */
+
+.h2-page-header {
+  text-align: center;
+
+  font-size: 47px;
+  font-weight: 600;
+  line-height: 47.66px;
+  color: #6d076d;
+  margin:0;
+}
+.h4-page-header {
+  text-align: center;
+  font-family: "Times New Roman PSMT";
+  font-size: 27px;
+  line-height: 27px;
+  font-weight: 400;
+  color: #6d076d;
+  margin: 0
+ }
+
+// контейнер для картинок посредине страницы
+.img-container {
+  margin: 0 auto;
+  width: 800px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.img-container img {
+  width: 30%;
+  height: 30%;
+
+}
+//
+// Text colors
+.txt-red {
+  color: #800000!important;
+}
+// width
+.w600 {
+  width: 600px;
+}
+.w955 {
+  width: 955px;
+}
+
+.w800 {
+  width: 800px;
+}
+
+// fonts
+.fi {
+  font-style: italic;
+}
+.fs18 {
+  font-size: 18px;
+}
+
+.fs25 {
+  font-size: 25px;
+}
+
+.fs35 {
+  font-size: 35px;
+}
+
+
+//margins paddings align
+.m0auto {
+  margin: 0 auto;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.mtb-20 {
+  margin-bottom: 20px!important;
+  margin-top: 20px!important;
+}
+
+.pl20 {
+  padding-left: 20px;
+}
+
+
+.tal {
+  text-align: left;
+}
+
+//display
+.d-block {
+  display: block;
+}
+
+
+// doc list ul-li
+.ul-doc-list {
+  list-style-image: url("img/romb3.png");
+  width: 955px;
+  margin: 0 auto;
+}
+
+.ul-doc-list a {
+  font-size: 25px;
+  text-decoration: none;
+  padding-left: 5px;
+}
+// images
+
+.w40h24 {
+  width: 40px;
+  height: 24px;
+}
+
+.w100h130 {
+  width: 100px;
+  height: 130px;
+}
+
+.w130h130 {
+  width: 130px;
+  height: 130px;
+}
+
+
+
+
+//
+.page-center-img {
+  margin-left: 30%
+}
+
+// Блок сведений со светофором
+.sved-info-block {
+  width: 750px;
+  margin: 0 auto;
+  margin-top: 30px;
+}
+.sved-info-block > p {
+  font-size: 18px;
+  font-weight: 600;
+  color:#800000;
+  margin: 5px 0 5px 0;
+  text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
+}
+.sved-info-block span {
+  color: #66349c;
+  font-size: 22px;
+  font-family: TimesNewPSBoldMT;
+  line-height: 24px;
+  font-weight: 600;
+  //font-style: italic;
+  text-transform: uppercase;
+  text-shadow: 1px 2px 3px rgba(0,0,0,0.3);
+}
+.sved-info-block > p:last-child {
+  font-size: 18px;
+  font-style: italic;
+  //font-weight: 600;
+  color:#800000;
+  margin: 0;
+}
+
+//table styles
+
+.txt-rout {
+ transform: rotate(270deg);
+  padding:  0;
+}

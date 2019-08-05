@@ -1,0 +1,33 @@
+@import "sass/fonts";
+
+@import "sass/common";
+
+@import "sass/home";
+
+@import "sass/category" ;
+
+@import "sass/contacts";
+
+@import "sass/about";
+
+
+/*STYLES*/
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.flexx {
+  display: flex;
+  align-items: center;
+
+}
+
+.logo {
+  display: block;
+}
+
+.logo img {
+  width:80px;
+  height: auto;
+}

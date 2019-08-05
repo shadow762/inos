@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,yBAAyB;AAEzB,iBAAkB;EAChB,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;EACb,WAAW,EAAE,KAAK;EAClB,gBAAgB,EAAE,IAAI;EACtB,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,IAAI",
+"sources": ["sved.scss"],
+"names": [],
+"file": "sved.css"
+}
