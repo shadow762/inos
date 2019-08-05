@@ -807,6 +807,9 @@ body {
   margin: 0 auto;
   margin-top: 10px; }
 
+.bottom-menu-block-item a {
+  text-decoration: none; }
+
 /*footer block starts*/
 .footer-space-block {
   width: 375px;

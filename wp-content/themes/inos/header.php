@@ -13,16 +13,20 @@
 ?><!doctype html>
 <html <?php language_attributes(); ?>>
 <head>
-	<meta charset="<?php bloginfo( 'charset' ); ?>" />
+    <meta charset="<?php bloginfo( 'charset' ); ?>" />
     <meta name="viewport" content="width=1141">
-	<link rel="profile" href="https://gmpg.org/xfn/11" />
+    <link rel="profile" href="https://gmpg.org/xfn/11" />
     <title><?php echo wp_get_document_title();?></title>
-	<?php wp_head(); ?>
+    <?php wp_head(); ?>
 </head>
 
-<body <?php body_class(); ?>>
+<body>
 <div class="container clearfix">
     <div class="left-block">
+        <?php wp_nav_menu([
+            'theme_location' => 'left',
+            'walker' => new LeftMenuWalker()
+        ]); ?>
         <ul>
             <li class="button">
                 <a href="#" class="menu-btn menu-btn-color-1">
