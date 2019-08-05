@@ -20,9 +20,13 @@
 	<?php wp_head(); ?>
 </head>
 
-<body <?php body_class(); ?>>
+<body>
 <div class="container clearfix">
     <div class="left-block">
+        <?php wp_nav_menu([
+            'theme_location' => 'left',
+            'walker' => new LeftMenuWalker()
+        ]); ?>
         <ul>
             <li class="button">
                 <a href="#" class="menu-btn menu-btn-color-1">

@@ -20,3 +20,8 @@ wp_enqueue_style('style');
 
 
 //регистрируем меню
+register_nav_menus(array(
+    'left'    => 'Боковое меню меню'
+));
+
+require_once "menus/LeftMenuWalker.php";
