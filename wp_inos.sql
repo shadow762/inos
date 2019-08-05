@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Хост: 127.0.0.1:3306
--- Время создания: Авг 05 2019 г., 17:32
+-- Время создания: Авг 05 2019 г., 18:04
 -- Версия сервера: 5.7.20
 -- Версия PHP: 7.1.12
 
@@ -208,7 +208,7 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 (100, 'widget_archives', 'a:2:{i:2;a:3:{s:5:\"title\";s:0:\"\";s:5:\"count\";i:0;s:8:\"dropdown\";i:0;}s:12:\"_multiwidget\";i:1;}', 'yes'),
 (101, 'widget_meta', 'a:2:{i:2;a:1:{s:5:\"title\";s:0:\"\";}s:12:\"_multiwidget\";i:1;}', 'yes'),
 (102, 'sidebars_widgets', 'a:2:{s:19:\"wp_inactive_widgets\";a:6:{i:0;s:8:\"search-2\";i:1;s:14:\"recent-posts-2\";i:2;s:17:\"recent-comments-2\";i:3;s:10:\"archives-2\";i:4;s:12:\"categories-2\";i:5;s:6:\"meta-2\";}s:13:\"array_version\";i:3;}', 'yes'),
-(103, 'cron', 'a:6:{i:1565015692;a:1:{s:34:\"wp_privacy_delete_old_export_files\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"hourly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:3600;}}}i:1565044492;a:3:{s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1565087692;a:1:{s:32:\"recovery_mode_clean_expired_keys\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1565087954;a:2:{s:19:\"wp_scheduled_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}s:25:\"delete_expired_transients\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1565087956;a:1:{s:30:\"wp_scheduled_auto_draft_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}s:7:\"version\";i:2;}', 'yes'),
+(103, 'cron', 'a:6:{i:1565019292;a:1:{s:34:\"wp_privacy_delete_old_export_files\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"hourly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:3600;}}}i:1565044492;a:3:{s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1565087692;a:1:{s:32:\"recovery_mode_clean_expired_keys\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1565087954;a:2:{s:19:\"wp_scheduled_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}s:25:\"delete_expired_transients\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1565087956;a:1:{s:30:\"wp_scheduled_auto_draft_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}s:7:\"version\";i:2;}', 'yes'),
 (104, 'widget_pages', 'a:1:{s:12:\"_multiwidget\";i:1;}', 'yes'),
 (105, 'widget_calendar', 'a:1:{s:12:\"_multiwidget\";i:1;}', 'yes'),
 (106, 'widget_media_audio', 'a:1:{s:12:\"_multiwidget\";i:1;}', 'yes'),
@@ -224,7 +224,7 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 (145, 'current_theme', '', 'yes'),
 (146, 'theme_mods_rsht', 'a:4:{i:0;b:0;s:18:\"nav_menu_locations\";a:0:{}s:18:\"custom_css_post_id\";i:-1;s:16:\"sidebars_widgets\";a:2:{s:4:\"time\";i:1562842479;s:4:\"data\";a:1:{s:19:\"wp_inactive_widgets\";a:6:{i:0;s:8:\"search-2\";i:1;s:14:\"recent-posts-2\";i:2;s:17:\"recent-comments-2\";i:3;s:10:\"archives-2\";i:4;s:12:\"categories-2\";i:5;s:6:\"meta-2\";}}}}', 'yes'),
 (147, 'theme_switched', '', 'yes'),
-(149, 'theme_mods_inos', 'a:4:{i:0;b:0;s:18:\"nav_menu_locations\";a:1:{s:4:\"left\";i:2;}s:18:\"custom_css_post_id\";i:-1;s:16:\"sidebars_widgets\";a:2:{s:4:\"time\";i:1563095987;s:4:\"data\";a:1:{s:19:\"wp_inactive_widgets\";a:6:{i:0;s:8:\"search-2\";i:1;s:14:\"recent-posts-2\";i:2;s:17:\"recent-comments-2\";i:3;s:10:\"archives-2\";i:4;s:12:\"categories-2\";i:5;s:6:\"meta-2\";}}}}', 'yes'),
+(149, 'theme_mods_inos', 'a:4:{i:0;b:0;s:18:\"nav_menu_locations\";a:2:{s:4:\"left\";i:2;s:6:\"bottom\";i:3;}s:18:\"custom_css_post_id\";i:-1;s:16:\"sidebars_widgets\";a:2:{s:4:\"time\";i:1563095987;s:4:\"data\";a:1:{s:19:\"wp_inactive_widgets\";a:6:{i:0;s:8:\"search-2\";i:1;s:14:\"recent-posts-2\";i:2;s:17:\"recent-comments-2\";i:3;s:10:\"archives-2\";i:4;s:12:\"categories-2\";i:5;s:6:\"meta-2\";}}}}', 'yes'),
 (150, 'recovery_mode_email_last_sent', '1562843388', 'yes'),
 (163, 'recently_activated', 'a:0:{}', 'yes'),
 (174, 'acf_version', '5.8.2', 'yes'),
@@ -333,7 +333,19 @@ INSERT INTO `wp_postmeta` (`meta_id`, `post_id`, `meta_key`, `meta_value`) VALUE
 (67, 67, 'color_class', 'menu-btn-color-1'),
 (68, 67, '_color_class', 'field_5d483ba09bc99'),
 (69, 67, 'img_class', 'img-btn-1'),
-(70, 67, '_img_class', 'field_5d483d31056dc');
+(70, 67, '_img_class', 'field_5d483d31056dc'),
+(71, 70, '_edit_last', '1'),
+(72, 70, '_edit_lock', '1565016781:1'),
+(73, 72, '_menu_item_type', 'post_type'),
+(74, 72, '_menu_item_menu_item_parent', '0'),
+(75, 72, '_menu_item_object_id', '57'),
+(76, 72, '_menu_item_object', 'page'),
+(77, 72, '_menu_item_target', ''),
+(78, 72, '_menu_item_classes', 'a:1:{i:0;s:0:\"\";}'),
+(79, 72, '_menu_item_xfn', ''),
+(80, 72, '_menu_item_url', ''),
+(82, 72, 'color_class', 'b-m-b-i-color-3'),
+(83, 72, '_color_class', 'field_5d4843371002a');
 
 -- --------------------------------------------------------
 
@@ -426,7 +438,10 @@ INSERT INTO `wp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post
 (66, 1, '2019-07-31 10:56:13', '2019-07-31 07:56:13', '', 'РУКОВОДСТВО.НАУЧНО-ПЕДАГОГИЧЕСКИЙ СОСТАВ', '', 'inherit', 'closed', 'closed', '', '65-revision-v1', '', '', '2019-07-31 10:56:13', '2019-07-31 07:56:13', '', 65, 'http://inos.local/2019/07/31/65-revision-v1/', 0, 'revision', '', 0),
 (67, 1, '2019-08-05 17:16:12', '2019-08-05 14:16:12', ' ', '', '', 'publish', 'closed', 'closed', '', '67', '', '', '2019-08-05 17:30:49', '2019-08-05 14:30:49', '', 0, 'http://inos.local/?p=67', 1, 'nav_menu_item', '', 0),
 (68, 1, '2019-08-05 17:23:14', '2019-08-05 14:23:14', 'a:10:{s:4:\"type\";s:4:\"text\";s:12:\"instructions\";s:21:\"e.x. menu-btn-color-1\";s:8:\"required\";i:0;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\"\";s:5:\"class\";s:0:\"\";s:2:\"id\";s:0:\"\";}s:13:\"default_value\";s:0:\"\";s:11:\"placeholder\";s:0:\"\";s:7:\"prepend\";s:0:\"\";s:6:\"append\";s:0:\"\";s:9:\"maxlength\";s:0:\"\";}', 'Класс цвета меню', 'color_class', 'publish', 'closed', 'closed', '', 'field_5d483ba09bc99', '', '', '2019-08-05 17:23:14', '2019-08-05 14:23:14', '', 5, 'http://inos.local/?post_type=acf-field&p=68', 0, 'acf-field', '', 0),
-(69, 1, '2019-08-05 17:30:29', '2019-08-05 14:30:29', 'a:10:{s:4:\"type\";s:4:\"text\";s:12:\"instructions\";s:14:\"e.x. img-btn-1\";s:8:\"required\";i:1;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\"\";s:5:\"class\";s:0:\"\";s:2:\"id\";s:0:\"\";}s:13:\"default_value\";s:0:\"\";s:11:\"placeholder\";s:0:\"\";s:7:\"prepend\";s:0:\"\";s:6:\"append\";s:0:\"\";s:9:\"maxlength\";s:0:\"\";}', 'Класс изображения меню', 'img_class', 'publish', 'closed', 'closed', '', 'field_5d483d31056dc', '', '', '2019-08-05 17:30:29', '2019-08-05 14:30:29', '', 5, 'http://inos.local/?post_type=acf-field&p=69', 1, 'acf-field', '', 0);
+(69, 1, '2019-08-05 17:30:29', '2019-08-05 14:30:29', 'a:10:{s:4:\"type\";s:4:\"text\";s:12:\"instructions\";s:14:\"e.x. img-btn-1\";s:8:\"required\";i:1;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\"\";s:5:\"class\";s:0:\"\";s:2:\"id\";s:0:\"\";}s:13:\"default_value\";s:0:\"\";s:11:\"placeholder\";s:0:\"\";s:7:\"prepend\";s:0:\"\";s:6:\"append\";s:0:\"\";s:9:\"maxlength\";s:0:\"\";}', 'Класс изображения меню', 'img_class', 'publish', 'closed', 'closed', '', 'field_5d483d31056dc', '', '', '2019-08-05 17:30:29', '2019-08-05 14:30:29', '', 5, 'http://inos.local/?post_type=acf-field&p=69', 1, 'acf-field', '', 0),
+(70, 1, '2019-08-05 17:54:30', '2019-08-05 14:54:30', 'a:7:{s:8:\"location\";a:1:{i:0;a:1:{i:0;a:3:{s:5:\"param\";s:13:\"nav_menu_item\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:15:\"location/bottom\";}}}s:8:\"position\";s:6:\"normal\";s:5:\"style\";s:7:\"default\";s:15:\"label_placement\";s:3:\"top\";s:21:\"instruction_placement\";s:5:\"label\";s:14:\"hide_on_screen\";s:0:\"\";s:11:\"description\";s:0:\"\";}', 'Нижнее меню', '%d0%bd%d0%b8%d0%b6%d0%bd%d0%b5%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e', 'publish', 'closed', 'closed', '', 'group_5d48431f22cee', '', '', '2019-08-05 17:55:16', '2019-08-05 14:55:16', '', 0, 'http://inos.local/?post_type=acf-field-group&#038;p=70', 0, 'acf-field-group', '', 0),
+(71, 1, '2019-08-05 17:55:16', '2019-08-05 14:55:16', 'a:10:{s:4:\"type\";s:4:\"text\";s:12:\"instructions\";s:20:\"e.x. b-m-b-i-color-3\";s:8:\"required\";i:1;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\"\";s:5:\"class\";s:0:\"\";s:2:\"id\";s:0:\"\";}s:13:\"default_value\";s:0:\"\";s:11:\"placeholder\";s:0:\"\";s:7:\"prepend\";s:0:\"\";s:6:\"append\";s:0:\"\";s:9:\"maxlength\";s:0:\"\";}', 'Класс цвета меню', 'color_class', 'publish', 'closed', 'closed', '', 'field_5d4843371002a', '', '', '2019-08-05 17:55:16', '2019-08-05 14:55:16', '', 70, 'http://inos.local/?post_type=acf-field&p=71', 0, 'acf-field', '', 0),
+(72, 1, '2019-08-05 17:56:18', '2019-08-05 14:56:18', ' ', '', '', 'publish', 'closed', 'closed', '', '72', '', '', '2019-08-05 17:56:36', '2019-08-05 14:56:36', '', 0, 'http://inos.local/?p=72', 1, 'nav_menu_item', '', 0);
 
 -- --------------------------------------------------------
 
@@ -468,7 +483,8 @@ CREATE TABLE `wp_terms` (
 
 INSERT INTO `wp_terms` (`term_id`, `name`, `slug`, `term_group`) VALUES
 (1, 'Без рубрики', '%d0%b1%d0%b5%d0%b7-%d1%80%d1%83%d0%b1%d1%80%d0%b8%d0%ba%d0%b8', 0),
-(2, 'Боковое меню', '%d0%b1%d0%be%d0%ba%d0%be%d0%b2%d0%be%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e', 0);
+(2, 'Боковое меню', '%d0%b1%d0%be%d0%ba%d0%be%d0%b2%d0%be%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e', 0),
+(3, 'Нижнее меню', '%d0%bd%d0%b8%d0%b6%d0%bd%d0%b5%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e', 0);
 
 -- --------------------------------------------------------
 
@@ -488,7 +504,8 @@ CREATE TABLE `wp_term_relationships` (
 
 INSERT INTO `wp_term_relationships` (`object_id`, `term_taxonomy_id`, `term_order`) VALUES
 (1, 1, 0),
-(67, 2, 0);
+(67, 2, 0),
+(72, 3, 0);
 
 -- --------------------------------------------------------
 
@@ -511,7 +528,8 @@ CREATE TABLE `wp_term_taxonomy` (
 
 INSERT INTO `wp_term_taxonomy` (`term_taxonomy_id`, `term_id`, `taxonomy`, `description`, `parent`, `count`) VALUES
 (1, 1, 'category', '', 0, 1),
-(2, 2, 'nav_menu', '', 0, 1);
+(2, 2, 'nav_menu', '', 0, 1),
+(3, 3, 'nav_menu', '', 0, 1);
 
 -- --------------------------------------------------------
 
@@ -555,7 +573,7 @@ INSERT INTO `wp_usermeta` (`umeta_id`, `user_id`, `meta_key`, `meta_value`) VALU
 (22, 1, 'managenav-menuscolumnshidden', 'a:5:{i:0;s:11:\"link-target\";i:1;s:11:\"css-classes\";i:2;s:3:\"xfn\";i:3;s:11:\"description\";i:4;s:15:\"title-attribute\";}'),
 (23, 1, 'metaboxhidden_nav-menus', 'a:1:{i:0;s:12:\"add-post_tag\";}'),
 (24, 1, 'wp_media_library_mode', 'list'),
-(25, 1, 'nav_menu_recently_edited', '2');
+(25, 1, 'nav_menu_recently_edited', '3');
 
 -- --------------------------------------------------------
 
@@ -712,19 +730,19 @@ ALTER TABLE `wp_links`
 -- AUTO_INCREMENT для таблицы `wp_options`
 --
 ALTER TABLE `wp_options`
-  MODIFY `option_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=429;
+  MODIFY `option_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=430;
 
 --
 -- AUTO_INCREMENT для таблицы `wp_postmeta`
 --
 ALTER TABLE `wp_postmeta`
-  MODIFY `meta_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=71;
+  MODIFY `meta_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=84;
 
 --
 -- AUTO_INCREMENT для таблицы `wp_posts`
 --
 ALTER TABLE `wp_posts`
-  MODIFY `ID` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=70;
+  MODIFY `ID` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=73;
 
 --
 -- AUTO_INCREMENT для таблицы `wp_termmeta`
@@ -736,13 +754,13 @@ ALTER TABLE `wp_termmeta`
 -- AUTO_INCREMENT для таблицы `wp_terms`
 --
 ALTER TABLE `wp_terms`
-  MODIFY `term_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `term_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT для таблицы `wp_term_taxonomy`
 --
 ALTER TABLE `wp_term_taxonomy`
-  MODIFY `term_taxonomy_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `term_taxonomy_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT для таблицы `wp_usermeta`

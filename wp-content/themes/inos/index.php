@@ -99,6 +99,11 @@ get_header();
 
 
         </div>
+        <?php wp_nav_menu([
+            'theme_location' => 'bottom',
+            'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
+            'walker' => new BottomMenuWalker()
+        ]); ?>
         <div class="bottom-menu-block">
             <div class="bottom-menu-block-item b-m-b-i-color-1">
                 <p>ОСНОВНЫЕ СВЕДЕНИЯ</p>

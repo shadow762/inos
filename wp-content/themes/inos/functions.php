@@ -21,7 +21,9 @@ wp_enqueue_style('style');
 
 //регистрируем меню
 register_nav_menus(array(
-    'left'    => 'Боковое меню меню'
+    'left'    => 'Боковое меню меню',
+    'bottom'    => 'Нижнее меню'
 ));
 
 require_once "menus/LeftMenuWalker.php";
+require_once "menus/BottomMenuWalker.php";
