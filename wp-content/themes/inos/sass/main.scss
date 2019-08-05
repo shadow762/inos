@@ -19,7 +19,7 @@
   margin: 0
  }
 
-// контейнер для картинок посредине страницы
+// контейнерs для картинок
 .img-container {
   margin: 0 auto;
   width: 800px;
@@ -33,12 +33,28 @@
   height: 30%;
 
 }
+
+.f-left {
+  float: left;
+}
+
+.f-right {
+  float: right;
+}
+
+
+
 //
 // Text colors
 .txt-red {
   color: #800000!important;
 }
 // width
+
+.w400 {
+  width: 400px;
+}
+
 .w600 {
   width: 600px;
 }
@@ -70,6 +86,10 @@
 //margins paddings align
 .m0auto {
   margin: 0 auto;
+}
+
+.mt-10 {
+  margin-top: 10px;
 }
 
 .mt-20 {
@@ -108,11 +128,36 @@
   text-decoration: none;
   padding-left: 5px;
 }
+.ul-1 {
+  list-style: url("img/romb.png");
+}
+
+.ul-2 {
+  list-style: none;
+}
+
+.ul-2 a {
+  text-decoration: none;
+}
+
+
+
+
 // images
 
 .w40h24 {
   width: 40px;
   height: 24px;
+}
+
+.w25h20 {
+  width: 25px;
+  height: 20px;
+}
+
+.w100h100 {
+  width: 100px;
+  height: 100px;
 }
 
 .w100h130 {
@@ -169,4 +214,20 @@
 .txt-rout {
  transform: rotate(270deg);
   padding:  0;
+
+}
+
+.tw-25p {
+  width: 25%;
+}
+
+
+//borders
+
+.b-1p {
+  border: 1px solid black;
+}
+
+.bb2s-blue {
+  border-bottom: 2px solid blue;
 }
