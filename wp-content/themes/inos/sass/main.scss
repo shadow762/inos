@@ -45,7 +45,7 @@
 
 
 //
-// Text colors
+// Text colors and decor
 .txt-red {
   color: #800000!important;
 }
@@ -61,6 +61,12 @@
 .txt-lblue {
   color: #66349C!important;
 }
+
+.txt-und {
+  text-decoration: underline;
+}
+
+
 // width
 
 .w150 {
@@ -124,6 +130,12 @@
 .mr-10 {
   margin-right: 10px;
 }
+
+.mr-30 {
+  margin-right: 30px;
+}
+
+
 
 .ml-30 {
   margin-left: 30px;

@@ -46,6 +46,9 @@
 .txt-lblue {
   color: #66349C !important; }
 
+.txt-und {
+  text-decoration: underline; }
+
 .w150 {
   width: 150px; }
 
@@ -91,6 +94,9 @@
 
 .mr-10 {
   margin-right: 10px; }
+
+.mr-30 {
+  margin-right: 30px; }
 
 .ml-30 {
   margin-left: 30px; }
