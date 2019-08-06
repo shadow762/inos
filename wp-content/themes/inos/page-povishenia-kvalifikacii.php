@@ -15,55 +15,54 @@ get_header();
 
 
 
-    <h5 class="h4-page-header w800 m0auto tal mt-20"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
-        <i>Цель обучения:</i>
-    </h5>
+        <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">Цель обучения:</p>
+
     <p class="w800 m0auto fs18">овладение особенностями нового содержания, технологий и методики преподавания.
     </p>
 
-    <h5 class="h4-page-header w800 m0auto tal mt-20"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+    <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Уровень (ступень) образования:</i>
     </h5>
 
     <p class="w800 m0auto fs18">дополнительное к высшему профессиональному образованию.
     </p>
 
-    <h5 class="h4-page-header w800 m0auto tal mt-20"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+    <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Вид образовательной программы:</i>
     </h5>
 
     <p class="w800 m0auto fs18">дополнительная.
     </p>
 
-    <h5 class="h4-page-header w800 m0auto tal mt-20"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+    <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Категория слушателей:</i>
     </h5>
 
     <p class="w800 m0auto fs18">учителя, работники образовательных учреждений
     </p>
 
-    <h5 class="h4-page-header w800 m0auto tal mt-20"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+    <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Сроки обучения: </i>
     </h5>
 
     <p class="w800 m0auto fs18">учебный год.
     </p>
 
-    <h5 class="h4-page-header w800 m0auto tal mt-20"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+    <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Нормативный срок освоения: </i>
     </h5>
 
     <p class="w800 m0auto fs18">72,144 час.
     </p>
 
-    <h5 class="h4-page-header w800 m0auto tal mt-20"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+    <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Режим занятий: </i>
     </h5>
 
     <p class="w800 m0auto fs18">индивидуально-групповой, по расписанию.
     </p>
 
-    <h5 class="h4-page-header w800 m0auto tal mt-20"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+    <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Форма обучения: </i>
     </h5>
 

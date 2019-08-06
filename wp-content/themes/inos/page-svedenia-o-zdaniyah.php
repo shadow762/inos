@@ -1,6 +1,6 @@
 <?php
 //
-// Документы
+// Сведения о зданиях, помещениях
 //
 //
 get_header();
@@ -41,12 +41,11 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/+galereya3+/02451.jpg" alt="" class="w600 m0auto d-block mtb-20">
 
 
-     <h4 class="h4-page-header"><span>&#10023;</span>ЭКСПЛИКАЦИЯ</h4>
-    <h4 class="h4-page-header">К ПОЭТАЖНОМУ ПЛАНУ ЗДАНИЯ ИНСТИТУТА</h4>
+    <p class="w800 m0auto fs25 fb tac txt-vi "><span class="mr-10 fs35">&#10023;</span>ЭКСПЛИКАЦИЯ</p>
+    <p class="w800 m0auto fs25 fb tac txt-vi ">К ПОЭТАЖНОМУ ПЛАНУ ЗДАНИЯ ИНСТИТУТА</p>
 
-    <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/pen1.png" alt="лого раздела">
-    </div>
+
+    <img src="<?php echo get_template_directory_uri()?>/img/pen1.png" alt="" class="w150 m0auto d-block mtb-20">
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/IMG_8696 obr+.jpg" alt="">

@@ -1,6 +1,6 @@
 <?php
 //
-// Документы
+// Мат. обеспечение
 //
 //
 get_header();
@@ -13,18 +13,18 @@ get_header();
 
     </div>
 
-    <p class="w800 m0auto fs18 mt-10"><span>&#9734;</span><i>Материально-техническая база позволяет  реализовывать все заявленные образовательные программы.</i></p>
-    <p class="w800 m0auto fs18 mt-10"><span>&#9734;</span><i>По набору и состоянию помещений в Институте созданы оптимальные условия для организации образовательного процесса.</i></p>
-    <p class="w800 m0auto fs18 mt-10"><span>&#9734;</span><i>Все аудитории, где проходят занятия со слушателями, отремонтированы, оснащены необходимым оборудованием, соответствуют санитарно-гигиеническим нормам. </i></p>
-    <p class="w800 m0auto fs18 mt-10"><span>&#9734;</span><i>Рабочие места администрации, сотрудников, преподавателей; учебные аудитории имеют высокоскоростное подключение к сети Интернет.</i></p>
+    <p class="w800 m0auto fs18 mt-10 tar tar"><span class="mr-10">&#9734;</span><i>Материально-техническая база позволяет  реализовывать все заявленные образовательные программы.</i></p>
+    <p class="w800 m0auto fs18 mt-10 tar"><span class="mr-10">&#9734;</span><i>По набору и состоянию помещений в Институте созданы оптимальные условия для организации образовательного процесса.</i></p>
+    <p class="w800 m0auto fs18 mt-10 tar"><span class="mr-10">&#9734;</span><i>Все аудитории, где проходят занятия со слушателями, отремонтированы, оснащены необходимым оборудованием, соответствуют санитарно-гигиеническим нормам. </i></p>
+    <p class="w800 m0auto fs18 mt-10 tar"><span class="mr-10">&#9734;</span><i>Рабочие места администрации, сотрудников, преподавателей; учебные аудитории имеют высокоскоростное подключение к сети Интернет.</i></p>
 
-    <p class="w800 m0auto fs25 mt-20"><b><i>Оборудование учебных аудиторий Института:</i></b></p>
+    <p class="w800 m0auto fs25 mtb-20 fi fb tac"><span class="mr-10">&#10033;</span>Оборудование учебных аудиторий Института:</p>
 
 
-    <p class="w800 m0auto fs18 mt-10"><span>&#10022;</span><i>стандартный набор специализированной учебной мебели и учебного оборудования, в том числе аудиторная доска (с магнитной поверхностью и набором приспособлений для крепления демонстрационных материалов и фломастеров); </i></p>
-    <p class="w800 m0auto fs18 mt-10"><span>&#10022;</span><i>экран (навесной), оверхэд, проектор;</i></p>
-    <p class="w800 m0auto fs18 mt-10"><span>&#10022;</span><i>демонстрационные планшеты и компьютеры с доступом к информационно-телекоммуникационным сетям; </i></p>
-    <p class="w800 m0auto fs18 mt-10"><span>&#10022;</span><i>цифровые носители информации.</i></p>
+    <p class="w600 m0auto fs18 m6-10"><span class="mr-10">&#10022;</span><i>стандартный набор специализированной учебной мебели и учебного оборудования, в том числе аудиторная доска (с магнитной поверхностью и набором приспособлений для крепления демонстрационных материалов и фломастеров); </i></p>
+    <p class="w600 m0auto fs18 mt-10"><span class="mr-10">&#10022;</span><i>экран (навесной), оверхэд, проектор;</i></p>
+    <p class="w600 m0auto fs18 mt-10"><span class="mr-10">&#10022;</span><i>демонстрационные планшеты и компьютеры с доступом к информационно-телекоммуникационным сетям; </i></p>
+    <p class="w600 m0auto fs18 mt-10"><span class="mr-10">&#10022;</span><i>цифровые носители информации.</i></p>
 
 
     <div class="img-container">
@@ -40,29 +40,29 @@ get_header();
             кабинетов Института
         </th>
         <th class="tw-25p b-1p">Вид занятий</th>
-        <th>Наименование оборудования</th>
+        <th class="b-1p">Наименование оборудования</th>
     </tr>
     <tr>
-        <td class="tw-25p">Учебные
+        <td class="tw-25p b-1p tac">Учебные
             аудитории
         </td>
-        <td class="tw-25p">
+        <td class="tw-25p b-1p tac">
             Лекции,
             семинары, консультации
 
         </td>
-        <td>Компьютеры, проектор, экран,
+        <td class="b-1p tac">Компьютеры, проектор, экран,
             оверхэд, аудиторная доска, демонстрационные планшеты.
         </td>
     </tr>
         <tr>
-            <td class="tw-25p">Консультационные кабинеты
+            <td class="tw-25p b-1p tac">Консультационные кабинеты
             </td>
-            <td class="tw-25p">
+            <td class="tw-25p b-1p tac">
                 Практические занятия, консультации
 
             </td>
-            <td>Компьютеры и планшеты
+            <td class="b-1p tac">Компьютеры и планшеты
                 (с доступом к информационно-телекоммуникационным сетям, образовательным Интернет-ресурсам и полнотекстовой электронной библиотеке), презентационные материалы
                 (на цифровых носителях).
 
@@ -79,10 +79,11 @@ get_header();
     </div>
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0124_1.JPG" alt="" class="w600 m0auto d-block mtb-20">
-    <p class="w800 m0auto fs18 mt-10"><span>&#9734;</span><i>Имеются информационные стенды.</i></p>
+    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0124_1.JPG" alt="" class="w400 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0070.jpg" alt="" class="w600 m0auto d-block mtb-20">
+    <p class="w800 m0auto fs18 mt-10 tar"><span class="mr-10">&#9734;</span><i>Имеются информационные стенды.</i></p>
+
+    <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0070.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
@@ -97,26 +98,23 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0128_1+mt.JPG" alt="" class="w600 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0128_1+mt.JPG" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0132_1_1.JPG" alt="" class="w600 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0132_1_1.JPG" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0112_1.JPG" alt="" class="w600 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0112_1.JPG" alt="" class="w400 m0auto d-block mtb-20">
 
 
-    <p class="w800 m0auto fs25 mt-20"><b><i>Средства обучения: </i></b></p>
+    <p class="w800 m0auto fs25 mt-20 fi fb tac"><span class="mr-10">&#10033;</span>Средства обучения:</p>
 
-    <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-19.png" alt="лого раздела">
-    </div>
-
+    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-19.png" alt="" class="w150 m0auto d-block mtb-20">
 
     <ul class="ul-1 w600 m0auto">
         <li class="mt-20">

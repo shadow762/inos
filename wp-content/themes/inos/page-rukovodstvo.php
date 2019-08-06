@@ -10,16 +10,18 @@ get_header();
     УПРАВЛЕНИЯ ИНСТИТУТА</h2>
 
 
-    <img src="<?php  echo get_template_directory_uri() ?>/img/kts_19.png " alt="" width="400px" height="450px" class="page-center-img">
+    <img src="<?php  echo get_template_directory_uri() ?>/img/kts_19.png " alt="" class="w150 m0auto d-block">
 
 
-
-<h5 class="h4-page-header">Учредитель Негосударственного образовательного учреждения
+<p class="w800 m0auto fs25 fb tac">Учредитель Негосударственного образовательного учреждения
     дополнительного образования «ИНОС - Институт новых
     образовательных систем»:
-    Соколова Елена Александровна</h5>
+    Соколова Елена Александровна</p>
 
-<h4 class="h4-page-header">Руководители структурных подразделений Института</h4>
+
+    <p class="w800 m0auto fs25 fb tac mt-20">Руководители структурных подразделений Института</p>
+
+
 
 <div class="ruk-center-block clearfix">
     <div class="ruk-center-block-id">
