@@ -5,7 +5,7 @@
 //
 get_header();
 ?>
-    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
+
 
     <h4 class="h4-page-header mtb-20">ОБРАЗОВАНИЕ</h4>
     <h2 class="h2-page-header">ПРОГРАММЫ ПОВЫШЕНИЯ КВАЛИФИКАЦИИ РАБОТНИКОВ ОБРАЗОВАНИЯ</h2>

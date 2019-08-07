@@ -29,4 +29,14 @@
         ]); ?>
     </div>
     <div class="right-block clearfix">
+        <?php
+        $output = "<img src='" . get_template_directory_uri() . "/img/layer14.png' usemap='#top-menu' class='header-top-img mtb-20'>";
+        $output .= '<map id="top-menu" name="top-menu">%3$s</map>';
+
+        wp_nav_menu([
+            'theme_location' => 'top',
+            'items_wrap' => $output,
+            'walker' => new TopMenuWalker()
+        ]); ?>
+
 

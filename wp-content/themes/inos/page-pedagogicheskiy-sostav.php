@@ -6,7 +6,7 @@
 get_header();
 ?>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
+
 
 <h2 class="h2-page-header">РУКОВОДСТВО. НАУЧНО-ПЕДАГОГИЧЕСКИЙ СОСТАВ</h2>
 
