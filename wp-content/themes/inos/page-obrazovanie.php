@@ -1,48 +1,51 @@
 <?php
 //
-// Документы
+// Образование (подраздел)
 //
 //
 get_header();
 ?>
 
+    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
+
     <h2 class="h2-page-header">ОБРАЗОВАНИЕ</h2>
 
+        <img src="<?php echo get_template_directory_uri()?>/img/kts-20.png" alt="лого раздела" class="w250 m0auto d-block">
 
 
-    <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/kts_20.png" alt="лого раздела">
-
-    </div>
-
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span><b><i>Негосударственное образовательное учреждение
+    <p class="w600 fs18 m0auto ">
+       <img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50">
+        <b><i>Негосударственное образовательное учреждение
                 «ИНОС – Институт новых образовательных систем»,</i></b>
         работающий <b>с 1998 года,</b> осуществляет свою деятельность в соответствии <b>с лицензией</b> на право
         образовательной деятельности, выданной Департаментом образования города Москвы
     </p>
 
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span>Приоритетным направлением деятельности Института
+    <p class="w600 fs18 m0auto ">
+
+        <img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50">
+        Приоритетным направлением деятельности Института
             является <b><i>повышение квалификации педагогических работников</i></b> образовательных учреждений, сотрудничающих с ИНОС
             и работающих по образовательным программам и учебно-методическим комплектам, рекомендованным Институтом.
     </p>
 
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span>В соответствии с актуальными нормативными документами,
+    <p class="w600 fs18 m0auto "><img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50">В соответствии с актуальными нормативными документами,
         регламентирующими деятельность образовательных учреждений по повышению квалификации,
         профессорско-преподавательскими и научными кадрами Института, разработаны программы повышения квалификации,
         которые утверждены ученым советом ИНОС.
     </p>
 
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span>Программы повышения квалификации учителей и руководящих
+    <p class="w600 fs18 m0auto "><img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50">Программы повышения квалификации учителей и руководящих
         кадров общеобразовательных учреждений (дополнительно к высшему профессиональному образованию) разработаны
         по следующим педагогическим специальностям (направлениям): руководители общеобразовательной школы, учителя
         русского языка и литературы, учителя математики, учителя начальной школы.
     </p>
 
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span>Состав слушателей курсов повышения квалификации
+    <p class="w600 fs18 m0auto "><img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50">Состав слушателей курсов повышения квалификации
         педагогических кадров (группы) формируется на основе предложений образовательных учреждений.
     </p>
 
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span>Системообразующим фактором проектирования
+    <p class="w600 fs18 m0auto "><img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50">Системообразующим фактором проектирования
         учебно-тематических планов повышения квалификации является предметное содержание, определенное Федеральным
         государственным образовательным стандартом общего образования, требованиями к уровню подготовки
         и особенностями содержания образовательных программ и учебно-методических комплектов, рекомендованных
@@ -51,28 +54,28 @@ get_header();
         практических занятий, консультаций, примерная тематика письменных самостоятельных работ и др.
     </p>
 
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span><b><i>Циклы лекций</i></b> (сессии), как правило, проводятся
+    <p class="w600 fs18 m0auto "><img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50"><b><i>Циклы лекций</i></b> (сессии), как правило, проводятся
         в каникулярное время.
         К чтению лекций и проведению семинарских занятий Институт привлекает высоко квалифицированных
         преподавателей: авторов <b>Федеральных нормативных документов,</b> образовательных программ, учебников
         и учебно-методических пособий, а также педагогов-практиков.
     </p>
 
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span><b>Консультации</b> проводятся лекторами и сотрудниками
+    <p class="w600 fs18 m0auto "><img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50"><b>Консультации</b> проводятся лекторами и сотрудниками
         Института в период сессии после окончания лекционно-семинарских занятий и в соответствии с заявками
         образовательных учреждений, по мере необходимости с учетом учебно-тематических планов.
     </p>
 
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span>Тематика лекций отражает <b>актуальные проблемы</b>
+    <p class="w600 fs18 m0auto "><img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50">Тематика лекций отражает <b>актуальные проблемы</b>
         содержания образовательной области (учебного предмета), методики и технологии преподавания, а также
         современные направления в развитии образования.
     </p>
 
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span>Институт предоставляет слушателям возможность посещения
+    <p class="w600 fs18 m0auto "><img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50">Институт предоставляет слушателям возможность посещения
         лекционных занятий сверх часов, установленных учебно-тематическим планом.
     </p>
 
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span>Повышение квалификации осуществляется <b>в свободное от
+    <p class="w600 fs18 m0auto "><img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50">Повышение квалификации осуществляется <b>в свободное от
         основной работы время,</b> поэтому важное значение придается самостоятельной работе слушателей.
     </p>
 
@@ -90,7 +93,7 @@ get_header();
     <p class="w600 m0auto"><span class="fs18">&#10004;</span>работу с родительской общественностью;
     </p>
 
-    <p class="w600 m0auto "><span class="fs35 mr-10 ml-30">&#9986;</span>Слушатели курсов повышения квалификации <b>получают
+    <p class="w600 fs18 m0auto "><img src="<?php echo get_template_directory_uri()?>/img/scissors.png" class="w50h50">Слушатели курсов повышения квалификации <b>получают
         ежемесячную стипендию,</b> которая выплачивается Институтом из средств, перечисляемых родителями в виде
         добровольных целевых взносов на уставную деятельность Института.
     </p>
@@ -101,7 +104,7 @@ get_header();
         <img src="<?php echo get_template_directory_uri()?>/img/file27.png" alt="">
     </div>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0102_1+.JPG" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0102_1+.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
 
@@ -109,35 +112,65 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0067_1.JPG" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0067_1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0061_1.JPG" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0061_1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0119_1.JPG" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0119_1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0055_1.JPG" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0055_1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0127_1+doc.JPG" alt="фото" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0129+obr.JPG" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0127_1+doc.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0129+obr.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
     <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0066FR2.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0123_1_1.JPG" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0123_1_1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0066_1.JPG" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0066_1.jpg" alt="фото" class="w600 m0auto d-block">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0139_3gal2+obr.jpg" alt="фото" class="w600 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0139_3gal2+obr.jpg" alt="фото" class="w250 m0auto d-block mtb-20">
 
 
-<!--    <img src="--><?php //echo get_template_directory_uri()?><!--/img/gallery/doc31.jpg" alt="" class="w600 m0auto d-block">-->
+    <!--Нижнее меню-->
+    <div class="bottom-pic-block">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
+        </div>
+
+
+    </div>
+<?php wp_nav_menu([
+    'theme_location' => 'bottom',
+    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
+    'walker' => new BottomMenuWalker()
+]); ?>
 
 
 <?php get_footer(); ?>

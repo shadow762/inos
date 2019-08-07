@@ -6,11 +6,13 @@
 get_header();
 ?>
 
+    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
+
     <h2 class="h2-page-header">ДОКУМЕНТЫ</h2>
 
-    <h4 class="h4-page-header">ИНСТИТУТА НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ</h4>
+    <h4 class="h4-page-header mt-20">ИНСТИТУТА НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ</h4>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-6.png" alt="" class="w150 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-6.png" alt="" class="w250 m0auto d-block mtb-20">
 
     <p class="w800 m0auto fs18 fb txt-red tac">Законодательные и нормативные правовые акты, регламентирующие деятельность Негосударственное
         образовательное учреждение дополнительного образования </p>
@@ -500,11 +502,39 @@ get_header();
         <li class="fb"><span class="mr-10">&#10022;</span><a href="#">Положение о внутриучрежденческом контроле</a></li>
     </ul>
 
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/doc31.jpg" alt="" class="w250 m0auto d-block mtb-20">
+
+    <!--Нижнее меню-->
+    <div class="bottom-pic-block">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
+        </div>
 
 
-
-
-    <img src="<?php echo get_template_directory_uri()?>/img/gallery/doc31.jpg" alt="" class="w400 m0auto d-block">
+    </div>
+<?php wp_nav_menu([
+    'theme_location' => 'bottom',
+    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
+    'walker' => new BottomMenuWalker()
+]); ?>
 
 
 <?php get_footer(); ?>

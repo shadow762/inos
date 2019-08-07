@@ -16,7 +16,7 @@
 
 get_header();
 ?>
-    <img src="<?php echo get_template_directory_uri()?>/img/Layer14.png" alt="" class="header-top-img mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
 <!--    <h1>ИНСТИТУТ</h1>-->
 <!--    <h2 class="h2-page-header">НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ</h2>-->
 <!--    <img src="--><?php //echo get_template_directory_uri() ?><!--/img/inos-book.png" alt="" width="600px" height="430px" class="page-center-img" >-->
@@ -45,10 +45,12 @@ get_header();
         </ul>
     </div>
 
-    <p class="w600 m0auto fs35 fb tac txt-vi">
-        <span class="mr-10 fs35">&#9872;</span>
-        ГЛАВНАЯ
-    </p>
+<!--    <p class="w600 m0auto fs35 fb tac txt-vi">-->
+<!--        <span class="mr-10 fs35">&#9872;</span>-->
+<!---->
+<!--    </p>-->
+
+    <h2 class="h2-page-header mt-20">ГЛАВНАЯ СТРАНИЦА</h2>
 
 
 

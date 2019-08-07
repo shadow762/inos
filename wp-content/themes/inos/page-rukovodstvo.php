@@ -6,20 +6,24 @@
 get_header();
 ?>
 
-<h2 class="h2-page-header">РУКОВОСТВО. СТРУКТУРА И ОРГАНЫ
-    УПРАВЛЕНИЯ ИНСТИТУТА</h2>
+    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
 
 
-    <img src="<?php  echo get_template_directory_uri() ?>/img/kts_19.png " alt="" class="w150 m0auto d-block">
+<h2 class="h2-page-header">РУКОВОДСТВО</h2>
+    <h2 class="h2-page-header">СТРУКТУРА И ОРГАНЫ
+        УПРАВЛЕНИЯ ИНСТИТУТА</h2>
 
 
-<p class="w800 m0auto fs25 fb tac">Учредитель Негосударственного образовательного учреждения
+    <img src="<?php  echo get_template_directory_uri() ?>/img/kts-19.png " alt="" class="w250 m0auto d-block">
+
+
+<p class="w800 m0auto fs25  fi tac">Учредитель Негосударственного образовательного учреждения
     дополнительного образования «ИНОС - Институт новых
     образовательных систем»:
-    Соколова Елена Александровна</p>
+    <span class="txt-red fb">Соколова Елена Александровна</span></p>
 
 
-    <p class="w800 m0auto fs25 fb tac mt-20">Руководители структурных подразделений Института</p>
+    <p class="w800 m0auto fs25 fb fi tac mt-20">Руководители структурных подразделений Института</p>
 
 
 
@@ -37,7 +41,7 @@ get_header();
     </div>
     <div class="ruk-center-block-contacts">
         <p><img src="<?php echo get_template_directory_uri()?>/img/lan9.png" alt=""> <b>Тел./Факс 8 (495)382-07-37</b></p>
-        <p><img src="<?php echo get_template_directory_uri()?>/img/HP-mobile-icon.png" alt=""> <b>Тел. 8 (903)726-27-54</b></p>
+        <p><img src="<?php echo get_template_directory_uri()?>/img/hp-mobile-icon.png" alt=""> <b>Тел. 8 (903)726-27-54</b></p>
         <p><img src="<?php echo get_template_directory_uri()?>/img/butor.png" alt=""> <b>E-mail: <a href="mailto:inosss@bk.ru">inosss@bk.ru</a></b></p>
     </div>
 
@@ -84,7 +88,7 @@ get_header();
         </div>
     </div>
 
-    <div class="ruk-center-block clearfix">
+    <div class="ruk-center-block clearfix mtb-20">
         <div class="ruk-center-block-id">
             <span><b>Сидорович</b></span>
             <span>Роман</span>
@@ -99,15 +103,43 @@ get_header();
         </div>
         <div class="ruk-center-block-contacts">
             <p><img src="<?php echo get_template_directory_uri()?>/img/lan9.png" alt=""> <b>Тел./Факс 8 (495)382 09 84</b></p>
-            <p><img src="<?php echo get_template_directory_uri()?>/img/HP-mobile-icon.png" alt=""> <b>Тел. 8 (495)381 10 87</b></p>
+            <p><img src="<?php echo get_template_directory_uri()?>/img/hp-mobile-icon.png" alt=""> <b>Тел. 8 (495)381 10 87</b></p>
             <p><img src="<?php echo get_template_directory_uri()?>/img/butor.png" alt=""> <b>E-mail: <a href="mailto:roman20.05@yandex.ru">roman20.05@yandex.ru</a></b></p>
         </div>
     </div>
 
 
+    <!--Нижнее меню-->
+    <div class="bottom-pic-block">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
+        </div>
 
 
     </div>
+<?php wp_nav_menu([
+    'theme_location' => 'bottom',
+    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
+    'walker' => new BottomMenuWalker()
+]); ?>
 
 
 

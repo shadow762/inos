@@ -1,11 +1,14 @@
 <?php
 //
-// Основные сведения об институте
+// Реквизиты
 //
 //
 get_header();
 ?>
 
+    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
+
+    <h4 class="h4-page-header mtb-20">ОСНОВНЫЕ СВЕДЕНИЯ ОБ ИНСТИТУТЕ</h4>
     <h2 class="h2-page-header">РЕКВИЗИТЫ</h2>
 
     <div class="sved-info-block">
@@ -18,8 +21,6 @@ get_header();
         <p>(НОУ ДО «ИНОС»)</p>
         <p></p>
     </div>
-
-
 
     <div class="rekv-info-block">
         <div class="rekv-info-block-header">
@@ -113,9 +114,9 @@ get_header();
         <p></p>
     </div>
 
-    <div class="rekv-img-block">
-        <img src="<?php echo get_template_directory_uri()?>/img/Kts_brume_oceane.png" alt="" width="400px" height="240px">
-        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-4.png" alt="" width="240px">
+    <div class="img-container">
+        <img src="<?php echo get_template_directory_uri()?>/img/kts_brume_oceane.png" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-4.png" alt="">
     </div>
 
     <div class="rekv-info-block">
@@ -129,7 +130,6 @@ get_header();
     </div>
     <div class="rekv-img-block">
         <img src="<?php echo get_template_directory_uri()?>/img/bad_clock.png" alt="" width="400px">
-
     </div>
 
     <div class="rekv-info-block">
@@ -163,15 +163,50 @@ get_header();
         <p></p>
     </div>
 
-    <div class="rekv-img-block">
-        <img src="<?php echo get_template_directory_uri()?>/img/sea-breeze.png" alt="" width="400px" height="400px">
-        <img src="<?php echo get_template_directory_uri()?>/img/sea-breeze.png" alt="" width="400px" height="400px">
+<!--    <div class="rekv-img-block">-->
+<!--        <img src="--><?php //echo get_template_directory_uri()?><!--/img/sea-breeze.png" alt="" width="400px" height="400px">-->
+<!--        <img src="--><?php //echo get_template_directory_uri()?><!--/img/sea-breeze.png" alt="" width="400px" height="400px">-->
+<!--    </div>-->
 
+    <div class="img-container">
+        <img src="<?php echo get_template_directory_uri()?>/img/sea-breeze.png" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/sea-breeze.png" alt="">
     </div>
 
-<p class="sved-center-text">
-    станция метро «Пражская», 1-й вагон из центра, выход к торговому центру «Электронный рай», автобусы № 797, 680, до остановки «Россошанский проезд».
-</p>
+<p class="w800 m0auto fs25 mtb-20 txt-vi">станция метро «Пражская», 1-й вагон из центра,
+    выход к торговому центру «Электронный рай», автобусы № 797, 680, до остановки «Россошанский проезд».</p>
+
+    <!--Нижнее меню-->
+    <div class="bottom-pic-block">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
+        </div>
+
+
+    </div>
+<?php wp_nav_menu([
+    'theme_location' => 'bottom',
+    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
+    'walker' => new BottomMenuWalker()
+]); ?>
 
 
 
