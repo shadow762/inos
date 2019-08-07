@@ -6,15 +6,12 @@
 get_header();
 ?>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/plenka.png" alt="" class="w150 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
 
-    <p class="w600 m0auto fs25 fb tac"><span class="mr-10 fs25">&#9872;</span>ЭЛЕКТРОННЫЕ ОБРАЗОВАТЕЛЬНЫЕ РЕСУРСЫ
-    </p>
-    <p class="w600 m0auto fs18 fb tac"><span class="mr-10 fs25">&#9872;</span>ВИДЕОЛЕКЦИИ
-    </p>
+    <img src="<?php echo get_template_directory_uri()?>/img/plenka.png" alt="" class="w250 m0auto d-block mtb-20">
 
-
-
+    <h4 class="h4-page-header">ЭЛЕКТРОННЫЕ ОБРАЗОВАТЕЛЬНЫЕ РЕСУРСЫ</h4>
+    <h2 class="h2-page-header mt-20">ВИДЕОЛЕКЦИИ</h2>
 
 
 
@@ -32,7 +29,7 @@ get_header();
     </ul>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://univertv.ru/">http://univertv.ru/</a>
+        Адрес ресурса: <a href="http://univertv.ru/" target="_blank">http://univertv.ru/</a>
     </p>
 
 
@@ -51,7 +48,7 @@ get_header();
     </ul>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://videolectures.net/">http://videolectures.net/</a>
+        Адрес ресурса: <a href="http://videolectures.net/" target="_blank">http://videolectures.net/</a>
     </p>
 
 
@@ -67,8 +64,41 @@ get_header();
     </ul>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://www.lektorium.tv/">http://www.lektorium.tv/</a>
+        Адрес ресурса: <a href="http://www.lektorium.tv/" target="_blank">http://www.lektorium.tv/</a>
     </p>
+
+    <p class="mtb-20"></p>
+    <!--Нижнее меню-->
+    <div class="bottom-pic-block">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
+        </div>
+
+
+    </div>
+<?php wp_nav_menu([
+    'theme_location' => 'bottom',
+    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
+    'walker' => new BottomMenuWalker()
+]); ?>
 
 
 <?php get_footer(); ?>
