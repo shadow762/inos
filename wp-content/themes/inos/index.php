@@ -16,7 +16,15 @@
 
 get_header();
 ?>
-    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
+<?php
+$output = "<img src='" . get_template_directory_uri() . "/img/layer14.png' usemap='#top-menu' class='header-top-img mtb-20'>";
+$output .= '<map id="top-menu" name="top-menu">%3$s</map>';
+
+wp_nav_menu([
+    'theme_location' => 'top',
+    'items_wrap' => $output,
+    'walker' => new TopMenuWalker()
+]); ?>
 <!--    <h1>ИНСТИТУТ</h1>-->
 <!--    <h2 class="h2-page-header">НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ</h2>-->
 <!--    <img src="--><?php //echo get_template_directory_uri() ?><!--/img/inos-book.png" alt="" width="600px" height="430px" class="page-center-img" >-->
