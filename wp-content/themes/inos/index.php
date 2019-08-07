@@ -106,25 +106,25 @@ get_header();
 
     <div class="bottom-pic-block">
         <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-14.png" alt="" class="w100phi">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
         </div>
         <div class="pic-block-item">
-            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-7.png" alt="" class="w100phi">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
         </div>
         <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-4.png" alt="" class="w100phi">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
         </div>
         <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-30.png" alt="" class="w100phi">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
         </div>
         <div class="pic-block-item">
-            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-3.png" alt="" class="w100phi">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
         </div>
         <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-9.png" alt="" class="w100phi">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
         </div>
         <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-19.png" alt="" class="w100phi">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
         </div>
 
 
