@@ -6,13 +6,12 @@
 get_header();
 ?>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/display10.png" alt="" class="w150 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
 
-    <p class="w600 m0auto fs25 fb tac"><span class="mr-10 fs25">&#9872;</span>ЭЛЕКТРОННЫЕ ОБРАЗОВАТЕЛЬНЫЕ РЕСУРСЫ
-    </p>
-    <p class="w600 m0auto fs18 fb tac"><span class="mr-10 fs25">&#9872;</span>КОМПЛЕКСНЫЕ РЕСУРСЫ
-    </p>
+    <img src="<?php echo get_template_directory_uri()?>/img/display10.png" alt="" class="w250 m0auto d-block mtb-20">
 
+    <h4 class="h4-page-header">ЭЛЕКТРОННЫЕ ОБРАЗОВАТЕЛЬНЫЕ РЕСУРСЫ</h4>
+    <h2 class="h2-page-header mt-20">КОМПЛЕКСНЫЕ РЕСУРСЫ</h2>
 
 
 
@@ -24,7 +23,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://www.edu.ru/">http://www.edu.ru/</a>
+        Адрес ресурса: <a href="http://www.edu.ru/" target="_blank">http://www.edu.ru/</a>
     </p>
 
 
@@ -33,7 +32,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://school-collection.edu.ru/">http://school-collection.edu.ru/</a>
+        Адрес ресурса: <a href="http://school-collection.edu.ru/" target="_blank">http://school-collection.edu.ru/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Федеральный центр информационно-образовательных ресурсов</p>
@@ -42,7 +41,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://fcior.edu.ru/">: http://fcior.edu.ru/</a>
+        Адрес ресурса: <a href="http://fcior.edu.ru/" target="_blank">: http://fcior.edu.ru/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Pedsovet</p>
@@ -52,7 +51,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://pedsovet.su/">http://pedsovet.su/</a>
+        Адрес ресурса: <a href="http://pedsovet.su/" target="_blank">http://pedsovet.su/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Педагогика</p>
@@ -61,7 +60,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://paidagogos.com/">http://paidagogos.com/</a>
+        Адрес ресурса: <a href="http://paidagogos.com/" target="_blank">http://paidagogos.com/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Библиотека начинающего педагога</p>
@@ -72,7 +71,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://vashabnp.info/">http://vashabnp.info/</a>
+        Адрес ресурса: <a href="http://vashabnp.info/" target="_blank">http://vashabnp.info/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Педагогика для всех</p>
@@ -81,7 +80,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://www.profile-edu.ru/">http://www.profile-edu.ru/</a>
+        Адрес ресурса: <a href="http://www.profile-edu.ru/" target="_blank">http://www.profile-edu.ru/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Занимательная педагогика</p>
@@ -92,7 +91,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://www.zanimatika.ru/">http://www.zanimatika.ru/</a>
+        Адрес ресурса: <a href="http://www.zanimatika.ru/" target="_blank">http://www.zanimatika.ru/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Сообщество педагогов "Я - Учитель!" - сайт для учителей</p>
@@ -101,7 +100,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://ya-uchitel.ru/">http://ya-uchitel.ru/</a>
+        Адрес ресурса: <a href="http://ya-uchitel.ru/" target="_blank">http://ya-uchitel.ru/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Education World</p>
@@ -111,7 +110,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://www.educationworld.com/">http://www.educationworld.com/</a>
+        Адрес ресурса: <a href="http://www.educationworld.com/" target="_blank">http://www.educationworld.com/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Edutopia</p>
@@ -120,13 +119,11 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://www.edutopia.org/article/new-teacher-resources-toolkit">http://www.edutopia.org/article/new-teacher-resources-toolkit</a>
+        Адрес ресурса: <a href="http://www.edutopia.org/article/new-teacher-resources-toolkit" target="_blank">http://www.edutopia.org/article/new-teacher-resources-toolkit</a>
     </p>
 
 
-    <p class="w600 m0auto fs18 fb tac mtb-20"><span class="mr-10 fs25">&#9872;</span>ПЕРИОДИЧЕСКИЕ ИЗДАНИЯ
-    </p>
-
+    <h4 class="h4-page-header mtb-20 fb">ПЕРИОДИЧЕСКИЕ ИЗДАНИЯ</h4>
 
     <p class="w800 m0auto fs18 fb mt-20">Журнал «Вестник образования»</p>
     <p class="w600 m0auto fs18">Журнал является единственным официальным изданием Министерства Просвещения
@@ -137,7 +134,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://vestnik.apkpro.ru/">http://vestnik.apkpro.ru/</a>
+        Адрес ресурса: <a href="http://vestnik.apkpro.ru/" target="_blank">http://vestnik.apkpro.ru/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Журнал «Педагогика»</p>
@@ -147,7 +144,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://pedagogika-rao.ru/">http://pedagogika-rao.ru/</a>
+        Адрес ресурса: <a href="http://pedagogika-rao.ru/" target="_blank">http://pedagogika-rao.ru/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Журнал «Педагогика и психология образования»</p>
@@ -159,7 +156,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://mggu-sh.ru/vestnik/pedagogika-i-psihologiya">http://mggu-sh.ru/vestnik/pedagogika-i-psihologiya</a>
+        Адрес ресурса: <a href="http://mggu-sh.ru/vestnik/pedagogika-i-psihologiya" target="_blank">http://mggu-sh.ru/vestnik/pedagogika-i-psihologiya</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Журнал «Учитель»</p>
@@ -170,7 +167,7 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://ychitel.com/">http://ychitel.com/</a>
+        Адрес ресурса: <a href="http://ychitel.com/" target="_blank">http://ychitel.com/</a>
     </p>
 
     <p class="w800 m0auto fs18 fb mt-20">Издательский дом «Первое сентября»</p>
@@ -179,7 +176,40 @@ get_header();
     </p>
     <p class="w800 m0auto fs18 mt-10">
         <span class="fs18 mr-10">&#128187;</span>
-        Адрес ресурса: <a href="http://1september.ru/">http://1september.ru/</a>
+        Адрес ресурса: <a href="http://1september.ru/" target="_blank">http://1september.ru/</a>
     </p>
+
+    <p class="mtb-20"></p>
+    <!--Нижнее меню-->
+    <div class="bottom-pic-block">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
+        </div>
+
+
+    </div>
+<?php wp_nav_menu([
+    'theme_location' => 'bottom',
+    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
+    'walker' => new BottomMenuWalker()
+]); ?>
 
 <?php get_footer(); ?>

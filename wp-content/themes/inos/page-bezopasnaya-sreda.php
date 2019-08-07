@@ -6,20 +6,16 @@
 get_header();
 ?>
 
-    <h2 class="h2-page-header"><span>&#8962;</span>БЕЗОПАСНАЯ СРЕДА</h2>
+    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
 
-    <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-15.png" alt="лого раздела">
+    <h2 class="h2-page-header">БЕЗОПАСНАЯ СРЕДА</h2>
 
-    </div>
+    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-15.png" alt="" class="w200 m0auto d-block mtb-20">
 
-    <h4 class="h4-page-header">ОХРАНА ТРУДА И БЕЗОПАСНОСТЬ В ИНСТИТУТЕ</h4>
+    <h4 class="h4-page-header fb"><span class="fb fs25 mr-10">&#10033;</span>ОХРАНА ТРУДА И БЕЗОПАСНОСТЬ В ИНСТИТУТЕ</h4>
 
 
-    <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/display.png" alt="лого раздела">
-
-    </div>
+    <img src="<?php echo get_template_directory_uri()?>/img/display.png" alt="" class="w200 m0auto d-block mtb-20">
 
 
     <p class="w800 m0auto fs18 mt-10 fi fb tar"><span class="mr-10">&#9734;</span>В Институте на должном уровне обеспечивается охрана труда и безопасность.</p>
@@ -29,10 +25,10 @@ get_header();
 
     <p class="w800 m0auto fs18 mt-20 fb tac"><span class="mr-10">&#128394;</span>ЗАКОНОДАТЕЛЬНЫЕ И НОРМАТИВНЫЕ ПРАВОВЫЕ АКТЫ,</p>
     <p class="w800 m0auto fs18 fb tac">РЕГЛАМЕНТИРУЮЩИЕ ДЕЯТЕЛЬНОСТЬ ИНСТИТУТА</p>
-    <p class="w600 m0auto fs18 fb tac mt-20">ПО ОХРАНЕ ТРУДА И БЕЗОПАСНОСТИ:</p>
+    <p class="w600 m0auto fs18 fb tac mtb-20">ПО ОХРАНЕ ТРУДА И БЕЗОПАСНОСТИ:</p>
 
 
-    <ul class="w800 m0auto ul-2 txt-vi">
+    <ul class="w800 m0auto fs18 ul-2 txt-vi mtb-20">
         <li class="fb"><span class="mr-10">&#10022;</span>Постановления и распоряжения Правительства Российской Федерации.</li>
         <li class="fb"><span class="mr-10">&#10022;</span>Трудовой Кодекс Российской Федерации.</li>
         <li class="fb"><span class="mr-10">&#10022;</span>Федеральный закон Российской Федерации Л2181 ФЗ.</li>
@@ -74,12 +70,12 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/IMG_8729.JPG" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/img_8729.jpg" alt="">
 
 
     </div>
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/IMG_8705.JPG" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/img_8705.jpg" alt="">
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">
@@ -96,10 +92,10 @@ get_header();
 
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/IMG_8699.JPG" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/img_8699.jpg" alt="">
     </div>
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/IMG_8680.JPG" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/img_8680.jpg" alt="">
     </div>
 
 
@@ -129,7 +125,7 @@ get_header();
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/users.png" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/butor26.JPG" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/butor26.jpg" alt="">
     </div>
 
 
@@ -199,7 +195,7 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/IMG_8734.JPG" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8734.jpg" alt="">
     </div>
 
 
@@ -215,12 +211,12 @@ get_header();
         <img src="<?php echo get_template_directory_uri()?>/img/file27.png" alt="лого раздела">
     </div>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0096_1.JPG" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0096_1.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0098_1.JPG" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0098_1.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/butor4.png" alt="" class="w150 m0auto d-block mtb-20">
@@ -237,8 +233,8 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/IMG_8722.JPG" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/IMG_8717.JPG" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8722.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8717.jpg" alt="">
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">
@@ -254,12 +250,12 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/IMG_8732.JPG" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/IMG_8726.JPG" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8732.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8726.jpg" alt="">
     </div>
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/IMG_8710.JPG" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/IMG_8678.JPG" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8710.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8678.jpg" alt="">
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">
@@ -282,21 +278,20 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/IMG_8723.JPG" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/IMG_8694.JPG" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8723.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8694.jpg" alt="">
     </div>
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <p class="w600 m0auto fs18 fb tac"><span class="mr-10 fs25">&#9872;</span>ПРОТИВОПОЖАРНАЯ БЕЗОПАСНОСТЬ В ИНСТИТУТЕ
-    </p>
+    <h4 class="h4-page-header fb"><span class="fb fs25 mr-10">&#10033;</span>ПРОТИВОПОЖАРНАЯ БЕЗОПАСНОСТЬ В ИНСТИТУТЕ</h4>
 
     <p class="w800 m0auto fs18 mt-20 fb tac"><span class="mr-10">&#128394;</span>ЗАКОНОДАТЕЛЬНЫЕ И НОРМАТИВНЫЕ ПРАВОВЫЕ АКТЫ,</p>
     <p class="w800 m0auto fs18 fb tac">РЕГЛАМЕНТИРУЮЩИЕ ДЕЯТЕЛЬНОСТЬ ИНСТИТУТА</p>
     <p class="w600 m0auto fs18 fb tac mt-20">ПО ПРОТИВОПОЖАРНОЙ БЕЗОПАСНОСТИ:</p>
 
 
-    <ul class="w800 m0auto ul-2 txt-vi">
+    <ul class="w800 m0auto fs18 ul-2 txt-vi">
         <li class="fb"><span class="mr-10">&#10022;</span>Федеральный закон от 22.07.2008 № 123-ФЗ «Технический регламент о требованиях
             пожарной безопасности»;</li>
         <li class="fb"><span class="mr-10">&#10022;</span>Федеральный закон от 21.12.1994 № 69-ФЗ «О пожарной безопасности»;</li>
@@ -350,7 +345,7 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0064_1.JPG" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0064_1.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
@@ -381,6 +376,40 @@ get_header();
 
 
 <!--    <img src="--><?php //echo get_template_directory_uri()?><!--/img/gallery/doc31.jpg" alt="" class="w400 m0auto d-block">-->
+
+    <p class="mtb-20"></p>
+    <!--Нижнее меню-->
+    <div class="bottom-pic-block">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
+        </div>
+
+
+    </div>
+<?php wp_nav_menu([
+    'theme_location' => 'bottom',
+    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
+    'walker' => new BottomMenuWalker()
+]); ?>
+
 
 
 <?php get_footer(); ?>

@@ -5,6 +5,8 @@
 //
 get_header();
 ?>
+    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
+
     <h2 class="h2-page-header">МАТЕРИАЛЬНО-ТЕХНИЧЕСКОЕ ОБЕСПЕЧЕНИЕ И ОСНАЩЕННОСТЬ ОБРАЗОВАТЕЛЬНОГО ПРОЦЕССА</h2>
 
     <div class="img-container">
@@ -18,8 +20,7 @@ get_header();
     <p class="w800 m0auto fs18 mt-10 tar"><span class="mr-10">&#9734;</span><i>Все аудитории, где проходят занятия со слушателями, отремонтированы, оснащены необходимым оборудованием, соответствуют санитарно-гигиеническим нормам. </i></p>
     <p class="w800 m0auto fs18 mt-10 tar"><span class="mr-10">&#9734;</span><i>Рабочие места администрации, сотрудников, преподавателей; учебные аудитории имеют высокоскоростное подключение к сети Интернет.</i></p>
 
-    <p class="w800 m0auto fs25 mtb-20 fi fb tac"><span class="mr-10">&#10033;</span>Оборудование учебных аудиторий Института:</p>
-
+    <h4 class="h4-page-header fb mtb-20"><span class="fb fs25 mr-10">&#10033;</span>Оборудование учебных аудиторий Института:</h4>
 
     <p class="w600 m0auto fs18 m6-10"><span class="mr-10">&#10022;</span><i>стандартный набор специализированной учебной мебели и учебного оборудования, в том числе аудиторная доска (с магнитной поверхностью и набором приспособлений для крепления демонстрационных материалов и фломастеров); </i></p>
     <p class="w600 m0auto fs18 mt-10"><span class="mr-10">&#10022;</span><i>экран (навесной), оверхэд, проектор;</i></p>
@@ -34,7 +35,7 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <table class="w600 m0auto">
+    <table class="w600 m0auto bkg-we">
     <tr>
         <th class="tw-25p b-1p">Наименование специализированных аудиторий,
             кабинетов Института
@@ -81,7 +82,7 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0124_1.JPG" alt="" class="w400 m0auto d-block mtb-20">
 
-    <p class="w800 m0auto fs18 mt-10 tar"><span class="mr-10">&#9734;</span><i>Имеются информационные стенды.</i></p>
+    <p class="w800 m0auto fs18 mt-10 fb txt-vi tar"><span class="mr-10">&#9734;</span><i>Имеются информационные стенды.</i></p>
 
     <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0070.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
@@ -112,9 +113,8 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0112_1.JPG" alt="" class="w400 m0auto d-block mtb-20">
 
 
-    <p class="w800 m0auto fs25 mt-20 fi fb tac"><span class="mr-10">&#10033;</span>Средства обучения:</p>
-
-    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-19.png" alt="" class="w150 m0auto d-block mtb-20">
+    <h4 class="h4-page-header fb mtb-20"><span class="fb fs25 mr-10">&#10033;</span>Средства обучения:</h4>
+    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-19.png" alt="" class="w250 m0auto d-block mtb-20">
 
     <ul class="ul-1 w600 m0auto">
         <li class="mt-20">
@@ -175,8 +175,40 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0127_1+mt.jpg" alt="" class="w500 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0127_1+mt.jpg" alt="" class="w250 m0auto d-block mtb-20">
 
+    <p class="mtb-20"></p>
+    <!--Нижнее меню-->
+    <div class="bottom-pic-block">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
+        </div>
+
+
+    </div>
+<?php wp_nav_menu([
+    'theme_location' => 'bottom',
+    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
+    'walker' => new BottomMenuWalker()
+]); ?>
 
 
 

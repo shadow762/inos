@@ -6,11 +6,11 @@
 get_header();
 ?>
 
+    <img src="<?php echo get_template_directory_uri()?>/img/layer14.png" alt="" class="header-top-img mtb-20">
+
 <h2 class="h2-page-header">РУКОВОДСТВО. НАУЧНО-ПЕДАГОГИЧЕСКИЙ СОСТАВ</h2>
 
-<div class="img-container">
-    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-10.png" alt="лого раздела">
-</div>
+    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-10.png" alt="" class="w250 m0auto d-block mtb-20">
 
 
 <div class="ruk-center-block clearfix">
@@ -57,32 +57,62 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
 
-    <p class="w800 m0auto fs18 mt-20"><img src="<?php echo get_template_directory_uri()?>/img/img-btn-12.png" alt="" class="w100h130">
+    <p class="w800 m0auto fb fi fs18 mtb-20"><img src="<?php echo get_template_directory_uri()?>/img/img-btn-12.png" alt="" class="w100h100">
 
         К чтению лекций и проведению семинарских занятий Институт привлекает высококвалифицированных
         преподавателей: авторов образовательных программ, учебников и учебно-методических пособий, а также
         ученых, научных сотрудников Российской Академии образования и высшей школы, педагогов-практиков, среди которых:
     </p>
 
-    <ul class="w600 m0auto fs25 mt-20">
-        <li> - 16  - ДОКТОРОВ НАУК (30%),   </li>
-        <li> - 31 - КАНДИДАТ НАУК (60%),</li>
-        <li> -7 - ЗАСЛУЖЕННЫЕ УЧИТЕЛЯ ШКОЛЫ (10%).</li>
-    </ul>
+<!--    <ul class="w600 m0auto fs25 mt-20">-->
+<!--        <li> - 16  - ДОКТОРОВ НАУК (30%),   </li>-->
+<!--        <li> - 31 - КАНДИДАТ НАУК (60%),</li>-->
+<!--        <li> -7 - ЗАСЛУЖЕННЫЕ УЧИТЕЛЯ ШКОЛЫ (10%).</li>-->
+<!--    </ul>-->
+<!---->
+<!--    <h4 class="h4-page-header mt-20">ПЕДАГОГИЧЕСКИЙ-->
+<!--        (НАУЧНО-ПЕДАГОГИЧЕСКИЙ) СОСТАВ-->
+<!--    </h4>-->
+<!---->
+<!---->
+<!--    <div class="img-container">-->
+<!--        <img src="--><?php //echo get_template_directory_uri()?><!--/img/business.png" alt="лого раздела">-->
+<!--    </div>-->
+<!---->
+<!---->
+<!--    <img src="--><?php //echo get_template_directory_uri()?><!--/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">-->
 
-    <h4 class="h4-page-header mt-20">ПЕДАГОГИЧЕСКИЙ
-        (НАУЧНО-ПЕДАГОГИЧЕСКИЙ) СОСТАВ
-    </h4>
+    <!--Нижнее меню-->
+    <div class="bottom-pic-block">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
+        </div>
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
+        </div>
 
 
-    <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/business.png" alt="лого раздела">
     </div>
-
-
-    <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
-
-
+<?php wp_nav_menu([
+    'theme_location' => 'bottom',
+    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
+    'walker' => new BottomMenuWalker()
+]); ?>
 
 
 
