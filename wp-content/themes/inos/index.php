@@ -16,12 +16,12 @@
 
 get_header();
 ?>
-    <img src="img/Layer%2014.png" alt="" class="header-top-img">
-    <h1>ИНСТИТУТ</h1>
-    <h2 class="h2-page-header">НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ</h2>
-    <img src="<?php echo get_template_directory_uri() ?>/img/inos-book.png" alt="" width="600px" height="430px" class="page-center-img" >
-    <h3>«ИНОС – ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»</h3>
-    <h3>негосударственное образовательное учреждение</h3>
+    <img src="<?php echo get_template_directory_uri()?>/img/Layer14.png" alt="" class="header-top-img mtb-20">
+<!--    <h1>ИНСТИТУТ</h1>-->
+<!--    <h2 class="h2-page-header">НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ</h2>-->
+<!--    <img src="--><?php //echo get_template_directory_uri() ?><!--/img/inos-book.png" alt="" width="600px" height="430px" class="page-center-img" >-->
+
+
     <div class="center-block">
         <div class="center-block-pic-1">
 
@@ -44,6 +44,30 @@ get_header();
             <li>Работает в сфере образования с 1998 года</li>
         </ul>
     </div>
+
+    <p class="w600 m0auto fs35 fb tac txt-vi">
+        <span class="mr-10 fs35">&#9872;</span>
+        ГЛАВНАЯ
+    </p>
+
+
+
+
+
+
+
+
+
+
+
+    <img src="<?php echo get_template_directory_uri()?>/img/inos-book.png" alt="" class="w400 m0auto d-block mtb-20">
+
+
+<!--    <h3>«ИНОС – ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»</h3>-->
+<!--    <h3>негосударственное образовательное учреждение</h3>-->
+
+
+
     <div class="center-text-block clearfix">
         <div class="lamp"></div>
         <p>Работает в сфере образования с <span>1998</span> года.</p>
@@ -81,20 +105,26 @@ get_header();
 
 
     <div class="bottom-pic-block">
-        <div class="pic-block-item pic-block-img-1">
-            <!--                <img src="--><?php //echo get_template_directory_uri() ?><!--../img/img-btn-13.png" alt="">-->
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-14.png" alt="" class="w100phi">
         </div>
-        <div class="pic-block-item pic-block-img-2">
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-7.png" alt="" class="w100phi">
         </div>
-        <div class="pic-block-item pic-block-img-3">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-4.png" alt="" class="w100phi">
         </div>
-        <div class="pic-block-item pic-block-img-4">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-30.png" alt="" class="w100phi">
         </div>
-        <div class="pic-block-item pic-block-img-5">
+        <div class="pic-block-item">
+            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-3.png" alt="" class="w100phi">
         </div>
-        <div class="pic-block-item pic-block-img-6">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-9.png" alt="" class="w100phi">
         </div>
-        <div class="pic-block-item pic-block-img-7">
+        <div class="pic-block-item ">
+            <img src="<?php echo get_template_directory_uri() ?>../img/img-btn-19.png" alt="" class="w100phi">
         </div>
 
 

@@ -22,49 +22,49 @@ get_header();
 
     <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Уровень (ступень) образования:</i>
-    </h5>
+    </p>
 
     <p class="w800 m0auto fs18">дополнительное к высшему профессиональному образованию.
     </p>
 
     <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Вид образовательной программы:</i>
-    </h5>
+    </p>
 
     <p class="w800 m0auto fs18">дополнительная.
     </p>
 
     <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Категория слушателей:</i>
-    </h5>
+    </p>
 
     <p class="w800 m0auto fs18">учителя, работники образовательных учреждений
     </p>
 
     <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Сроки обучения: </i>
-    </h5>
+    </p>
 
     <p class="w800 m0auto fs18">учебный год.
     </p>
 
     <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Нормативный срок освоения: </i>
-    </h5>
+    </p>
 
     <p class="w800 m0auto fs18">72,144 час.
     </p>
 
     <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Режим занятий: </i>
-    </h5>
+    </p>
 
     <p class="w800 m0auto fs18">индивидуально-групповой, по расписанию.
     </p>
 
     <p class="w800 m0auto tal mt-20 fi fb f18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
         <i>Форма обучения: </i>
-    </h5>
+    </p>
 
     <p class="w800 m0auto fs18">очно-заочная, без отрыва от основной работы
     </p>

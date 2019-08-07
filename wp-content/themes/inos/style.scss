@@ -126,7 +126,7 @@ body {
   transform: rotate(39deg);
 }
 .white {
-  background: #ffffff;
+  //background: #ffffff;
   width: 43px;
   height: 43px;
   border-radius: 50%;
@@ -139,11 +139,11 @@ body {
 .img {
   border: 1px solid #000000;
   border-radius: 50%;
-  width: 43px;
-  height: 43px;
+  width: 50px;
+  height: 50px;
   position: absolute;
-  top: 2px;
-  left: -44px;
+  top: -2px;
+  left: -39px;
   z-index: 3;
 
 }
@@ -318,7 +318,7 @@ body {
 
 
 .center-block {
-  width: 444px;
+  width: 600px;
   height: 83px;
   box-shadow: 4px 1px 5px 1px rgba(0, 0, 0, 0.27);
   background-color: #8166a1;
@@ -461,7 +461,7 @@ body {
   width:850px;
   margin-left: 25px;
   color: #000000;
-  font-size: 25px;
+  font-size: 18px;
   font-family: "Times New Roman PS - Bold MT";
   font-weight: 700;
   word-wrap: break-word;
@@ -476,7 +476,7 @@ body {
 .bottom-pic-block {
   background-color: #ddd9e4;
   width: 1029px;
-  height: 275px;
+  height: 190px;
   margin: 0 auto;
   border-radius: 15px;
   border-left: 2px solid #000;
@@ -499,11 +499,14 @@ body {
 
 .pic-block-item {
   width: 127px;
-  height: 200px;
-  background-color:#fff;
+  height: 140px;
+  background-color: #fff;
   border-radius: 10px;
   border: 2px solid #000;
-  margin-top: 35px;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .pic-block-img-1 {
@@ -559,7 +562,7 @@ body {
 
 .bottom-menu-block-item {
   width: 128px;
-  height: 332px;
+  height: 160px;
   border-radius: 0 0 10px 10px;
   position: relative;
 }
@@ -575,7 +578,7 @@ body {
 .bottom-menu-block-item::after {
   content: '';
   display: block;
-  height: 318px;
+  height: 145px;
   width: 0;
   border-right: 4px solid #f3e0ff;
   border-bottom: 0px solid transparent;
@@ -588,7 +591,7 @@ body {
 .bottom-menu-block-item::before {
   content: '';
   display: block;
-  height: 318px;
+  height: 145px;
   width: 0;
   border-left: 4px solid #f3e0ff;
   border-bottom: 0px solid transparent;

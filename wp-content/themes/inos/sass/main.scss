@@ -46,6 +46,10 @@
 
 //
 // Text colors and decor
+.bkg-we {
+  background-color: wheat;
+}
+
 .txt-red {
   color: #800000!important;
 }
@@ -68,6 +72,11 @@
 
 
 // width
+
+.w120 {
+  width: 120px;
+}
+
 
 .w150 {
   width: 150px;
@@ -193,6 +202,12 @@
 
 // images
 
+.w100phi {
+  width: 100%;
+  height: inherit;
+}
+
+
 .w40h24 {
   width: 40px;
   height: 24px;
@@ -264,14 +279,22 @@
 
 //table styles
 
-.txt-rout {
- transform: rotate(270deg);
-  padding:  0;
-
-}
 
 .tw-25p {
   width: 25%;
+}
+
+.tw-30p {
+  width: 30%;
+}
+
+.tw-12p {
+  width: 12%;
+}
+
+
+.tw-25px {
+  width: 25px;
 }
 
 
