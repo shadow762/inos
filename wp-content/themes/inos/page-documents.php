@@ -38,7 +38,7 @@ get_header();
         <img src="<?php echo get_template_directory_uri()?>/img/gallery/doc11.jpg" alt="лого раздела низ">
     </div>
 
-    <p class="w600 m0auto tac mt-20">
+    <p class="w600 m0auto tac mt-50">
         <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
         <span class="fs35 fb txt-bo">&#128366;</span>
         <span class="fs25 fb txt-vi tsd">ЛИЦЕНЗИЯ</span>
@@ -46,7 +46,7 @@ get_header();
     <p class="w800 m0auto fs18 fb txt-vi tsd tac">НА ОСУЩЕСТВЛЕНИЕ ОБРАЗОВАТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ</p>
 
     <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
-        <span>&#10004;</span>
+        <span class="fs25 fb fin ">&#10004;</span>
         Институт, осуществляет свою деятельность в соответствии
     </p>
     <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
@@ -56,9 +56,11 @@ get_header();
         выданной Департаментом образования города Москвы
     </p>
     <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
-        <span>&#10004;</span>
+        <span class="fs25 fb fin ">&#10004;</span>
         регистрационный № 034416 от 10.12.2013.
     </p>
+
+    <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
 
      <div class="img-container">
@@ -69,6 +71,9 @@ get_header();
         <img src="<?php echo get_template_directory_uri()?>/img/docs/lic/lic3.jpg" alt="лицензия">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/lic/lic2.jpg" alt="лицензия">
     </div>
+
+    <p class="p-rel m0auto" style="height: 30px;margin-bottom: 100px"><img src="<?php echo get_template_directory_uri()?>/img/corner2.png" alt="" class="w200h200 c-right"></p>
+
 
 
     <p class="w600 m0auto fb fi fs25 tac txt-bo mt-20 tsd">Проверить лицензию в реестре можно <a href="https://data.mos.ru/opendata/reestr-litsenziy-na-obrazovatelnuyu-deyatelnost-vydannyh-organami-ispolnitelnoy-vlasti/row/46710012?versionNumber=2&releaseNumber=1" target="_blank">здесь</a></p>
@@ -98,284 +103,239 @@ get_header();
 
 <!--    ***свидетельство 1*** -->
 
-    <div class="sved-info-block">
-        <div>
-            <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" width="92px" height="30px">
-            <span>&#128366;</span>
-            <span>СВИДЕТЕЛЬСТВО</span>
-        </div>
-        <p>О ВНЕСЕНИИ ЗАПИСИ В ЕДИНЫЙ ГОСУДАРСТВЕННЫЙ
-            РЕЕСТР ЮРИДИЧЕСКИХ ЛИЦ
-        </p>
-        <p></p>
-    </div>
+    <p class="w600 m0auto tac mt-50">
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
+        <span class="fs35 fb txt-bo">&#128366;</span>
+        <span class="fs25 fb txt-vi tsd">СВИДЕТЕЛЬСТВО</span>
+    </p>
+    <p class="w800 m0auto fs18 fb txt-vi tsd tac">О ВНЕСЕНИИ ЗАПИСИ В ЕДИНЫЙ ГОСУДАРСТВЕННЫЙ
+        РЕЕСТР ЮРИДИЧЕСКИХ ЛИЦ</p>
 
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>Управление Федеральной налоговой службы  по г. Москве,</p>
-            <p></p>
-        </div>
-        <p></p>
-    </div>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
+        <span class="fin fs25 mr-10">&#8635;</span>
+        Управление Федеральной налоговой службы
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
+        по г. Москве,
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
+        <span class="fin fs25 mr-10">&#8635;</span>
+        за государственным регистрационным
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo ">
+        номером 2107799102145
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo ">
+        от 26.04.2010, серия 77 №013222436.
+    </p>
 
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>за государственным регистрационным
-                номером 2107799102145,
-                от 26.04.2010, серия 77 №013222436.
-            </p>
-        </div>
-        <p></p>
-    </div>
+
+    <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
+
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid1.jpg" alt="свидетельство">
     </div>
 
+    <p class="p-rel m0auto" style="height: 30px;margin-bottom: 100px"><img src="<?php echo get_template_directory_uri()?>/img/corner2.png" alt="" class="w200h200 c-right"></p>
+
     <!--    ***свидетельство 2*** -->
 
-    <div class="sved-info-block">
-        <div>
-            <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" width="92px" height="30px">
-            <span>&#128366;</span>
-            <span>СВИДЕТЕЛЬСТВО</span>
-        </div>
-        <p>О ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ
-            НЕКОММЕРЧЕСКОЙ ОРГАНИЗАЦИИ
-        </p>
-        <p></p>
-    </div>
 
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>ОСНОВНОЙ ГОСУДАРСТВЕННЫЙ РЕГИСТРАЦИОННЫЙ НОМЕР ЮРИДИЧЕСКОГО ЛИЦА
-                (ОГРН) 1027739124456 от 28 августа 2002г.</p>
-            <p></p>
-        </div>
-        <p></p>
-    </div>
+    <p class="w600 m0auto tac mt-50">
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
+        <span class="fs35 fb txt-bo">&#128366;</span>
+        <span class="fs25 fb txt-vi tsd">СВИДЕТЕЛЬСТВО</span>
+    </p>
+    <p class="w800 m0auto fs18 fb txt-vi tsd tac">О ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ
+        НЕКОММЕРЧЕСКОЙ ОРГАНИЗАЦИИ</p>
 
-    <div class="rekv-info-block">
-    <div class="rekv-info-block-header">
-        <div class="rekv-flag">
-            <span>&#10004;</span>
-        </div>
-        <p>учётный № 7714041597 дата выдачи 17.01.2018г.
-        </p>
-    </div>
-    <p></p>
-    </div>
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>Регистратор — Управление Федеральной налоговой службы по г. Москве
-            </p>
-        </div>
-        <p></p>
-    </div>
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>Адрес регистратора — 125284,Москва г, Хорошевское ш,12А
-            </p>
-        </div>
-        <p></p>
-    </div>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
+        <span class="fs25 fb fin ">&#10004;</span>
+        28 августа 2002г. юр. лицу присвоен
+    </p>
+    <p class="w800 m0auto fs15  fb tar mt-10 txt-bo">
+        <span class="fs25 fb fin ">&#10004;</span>
+        ОСНОВНОЙ ГОСУДАРСТВЕННЫЙ РЕГИСТРАЦИОННЫЙ
+      </p>
+    <p class="w800 m0auto fs15  fb tar  txt-bo">
+        НОМЕР ЮРИДИЧЕСКОГО ЛИЦА
+    </p>
+    <p class="w800 m0auto fs15  fb tar txt-bo">
+        (ОГРН) 1027739124456.
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
+        <span class="fs25 fb fin ">&#10004;</span>
+        учётный № 7714041597 дата выдачи 17.01.2018г.
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
+        <span class="fs25 fb fin ">&#10004;</span>
+        Регистратор — Управление Федеральной налоговой службы по г. Москве
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
+        <span class="fs25 fb fin ">&#10004;</span>
+        Адрес регистратора — 125284,Москва г, Хорошевское ш,12А
+    </p>
+
+
+    <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
+
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid2.jpg" alt="свидетельство">
     </div>
 
+    <p class="p-rel m0auto" style="height: 30px;margin-bottom: 100px"><img src="<?php echo get_template_directory_uri()?>/img/corner2.png" alt="" class="w200h200 c-right"></p>
+
+
     <!--    ***свидетельство 3*** -->
 
-    <div class="sved-info-block">
-        <div>
-            <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" width="92px" height="30px">
-            <span>&#128366;</span>
-            <span>СВИДЕТЕЛЬСТВО</span>
-        </div>
-        <p>О ПОСТАНОВКИ НА УЧЕТ ЮРИДИЧЕСКОГО ЛИЦА
-            В НАЛОГОВОМ ОРГАНЕ
-        </p>
-        <p></p>
-    </div>
+    <p class="w600 m0auto tac mt-50">
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
+        <span class="fs35 fb txt-bo">&#128366;</span>
+        <span class="fs25 fb txt-vi tsd">СВИДЕТЕЛЬСТВО</span>
+    </p>
+    <p class="w800 m0auto fs18 fb txt-vi tsd tac">О ПОСТАНОВКИ НА УЧЕТ ЮРИДИЧЕСКОГО ЛИЦА
+        В НАЛОГОВОМ ОРГАНЕ</p>
 
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>17 января 1995 юр. лицо поставлено на учет в налоговом органе </p>
-            <p></p>
-        </div>
-        <p></p>
-    </div>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
+        <span class="fs25 fb fin ">&#10004;</span>
+        17 января 1995 юр. лицо поставлено на учет в
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar txt-bo">
+        налоговом органе
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
+        <span class="fs25 fb fin ">&#10004;</span>
+        Налоговый орган —
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar txt-bo">
+        Инспекция Федеральной налоговой службы
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar txt-bo">
+        № 26 по ЮАО города Москвы
+    </p>
+    <p class="w800 m0auto fs16  fb tar mt-10 txt-bo">
+        <span class="fs25 fb fin ">&#10004;</span>
+        ИДЕНТИФИКАЦИОННЫЙ НОМЕР НАЛОГОПЛАТЕЛЬЩИКА
+    </p>
+    <p class="w800 m0auto fs16  fb tar txt-bo">
+        (ИНН) 7726035856.
+    </p>
 
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>Налоговый орган —
-                Инспекция Федеральной налоговой службы
-                № 26 по ЮАО города Москвы
-            </p>
-        </div>
-        <p></p>
-    </div>
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>ИДЕНТИФИКАЦИОННЫЙ НОМЕР НАЛОГОПЛАТЕЛЬЩИКА
-                (ИНН)  7726035856.
-            </p>
-        </div>
-        <p></p>
-    </div>
+
+    <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
+
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid3.jpg" alt="свидетельство">
     </div>
 
+    <p class="p-rel m0auto" style="height: 30px;margin-bottom: 100px"><img src="<?php echo get_template_directory_uri()?>/img/corner2.png" alt="" class="w200h200 c-right"></p>
+
+
     <!--    ***свидетельство 4*** -->
+    <p class="w600 m0auto tac mt-50">
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
+        <span class="fs35 fb txt-bo">&#128366;</span>
+        <span class="fs25 fb txt-vi tsd">ВИДЫ ДЕЯТЕЛЬНОСТИ ПО ОКВЭД</span>
+    </p>
+   <p class="w600 fs20 fb m0auto tac tsd">Сведения о видах экономической деятельности</p>
+    <p class="w600 fs20 fb m0auto tac tsd">по Общероссийскому классификатору видов</p>
+    <p class="w600 fs20 fb m0auto tac tsd">экономической деятельности</p>
+    <p class="w600 fs20 fb m0auto tac tsd">(ОКВЭД ОК 029-2014 КДЕС. Ред. 2)</p>
 
-    <div class="sved-info-block">
-        <div>
-            <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" width="92px" height="30px">
-            <span>&#128366;</span>
-            <span>ВИДЫ ДЕЯТЕЛЬНОСТИ ПО ОКВЭД</span>
-        </div>
-        <p>О ПОСТАНОВКИ НА УЧЕТ ЮРИДИЧЕСКОГО ЛИЦА
-            В НАЛОГОВОМ ОРГАНЕ
-        </p>
-        <p>Сведения о видах экономической деятельности
-            по Общероссийскому классификатору видов экономической деятельности
-            (ОКВЭД ОК 029-2014 КДЕС. Ред. 2)
-        </p>
-        <p>Основной вид деятельности
-            85.41	Образование дополнительное детей и взрослых
+    <p class="w600 fs20 fb m0auto mt-20 tac tsd">Основной вид деятельности</p>
+    <p class="w600 fs20 m0auto mt-10 tac tsd"><b>85.41</b> Образование дополнительное детей и взрослых</p>
+    <p class="w600 fs20 fb m0auto mt-20 tac tsd">Дополнительные виды деятельности</p>
+    <p class="w600 fs18 m0auto mt-10 tal tsd"><span class="fs25">68.20</span> Аренда и управление собственным или арендованным недвижимым
+        имуществом (сдача собственных помещений в аренду (под офисы)</p>
+    <p class="w600 fs18 m0auto mt-10 tal tsd"><span class="fs25">72.20</span> Научные исследования и разработки в области общественных и гуманитарных
+        наук</p>
+    <p class="w600 fs18 m0auto mt-10 tal tsd"><span class="fs25">74.90</span> Деятельность профессиональная, научная и техническая прочая, не включенная
+        в другие группировки</p>
+    <p class="w600 fs18 m0auto mt-10 tal tsd"><span class="fs25">85.41.9</span> Образование дополнительное детей и взрослых прочее, не включенное в другие
+        группировки</p>
 
-            Дополнительные виды деятельности
-            68.20	Аренда и управление собственным или арендованным недвижимым имуществом  (сдача собственных помещений в аренду (под офисы)
-            72.20	Научные исследования и разработки в области общественных и гуманитарных наук
-            74.90	Деятельность профессиональная, научная и техническая прочая, не включенная в другие группировки
-            85.41.9	Образование дополнительное детей и взрослых прочее, не включенное в другие группировки
-        </p>
-    </div>
 
+    <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid4.jpg" alt="свидетельство">
+    </div>
+    <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid5.jpg" alt="свидетельство">
     </div>
 
+    <p class="p-rel m0auto" style="height: 30px;margin-bottom: 100px"><img src="<?php echo get_template_directory_uri()?>/img/corner2.png" alt="" class="w200h200 c-right"></p>
+
     <!--    ***свидетельство 5*** -->
+    <p class="w600 m0auto tac mt-50">
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
+        <span class="fs35 fb txt-bo">&#128366;</span>
+        <span class="fs25 fb txt-vi tsd">СВИДЕТЕЛЬСТВО</span>
+    </p>
+    <p class="w800 m0auto fs18 fb txt-vi tsd tac">О ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ ПРАВА
+        СОБСТВЕННОСТИ НА ЗДАНИЕ</p>
 
-    <div class="sved-info-block">
-        <div>
-            <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" width="92px" height="30px">
-            <span>&#128366;</span>
-            <span>СВИДЕТЕЛЬСТВО</span>
-        </div>
-        <p>О ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ ПРАВА СОБСТВЕННОСТИ НА ЗДАНИЕ
-        </p>
-        <p></p>
-    </div>
+    <p class="w800 m0auto fs16  fb tar mt-10 txt-bo tsd">
+        <span class="fs25 fb fin ">&#10004;</span>
+        № Свидетельства: 77 АА 0512089
+        от 14.01.2005г.
+    </p>
+    <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo tsd">
+        <span class="fs25 fb fin ">&#10004;</span>
+        Договор о предоставлении земельного участка в
+     </p>
+    <p class="w800 m0auto fs16 fi fb tar txt-bo tsd">
+        пользование на условиях долгосрочной аренды (до 2030 г.):
+    </p>
+    <p class="w800 m0auto fs15 fi fb tar mt-10 txt-bo tsd">
+        <span class="fs25 fb fin ">&#10004;</span>
+        № М-05 026-272 от 28.02.2006г
+    </p>
+    <p class="w800 m0auto fs15 fi fb tar mt-10 txt-bo tsd">
+        <span class="fs25 fb fin ">&#10004;</span>
+        Площадь земельного участка 2629 м2.
+    </p>
 
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>№ Свидетельства: 77 АА 0512089
-                от 14.01.2005г.
-            </p>
-            <p></p>
-        </div>
-        <p></p>
-    </div>
+    <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>Договор о предоставлении земельного участка в пользование на условиях долгосрочной аренды (до 2030 г.):
-            </p>
-        </div>
-        <p></p>
-    </div>
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>№ М-05  026-272 от 28.02.2006г.
-            </p>
-        </div>
-        <p></p>
-    </div>
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>Площадь земельного участка  2629 м2.
-            </p>
-        </div>
-        <p></p>
-    </div>
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid6.jpg" alt="свидетельство">
     </div>
 
+    <p class="p-rel m0auto" style="height: 30px;margin-bottom: 100px"><img src="<?php echo get_template_directory_uri()?>/img/corner2.png" alt="" class="w200h200 c-right"></p>
+
     <!--    ***устав*** -->
+    <p class="w600 m0auto tac mt-50">
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
+        <span class="fs35 fb txt-bo">&#128366;</span>
+        <span class="fs25 fb txt-vi tsd">УСТАВ</span>
+    </p>
+    <p class="w800 m0auto fs18 fb txt-vi tsd tac">НЕГОСУДАРСТВЕННОГО ОБРАЗОВАТЕЛЬНОГО УЧРЕЖДЕНИЯ
+        ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ
+       </p>
+    <p class="w800 m0auto fs18 fb txt-vi tsd tac">
+        «ИНОС - ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»
+        (НОУ ДО «ИНОС»)</p>
+    <p class="w800 m0auto fs18 fi fb tar mt-10 txt-blue">
+        <span class="fs25 fb fin ">&#10004;</span>
+        Зарегистрирован
+    </p>
+    <p class="w800 m0auto fs18 fi fb tar mt-10 txt-blue">
+        в Главном управлении
+    </p>
+    <p class="w800 m0auto fs18 fi fb tar mt-10 txt-blue">
+        Министерства юстиции РФ
+    </p>
+    <p class="w800 m0auto fs18 fi fb tar mt-10 txt-blue">
+        по г. Москве
+    </p>
 
-    <div class="sved-info-block">
-        <div>
-            <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" width="92px" height="30px">
-            <span>&#128366;</span>
-            <span>УСТАВ</span>
-        </div>
-        <p>НЕГОСУДАРСТВЕННОГО ОБРАЗОВАТЕЛЬНОГО УЧРЕЖДЕНИЯ ДОПОЛНИТЕЛЬНОГО ОБРАЗОВАНИЯ
-            «ИНОС - ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»
-            (НОУ ДО «ИНОС»)
-        </p>
-        <p></p>
-    </div>
-
-    <div class="rekv-info-block">
-        <div class="rekv-info-block-header">
-            <div class="rekv-flag">
-                <span>&#10004;</span>
-            </div>
-            <p>Зарегистрирован
-                в Главном управлении
-                Министерства юстиции РФ
-                по г. Москве
-            </p>
-            <p></p>
-        </div>
-        <p></p>
-    </div>
-
+    <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
 
     <div class="img-container">
@@ -393,12 +353,17 @@ get_header();
         <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav6.jpg" alt="устав">
     </div>
 
+    <p class="p-rel m0auto" style="height: 30px;margin-bottom: 100px"><img src="<?php echo get_template_directory_uri()?>/img/corner2.png" alt="" class="w200h200 c-right"></p>
+
+
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/img-btn-22.png" alt="">
         <img src="<?php echo get_template_directory_uri()?>/img/file27.png" alt="">
     </div>
+
+
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/gallery/doc21.jpg" alt="" class="w400 m0auto d-block">
@@ -409,12 +374,13 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
 
-    <p class="w600 m0auto fs18 fb tac"><span class="mr-10 fs25">&#9872;</span>ЛОКАЛЬНЫЕ АКТЫ, РЕГЛАМЕНТИРУЮЩИЕ ДЕЯТЕЛЬНОСТЬ
-        НОУ ДО «ИНОС»:
+    <p class="w600 m0auto fs25 fb tac txt-vi tsd"><span class="mr-10 fs35">&#127985;</span>ЛОКАЛЬНЫЕ АКТЫ, РЕГЛАМЕНТИРУЮЩИЕ ДЕЯТЕЛЬНОСТЬ
+     </p>
+    <p class="w600 m0auto fs25 fb tac txt-vi tsd">НОУ ДО «ИНОС»:
     </p>
 
 
-    <ul class="w800 m0auto mtb-20 ul-2 txt-vi">
+    <ul class="w800 m0auto fs18 mtb-20 ul-2 txt-vi">
         <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о правовом статусе Учреждения
                 (Некоммерческая организация)</a></li>
         <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о Совете Учреждения</a></li>

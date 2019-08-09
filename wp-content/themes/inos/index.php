@@ -51,7 +51,7 @@ get_header();
 <!---->
 <!--    </p>-->
 
-    <h2 class="h2-page-header mt-20">ГЛАВНАЯ СТРАНИЦА</h2>
+    <h2 class="h2-page-header mt-20 tsd">ГЛАВНАЯ СТРАНИЦА</h2>
 
 
 
