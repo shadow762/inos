@@ -10,7 +10,7 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/img-btn-22.png" alt="" class="w250 m0auto d-block mtb-20">
 
-    <h2 class="h2-page-header mt-20"><span class="wd2 mr-10">c</span>ГАЛЕРЕЯ</h2>
+    <h2 class="h2-page-header mt-20 tsd">ГАЛЕРЕЯ</h2>
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">

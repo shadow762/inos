@@ -63,11 +63,10 @@ get_header();
     <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
 
-     <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/lic/lic1.jpg" alt="лицензия">
     </div>
-
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/lic/lic3.jpg" alt="лицензия">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/lic/lic2.jpg" alt="лицензия">
     </div>
@@ -133,7 +132,7 @@ get_header();
     <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid1.jpg" alt="свидетельство">
     </div>
 
@@ -181,7 +180,7 @@ get_header();
     <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid2.jpg" alt="свидетельство">
     </div>
 
@@ -227,7 +226,7 @@ get_header();
     <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid3.jpg" alt="свидетельство">
     </div>
 
@@ -261,10 +260,10 @@ get_header();
     <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid4.jpg" alt="свидетельство">
-    </div>
-    <div class="img-container">
+     </div>
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid5.jpg" alt="свидетельство">
     </div>
 
@@ -303,7 +302,7 @@ get_header();
     <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid6.jpg" alt="свидетельство">
     </div>
 
@@ -338,17 +337,17 @@ get_header();
     <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav1.jpg" alt="устав">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav2.jpg" alt="устав">
     </div>
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav3.jpg" alt="устав">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav4.jpg" alt="устав">
     </div>
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav5.jpg" alt="устав">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav6.jpg" alt="устав">
     </div>

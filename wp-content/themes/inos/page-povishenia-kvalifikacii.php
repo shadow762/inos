@@ -5,11 +5,9 @@
 //
 get_header();
 ?>
-
-
-
-    <h4 class="h4-page-header mtb-20">ОБРАЗОВАНИЕ</h4>
-    <h2 class="h2-page-header">УЧЕБНЫЙ ПЛАН ПОВЫШЕНИЯ КВАЛИФИКАЦИИ</h2>
+    <h4 class="h4-page-header mt-20 tsd">ОБРАЗОВАНИЕ</h4>
+    <h2 class="h2-page-header mtb-10 tsd"><span>&#10037;</span></h2>
+    <h2 class="h2-page-header tsd">УЧЕБНЫЙ ПЛАН ПОВЫШЕНИЯ КВАЛИФИКАЦИИ</h2>
 
     <img src="<?php echo get_template_directory_uri()?>/img/new_moon.png" alt="лого раздела" class="w250 mt-20 m0auto d-block">
 

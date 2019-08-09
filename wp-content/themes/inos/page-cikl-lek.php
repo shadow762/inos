@@ -15,7 +15,7 @@ get_header();
 
     <p class="w800 m0auto fs18 mt-10 fb"><img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
         <i>
-            <a href="/kval-russ-lit-plan">Текущие циклы лекций повышения квалификации
+            <a href="/kval-russ-lit-cikl">Текущие циклы лекций повышения квалификации
                 учителей
                 русского языка и литературы</a></i>
     </p>

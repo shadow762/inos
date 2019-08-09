@@ -308,6 +308,18 @@
   right: 70px;
   top: -75px; }
 
+.docs-cont-1 {
+  margin: 0 auto;
+  width: 800px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.docs-cont-1 img {
+  width: 40%;
+  height: 30%; }
+
 /* Styles for Rokovodstvo */
 .ruk-center-block {
   width: 955px;
