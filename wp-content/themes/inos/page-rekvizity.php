@@ -12,16 +12,19 @@ get_header();
     <h2 class="h2-page-header mtb-10 tsd"><span class="">&#10037;</span></h2>
     <h2 class="h2-page-header tsd">РЕКВИЗИТЫ</h2>
 
-    <div class="sved-info-block">
-        <div>
-            <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" width="92px" height="30px">
-            <span>Реквизиты, под которыми было зарегистрировано</span>
-        </div>
-        <p class="tac">Негосударственное образовательное учреждение дополнительного образования</p>
-        <p class="tac">«ИНОС - ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»</p>
-        <p class="tac">(НОУ ДО «ИНОС»)</p>
-        <p></p>
-    </div>
+
+    <p class="w600 m0auto tac mt-50">
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
+        <span class="fs25 fb txt-vi tsd">РЕКВИЗИТЫ</span>
+    </p>
+    <p class="w800 m0auto fs18 fb txt-vi tsd tac">ПОД КОТОРЫМИ БЫЛО ЗАРЕГИСТРИРОВАНО</p>
+
+    <p class="w800 m0auto fs18 fb mt-10 txt-bo tsd tac">Негосударственное образовательное учреждение дополнительного образования</p>
+    <p class="w800 m0auto fs18 fb txt-bo tsd tac">«ИНОС - ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»</p>
+    <p class="w800 m0auto fs18 fb txt-bo tsd tac">(НОУ ДО «ИНОС»)</p>
+    <p class="w800 m0auto fs18 fb txt-bo tsd tac">в ЕГРЮЛ, ФНС, ПФР и ФСС:</p>
+
+    <p class="w800 m0auto fs25 fb mt-50  tal tsd">Федеральная налоговая служба (ФНС)</p>
 
     <div class="rekv-info-block">
         <div class="rekv-info-block-header">
@@ -44,6 +47,9 @@ get_header();
         <p>Налоговый орган — Инспекция Федеральной налоговой службы № 26 по г. Москве</p>
      </div>
 
+
+    <p class="w800 m0auto fs25 fb mt-50  tal tsd">Пенсионный фонд России (ПФР)</p>
+
     <div class="rekv-info-block">
         <div class="rekv-info-block-header">
             <div class="rekv-flag">
@@ -55,6 +61,8 @@ get_header();
         <p>Территориальный орган — УПФР № 3 (Советский) Нагорный</p>
     </div>
 
+
+    <p class="w800 m0auto fs25 fb mt-50  tal tsd">Фонд социального страхования (ФСС)</p>
     <div class="rekv-info-block">
         <div class="rekv-info-block-header">
             <div class="rekv-flag">
@@ -65,6 +73,7 @@ get_header();
         <p>Юр. лицо зарегистрировано 3 октября 2018 под номером 772900127077111</p>
     </div>
 
+    <p class="w800 m0auto fs25 fb mt-50  tal tsd">Сведения о видах деятельности</p>
     <div class="rekv-info-block">
     <div class="rekv-info-block-header">
         <div class="rekv-flag">
@@ -92,6 +101,7 @@ get_header();
 
     </div>
 
+    <p class="w800 m0auto fs25 fb mt-50  tal tsd">Банк</p>
     <div class="rekv-info-block">
         <div class="rekv-info-block-header">
             <div class="rekv-flag">
@@ -100,6 +110,15 @@ get_header();
             <p>НАИМЕНОВАНИЕ БАНКА</p>
         </div>
         <p>Московский Банк ПАО СБЕРБАНКА РОССИИ г. МОСКВА</p>
+     </div>
+    <div class="rekv-info-block">
+        <div class="rekv-info-block-header">
+            <div class="rekv-flag">
+                <span>&#10004;</span>
+            </div>
+            <p>РАСЧЕТНЫЙ СЧЁТ</p>
+        </div>
+
         <p>РАСЧЕТНЫЙ СЧЁТ 40703810338000008961</p>
         <p>КОР. СЧЁТ 30101810400000000225</p>
         <p>БИК 044525225</p>
@@ -107,13 +126,12 @@ get_header();
         <p>КПП 773601001.</p>
     </div>
 
-    <div class="sved-info-block">
-        <div>
-            <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" width="92px" height="30px">
-            <span>Место нахождения</span>
-        </div>
-        <p></p>
-    </div>
+
+
+    <p class="w600 m0auto tac mt-50">
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
+        <span class="fs25 fb txt-vi tsd">МЕСТО НАХОЖДЕНИЯ</span>
+    </p>
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/kts_brume_oceane.png" alt="">
@@ -156,13 +174,10 @@ get_header();
         <p><img src="<?php bloginfo('template_url'); ?>/img/shar.png" alt="e-mail">E-mail: inosru@mail.ru</p>
     </div>
 
-    <div class="sved-info-block">
-        <div>
-            <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" width="92px" height="30px">
-            <span>Проезд</span>
-        </div>
-        <p></p>
-    </div>
+    <p class="w600 m0auto tac mt-50">
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
+        <span class="fs25 fb txt-vi tsd">ПРОЕЗД</span>
+    </p>
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/sea-breeze.png" alt="">
