@@ -48,6 +48,9 @@
 .bkg-we {
   background-color: wheat; }
 
+.txt-bo {
+  color: #800000; }
+
 .txt-black {
   color: black; }
 
@@ -99,6 +102,9 @@
 .fin {
   font-style: normal; }
 
+.fs16 {
+  font-size: 16px; }
+
 .fs18 {
   font-size: 18px; }
 
@@ -113,6 +119,10 @@
 
 .mt-10 {
   margin-top: 10px; }
+
+.mtb-10 {
+  margin-bottom: 10px !important;
+  margin-top: 10px !important; }
 
 .mt-20 {
   margin-top: 20px; }
@@ -197,6 +207,10 @@
   width: 65px;
   height: 35px; }
 
+.w100h30 {
+  width: 100px;
+  height: 30px; }
+
 .w100h100 {
   width: 100px;
   height: 100px; }
@@ -213,7 +227,7 @@
   margin-left: 30%; }
 
 .sved-info-block {
-  width: 750px;
+  width: 800px;
   margin: 0 auto;
   margin-top: 30px; }
 
@@ -262,6 +276,9 @@
 
 .wd2 {
   font-family: "Wingdings 2"; }
+
+.tsd {
+  text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3); }
 
 /* Styles for Rokovodstvo */
 .ruk-center-block {
@@ -341,7 +358,7 @@
 
 /* Styles for Rekvizity */
 .rekv-info-block {
-  width: 800px;
+  width: 650px;
   margin: 0 auto;
   margin-top: 30px; }
 

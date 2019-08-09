@@ -9,33 +9,33 @@ get_header();
 
 
 
-<h2 class="h2-page-header">РУКОВОДСТВО</h2>
-    <h2 class="h2-page-header">СТРУКТУРА И ОРГАНЫ
+<h2 class="h2-page-header mt-20 tsd">РУКОВОДСТВО</h2>
+    <h2 class="h2-page-header tsd">СТРУКТУРА И ОРГАНЫ
         УПРАВЛЕНИЯ ИНСТИТУТА</h2>
 
 
     <img src="<?php  echo get_template_directory_uri() ?>/img/kts-19.png " alt="" class="w250 m0auto d-block">
 
 
-<p class="w800 m0auto fs25  fi tac">Учредитель Негосударственного образовательного учреждения
+<p class="w800 m0auto fs25  fi tac txt-vi tsd">Учредитель Негосударственного образовательного учреждения
     дополнительного образования «ИНОС - Институт новых
     образовательных систем»:
     <span class="txt-red fb">Соколова Елена Александровна</span></p>
 
 
-    <p class="w800 m0auto fs25 fb fi tac mt-20">Руководители структурных подразделений Института</p>
+    <p class="w800 m0auto fs25 fb fi tac mt-20 txt-vi tsd">Руководители структурных подразделений Института</p>
 
 
 
 <div class="ruk-center-block clearfix">
     <div class="ruk-center-block-id">
-        <span><b>Соколова</b></span>
+        <span class="tsd"><b>Соколова</b></span>
         <span>Галина</span>
         <span>Константиновна</span>
     </div>
     <div class="ruk-center-block-pic">
         <img src="<?php echo get_template_directory_uri()?>/img/img-shturval.png" alt="">
-        <span><b>Директор института</b></span>
+        <span class="tsd"><b>Директор института</b></span>
          <span>кандидат педагогических наук</span>
 
     </div>
@@ -49,15 +49,15 @@ get_header();
 </div>
     <div class="ruk-center-block clearfix">
         <div class="ruk-center-block-id">
-            <span><b>Утешинский</b></span>
+            <span class="tsd"><b>Утешинский</b></span>
             <span>Дмитрий</span>
             <span>Дмитриевич</span>
         </div>
         <div class="ruk-center-block-pic">
             <img src="<?php echo get_template_directory_uri()?>/img/img-btn-1.png" alt="">
-            <span><b>Проректор</b></span>
-            <span><b>по учебно-методической</b></span>
-            <span><b>и научной работе</b></span>
+            <span class="tsd"><b>Проректор</b></span>
+            <span class="tsd"><b>по учебно-методической</b></span>
+            <span class="tsd"><b>и научной работе</b></span>
             <span>кандидат педагогических наук</span>
 
         </div>
@@ -72,13 +72,13 @@ get_header();
 
     <div class="ruk-center-block clearfix">
         <div class="ruk-center-block-id">
-            <span><b>Иванова</b></span>
+            <span class="tsd"><b>Иванова</b></span>
             <span>Надежда</span>
             <span>Александровна</span>
         </div>
         <div class="ruk-center-block-pic">
             <img src="<?php echo get_template_directory_uri()?>/img/img-btn-20.png" alt="">
-            <span><b>Главный бухгалтер</b></span>
+            <span class="tsd"><b>Главный бухгалтер</b></span>
             <span></span>
 
         </div>
@@ -90,13 +90,13 @@ get_header();
 
     <div class="ruk-center-block clearfix mtb-20">
         <div class="ruk-center-block-id">
-            <span><b>Сидорович</b></span>
+            <span class="tsd"><b>Сидорович</b></span>
             <span>Роман</span>
             <span>Григорьевич</span>
         </div>
-        <div class="ruk-center-block-pic">
+        <div class="ruk-center-block-pic tsd">
             <img src="<?php echo get_template_directory_uri()?>/img/img-btn-13.png" alt="">
-            <span><b>Начальник отдела</b></span>
+            <span ><b>Начальник отдела</b></span>
             <span><b>технической эксплуатации</b></span>
             <span></span>
 

@@ -8,17 +8,18 @@ get_header();
 
 
 
-    <h4 class="h4-page-header mtb-20">ОСНОВНЫЕ СВЕДЕНИЯ ОБ ИНСТИТУТЕ</h4>
-    <h2 class="h2-page-header">РЕКВИЗИТЫ</h2>
+    <h4 class="h4-page-header mt-20 tsd">ОСНОВНЫЕ СВЕДЕНИЯ ОБ ИНСТИТУТЕ</h4>
+    <h2 class="h2-page-header mtb-10 tsd"><span class="">&#10037;</span></h2>
+    <h2 class="h2-page-header tsd">РЕКВИЗИТЫ</h2>
 
     <div class="sved-info-block">
         <div>
             <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" width="92px" height="30px">
             <span>Реквизиты, под которыми было зарегистрировано</span>
         </div>
-        <p>Негосударственное образовательное учреждение дополнительного образования</p>
-        <p>«ИНОС - ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»</p>
-        <p>(НОУ ДО «ИНОС»)</p>
+        <p class="tac">Негосударственное образовательное учреждение дополнительного образования</p>
+        <p class="tac">«ИНОС - ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»</p>
+        <p class="tac">(НОУ ДО «ИНОС»)</p>
         <p></p>
     </div>
 
@@ -163,17 +164,12 @@ get_header();
         <p></p>
     </div>
 
-<!--    <div class="rekv-img-block">-->
-<!--        <img src="--><?php //echo get_template_directory_uri()?><!--/img/sea-breeze.png" alt="" width="400px" height="400px">-->
-<!--        <img src="--><?php //echo get_template_directory_uri()?><!--/img/sea-breeze.png" alt="" width="400px" height="400px">-->
-<!--    </div>-->
-
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/sea-breeze.png" alt="">
         <img src="<?php echo get_template_directory_uri()?>/img/sea-breeze.png" alt="">
     </div>
 
-<p class="w800 m0auto fs25 mtb-20 txt-vi">станция метро «Пражская», 1-й вагон из центра,
+<p class="w800 m0auto fs25 fb mtb-20 txt-vi tsd">станция метро «Пражская», 1-й вагон из центра,
     выход к торговому центру «Электронный рай», автобусы № 797, 680, до остановки «Россошанский проезд».</p>
 
     <!--Нижнее меню-->

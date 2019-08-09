@@ -8,13 +8,12 @@ get_header();
 
 
 
-    <h2 class="h2-page-header mt-20">ОСНОВНЫЕ СВЕДЕНИЯ ОБ ИНСТИТУТЕ</h2>
+    <h2 class="h2-page-header mt-20 tsd">ОСНОВНЫЕ СВЕДЕНИЯ ОБ ИНСТИТУТЕ</h2>
+    <h4 class="h4-page-header tsd">Негосударственное образовательное учреждение</h4>
+    <h4 class="h4-page-header tsd">дополнительного образования</h4>
 
-    <h4 class="h4-page-header">Негосударственное образовательное учреждение</h4>
-        <h4 class="h4-page-header">дополнительного образования</h4>
 
-
-    <img src="<?php  echo get_template_directory_uri() ?>/img/img-btn-2.png " alt="logo" class="w400 m0auto d-block mtb-20">
+    <img src="<?php  echo get_template_directory_uri() ?>/img/img-btn-2.png " alt="logo" class="w250 m0auto d-block mtb-20">
 
 
 

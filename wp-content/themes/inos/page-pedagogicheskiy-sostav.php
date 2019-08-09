@@ -27,7 +27,7 @@ get_header();
     </div>
     <div class="ruk-center-block-contacts">
         <p><img src="<?php echo get_template_directory_uri()?>/img/lan9.png" alt=""> <b>Тел./Факс 8 (495)382-07-37</b></p>
-        <p><img src="<?php echo get_template_directory_uri()?>/img/HP-mobile-icon.png" alt=""> <b>Тел. 8 (903)726-27-54</b></p>
+        <p><img src="<?php echo get_template_directory_uri()?>/img/hp-mobile-icon.png" alt=""> <b>Тел. 8 (903)726-27-54</b></p>
         <p><img src="<?php echo get_template_directory_uri()?>/img/butor.png" alt=""> <b>E-mail: <a href="mailto:inosss@bk.ru">inosss@bk.ru</a></b></p>
     </div>
 
@@ -64,23 +64,42 @@ get_header();
         ученых, научных сотрудников Российской Академии образования и высшей школы, педагогов-практиков, среди которых:
     </p>
 
-<!--    <ul class="w600 m0auto fs25 mt-20">-->
-<!--        <li> - 16  - ДОКТОРОВ НАУК (30%),   </li>-->
-<!--        <li> - 31 - КАНДИДАТ НАУК (60%),</li>-->
-<!--        <li> -7 - ЗАСЛУЖЕННЫЕ УЧИТЕЛЯ ШКОЛЫ (10%).</li>-->
-<!--    </ul>-->
-<!---->
-<!--    <h4 class="h4-page-header mt-20">ПЕДАГОГИЧЕСКИЙ-->
-<!--        (НАУЧНО-ПЕДАГОГИЧЕСКИЙ) СОСТАВ-->
-<!--    </h4>-->
-<!---->
-<!---->
-<!--    <div class="img-container">-->
-<!--        <img src="--><?php //echo get_template_directory_uri()?><!--/img/business.png" alt="лого раздела">-->
-<!--    </div>-->
-<!---->
-<!---->
-<!--    <img src="--><?php //echo get_template_directory_uri()?><!--/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">-->
+    <div class="w800">
+        <table style="border-spacing:0" class="w800">
+            <tr style="background-color: #fbd4b4">
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ФИО СОТРУДНИКА</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">МЕСТО РАБОТЫ</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ЗАНИМАЕМАЯ ДОЛЖНОСТЬ / ДОЛЖНОСТИ/ ВИД ЗАНЯТОСТИ / УСЛОВИЯ ПРИВЛЕЧЕНИЯ К РАБОТЕ (ШТАТНЫЙ, СОВМЕСТИТЕЛЬ, ИНОЕ)</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">КАКОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ ОКОНЧИЛ /СПЕЦИАЛИТЕТ (СПЕЦИАЛЬНОСТЬ ПО ДИПЛОМУ)</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">АСПИРАНТУРА/ ДОКТОРАНТУРА</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ПРЕПОДАВАЕМЫЕ ДИСЦИПЛИНЫ</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">НАИМЕНОВАНИЕ НАПРАВЛЕНИЯ ПОДГОТОВКИ И (ИЛИ) СПЕЦИАЛЬНОСТИ</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ДАННЫЕ О ПОВЫШЕНИИ КВАЛИФИКАЦИИ И (ИЛИ) ПРОФЕССИОНАЛЬНОЙ ПЕРЕПОДГОТОВКЕ (ПРИ НАЛИЧИИ)</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ОБЩИЙ СТАЖ РАБОТЫ</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">СТАЖ РАБОТЫ ПО СПЕЦИАЛЬНОСТИ (НАУЧНО-ПЕДАГОГИЧЕСКИЙ СТАЖ)</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">УЧЕНАЯ СТЕПЕНЬ</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">УЧЕНОЕ ЗВАНИЕ</p></td>
+                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ФИО СОТРУДНИКА</p></td>
+                <td style="height: 305px"><p style="text-align: center">ДОСТИЖЕНИЯ/ НАГРАДЫ</p></td>
+            </tr>
+            <tr><td colspan="14">СОКОЛОВА ГАЛИНА КОНСТАНТИНОВНА</td></tr>
+            <tr>
+                <td><p style="writing-mode: vertical-rl;text-align: center">СОКОЛОВА ГАЛИНА КОНСТАНТИНОВНА</p></td>
+                <td><p>Институт новых образовательных систем/ ИНОС</p></td>
+                <td><p>Директор Штат</p></td>
+                <td><p>(1968) Московский государственный заочный педагогический институт /Специальность «Психология и педагогика»</p></td>
+                <td><p></p></td>
+                <td><p>Теория и практика развития общего образования. Теория и методика профессионального образования</p></td>
+                <td><p style="writing-mode: vertical-rl;text-align: center">ПСИХОЛОГИЯ И ПЕДАГОГИКА</p></td>
+                <td><p>Повышение квалификации по программе «Содержание, методика работы руководителя образовательного учреждения в контексте современного ФГОС» в объеме 72 уч.часов. НОУ ДО ИНОС, г. Москва, 2019 г.</p></td>
+                <td><p style="writing-mode: vertical-rl;text-align: center">54 года</p></td>
+                <td><p style="writing-mode: vertical-rl;text-align: center">50 лет</p></td>
+                <td><p>Кандидат педагогических наук (13.00.01). (2000)</p></td>
+                <td><p>Профессор (2002)</p></td>
+                <td><p>Действительный член Международной Академии интеграции науки и бизнеса.Руководитель экспериментальной площадки.Ветеран труда.</p></td>
+            </tr>
+        </table>
+    </div>
 
     <!--Нижнее меню-->
     <div class="bottom-pic-block">
