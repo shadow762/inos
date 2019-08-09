@@ -104,40 +104,40 @@ get_header();
         <img src="<?php echo get_template_directory_uri()?>/img/file27.png" alt="">
     </div>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0102_1+.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0102-1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0133-2_1_1+.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0133-2-1-1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0067_1.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0067-1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0061_1.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0061-1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0119_1.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0119-1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0055_1.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0055-1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0127_1+doc.jpg" alt="фото" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0129+obr.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0127-1doc.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0129obr.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0066FR2.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0066fr2.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0123_1_1.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0123-1-1.jpg" alt="фото" class="w600 m0auto d-block">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0066_1.jpg" alt="фото" class="w600 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0066-1.jpg" alt="фото" class="w600 m0auto d-block">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+Galereya2+/+0139_3gal2+obr.jpg" alt="фото" class="w250 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0139-3gal2obr.jpg" alt="фото" class="w250 m0auto d-block mtb-20">
 
 
     <!--Нижнее меню-->

@@ -70,12 +70,12 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/img_8729.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/rab-mesta/img-8729.jpg" alt="">
 
 
     </div>
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/img_8705.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/rab-mesta/img-8705.jpg" alt="">
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">
@@ -92,10 +92,10 @@ get_header();
 
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/img_8699.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/rab-mesta/img-8699.jpg" alt="">
     </div>
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/rab-mesta+/img_8680.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/rab-mesta/img-8680.jpg" alt="">
     </div>
 
 
@@ -195,7 +195,7 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8734.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/med/img-8734.jpg" alt="">
     </div>
 
 
@@ -211,12 +211,12 @@ get_header();
         <img src="<?php echo get_template_directory_uri()?>/img/file27.png" alt="лого раздела">
     </div>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0096_1.jpg" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0096-1.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0098_1.jpg" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0098-1.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/butor4.png" alt="" class="w150 m0auto d-block mtb-20">
@@ -233,8 +233,8 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8722.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8717.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/med/img-8722.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/med/img-8717.jpg" alt="">
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">
@@ -250,12 +250,12 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8732.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8726.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/med/img-8732.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/med/img-8726.jpg" alt="">
     </div>
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8710.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8678.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/med/img-8710.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/med/img-8678.jpg" alt="">
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">
@@ -278,8 +278,8 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8723.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/med+/img_8694.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/med/img-8723.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/med/img-8694.jpg" alt="">
     </div>
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
@@ -340,39 +340,39 @@ get_header();
 
     <p class="w600 m0auto"><i>План эвакуации выполнен согласно Правилам и Нормам пожарной безопасности.</i></p>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0062+.jpg" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0062.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0064_1.jpg" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0064-1.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0061_1fr.jpg" alt="" class="w400 m0auto d-block mtb-20">
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0062frag.jpg" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0061-1fr.jpg" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0062frag.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0075.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0078.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/gallery/0075.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/gallery/0078.jpg" alt="">
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0093.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/gallery/0093.jpg" alt="">
     </div>
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0076.jpg" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0076.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0079.jpg" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0079.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
 <!--    <img src="--><?php //echo get_template_directory_uri()?><!--/img/gallery/doc31.jpg" alt="" class="w400 m0auto d-block">-->

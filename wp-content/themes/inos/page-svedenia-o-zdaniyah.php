@@ -39,7 +39,7 @@ get_header();
     </p>
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya3+/02451.jpg" alt="" class="w600 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/02451.jpg" alt="" class="w600 m0auto d-block mtb-20">
 
 
     <p class="w800 m0auto fs25 fb tac txt-vi "><span class="mr-10 fs35">&#10023;</span>ЭКСПЛИКАЦИЯ</p>
@@ -49,12 +49,12 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/pen1.png" alt="" class="w150 m0auto d-block mtb-20">
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/IMG_8696 obr+.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8696obr.jpg" alt="">
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/img_8693.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/img_8700.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8693.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8700.jpg" alt="">
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">
@@ -71,12 +71,12 @@ get_header();
 
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/img_8706.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/img_8691.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8706.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8691.jpg" alt="">
     </div>
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/img_8698.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/img_8702.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8698.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8702.jpg" alt="">
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">
@@ -92,12 +92,12 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/img_8689.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/img_8682.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8689.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8682.jpg" alt="">
     </div>
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/img_8686.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/explication+/img_8684.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8686.jpg" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8684.jpg" alt="">
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">

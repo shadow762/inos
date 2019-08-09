@@ -1,11 +1,11 @@
 -- phpMyAdmin SQL Dump
--- version 4.7.7
+-- version 4.8.3
 -- https://www.phpmyadmin.net/
 --
 -- Хост: 127.0.0.1:3306
--- Время создания: Авг 07 2019 г., 15:26
--- Версия сервера: 5.7.20
--- Версия PHP: 7.1.12
+-- Время создания: Авг 09 2019 г., 07:54
+-- Версия сервера: 5.7.23
+-- Версия PHP: 7.0.32
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -208,7 +208,7 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 (100, 'widget_archives', 'a:2:{i:2;a:3:{s:5:\"title\";s:0:\"\";s:5:\"count\";i:0;s:8:\"dropdown\";i:0;}s:12:\"_multiwidget\";i:1;}', 'yes'),
 (101, 'widget_meta', 'a:2:{i:2;a:1:{s:5:\"title\";s:0:\"\";}s:12:\"_multiwidget\";i:1;}', 'yes'),
 (102, 'sidebars_widgets', 'a:2:{s:19:\"wp_inactive_widgets\";a:6:{i:0;s:8:\"search-2\";i:1;s:14:\"recent-posts-2\";i:2;s:17:\"recent-comments-2\";i:3;s:10:\"archives-2\";i:4;s:12:\"categories-2\";i:5;s:6:\"meta-2\";}s:13:\"array_version\";i:3;}', 'yes'),
-(103, 'cron', 'a:6:{i:1565181292;a:1:{s:34:\"wp_privacy_delete_old_export_files\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"hourly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:3600;}}}i:1565217292;a:3:{s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1565260492;a:1:{s:32:\"recovery_mode_clean_expired_keys\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1565260754;a:2:{s:19:\"wp_scheduled_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}s:25:\"delete_expired_transients\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1565260756;a:1:{s:30:\"wp_scheduled_auto_draft_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}s:7:\"version\";i:2;}', 'yes'),
+(103, 'cron', 'a:5:{i:1565328892;a:1:{s:34:\"wp_privacy_delete_old_export_files\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:6:\"hourly\";s:4:\"args\";a:0:{}s:8:\"interval\";i:3600;}}}i:1565346892;a:4:{s:32:\"recovery_mode_clean_expired_keys\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}s:16:\"wp_version_check\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:17:\"wp_update_plugins\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}s:16:\"wp_update_themes\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:10:\"twicedaily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:43200;}}}i:1565347154;a:2:{s:19:\"wp_scheduled_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}s:25:\"delete_expired_transients\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}i:1565347156;a:1:{s:30:\"wp_scheduled_auto_draft_delete\";a:1:{s:32:\"40cd750bba9870f18aada2478b24840a\";a:3:{s:8:\"schedule\";s:5:\"daily\";s:4:\"args\";a:0:{}s:8:\"interval\";i:86400;}}}s:7:\"version\";i:2;}', 'yes'),
 (104, 'widget_pages', 'a:1:{s:12:\"_multiwidget\";i:1;}', 'yes'),
 (105, 'widget_calendar', 'a:1:{s:12:\"_multiwidget\";i:1;}', 'yes'),
 (106, 'widget_media_audio', 'a:1:{s:12:\"_multiwidget\";i:1;}', 'yes'),
@@ -232,9 +232,9 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 (257, '_transient_health-check-site-status-result', '{\"good\":\"11\",\"recommended\":\"4\",\"critical\":\"1\"}', 'yes'),
 (258, 'theme_mods_twentysixteen', 'a:1:{s:18:\"custom_css_post_id\";i:-1;}', 'yes'),
 (260, '_transient_twentysixteen_categories', '1', 'yes'),
-(403, '_site_transient_update_core', 'O:8:\"stdClass\":4:{s:7:\"updates\";a:1:{i:0;O:8:\"stdClass\":10:{s:8:\"response\";s:6:\"latest\";s:8:\"download\";s:65:\"https://downloads.wordpress.org/release/ru_RU/wordpress-5.2.2.zip\";s:6:\"locale\";s:5:\"ru_RU\";s:8:\"packages\";O:8:\"stdClass\":5:{s:4:\"full\";s:65:\"https://downloads.wordpress.org/release/ru_RU/wordpress-5.2.2.zip\";s:10:\"no_content\";b:0;s:11:\"new_bundled\";b:0;s:7:\"partial\";b:0;s:8:\"rollback\";b:0;}s:7:\"current\";s:5:\"5.2.2\";s:7:\"version\";s:5:\"5.2.2\";s:11:\"php_version\";s:6:\"5.6.20\";s:13:\"mysql_version\";s:3:\"5.0\";s:11:\"new_bundled\";s:3:\"5.0\";s:15:\"partial_version\";s:0:\"\";}}s:12:\"last_checked\";i:1565178653;s:15:\"version_checked\";s:5:\"5.2.2\";s:12:\"translations\";a:0:{}}', 'no'),
-(404, '_site_transient_update_themes', 'O:8:\"stdClass\":4:{s:12:\"last_checked\";i:1565178655;s:7:\"checked\";a:5:{s:4:\"inos\";s:0:\"\";s:4:\"rsht\";s:0:\"\";s:14:\"twentynineteen\";s:3:\"1.4\";s:15:\"twentyseventeen\";s:3:\"2.2\";s:13:\"twentysixteen\";s:3:\"2.0\";}s:8:\"response\";a:0:{}s:12:\"translations\";a:0:{}}', 'no'),
-(405, '_site_transient_update_plugins', 'O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1565178655;s:7:\"checked\";a:3:{s:30:\"advanced-custom-fields/acf.php\";s:5:\"5.8.2\";s:19:\"akismet/akismet.php\";s:5:\"4.1.2\";s:9:\"hello.php\";s:5:\"1.7.2\";}s:8:\"response\";a:0:{}s:12:\"translations\";a:0:{}s:9:\"no_update\";a:3:{s:30:\"advanced-custom-fields/acf.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:36:\"w.org/plugins/advanced-custom-fields\";s:4:\"slug\";s:22:\"advanced-custom-fields\";s:6:\"plugin\";s:30:\"advanced-custom-fields/acf.php\";s:11:\"new_version\";s:5:\"5.8.2\";s:3:\"url\";s:53:\"https://wordpress.org/plugins/advanced-custom-fields/\";s:7:\"package\";s:71:\"https://downloads.wordpress.org/plugin/advanced-custom-fields.5.8.2.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:75:\"https://ps.w.org/advanced-custom-fields/assets/icon-256x256.png?rev=1082746\";s:2:\"1x\";s:75:\"https://ps.w.org/advanced-custom-fields/assets/icon-128x128.png?rev=1082746\";}s:7:\"banners\";a:2:{s:2:\"2x\";s:78:\"https://ps.w.org/advanced-custom-fields/assets/banner-1544x500.jpg?rev=1729099\";s:2:\"1x\";s:77:\"https://ps.w.org/advanced-custom-fields/assets/banner-772x250.jpg?rev=1729102\";}s:11:\"banners_rtl\";a:0:{}}s:19:\"akismet/akismet.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:21:\"w.org/plugins/akismet\";s:4:\"slug\";s:7:\"akismet\";s:6:\"plugin\";s:19:\"akismet/akismet.php\";s:11:\"new_version\";s:5:\"4.1.2\";s:3:\"url\";s:38:\"https://wordpress.org/plugins/akismet/\";s:7:\"package\";s:56:\"https://downloads.wordpress.org/plugin/akismet.4.1.2.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:59:\"https://ps.w.org/akismet/assets/icon-256x256.png?rev=969272\";s:2:\"1x\";s:59:\"https://ps.w.org/akismet/assets/icon-128x128.png?rev=969272\";}s:7:\"banners\";a:1:{s:2:\"1x\";s:61:\"https://ps.w.org/akismet/assets/banner-772x250.jpg?rev=479904\";}s:11:\"banners_rtl\";a:0:{}}s:9:\"hello.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:25:\"w.org/plugins/hello-dolly\";s:4:\"slug\";s:11:\"hello-dolly\";s:6:\"plugin\";s:9:\"hello.php\";s:11:\"new_version\";s:5:\"1.7.2\";s:3:\"url\";s:42:\"https://wordpress.org/plugins/hello-dolly/\";s:7:\"package\";s:60:\"https://downloads.wordpress.org/plugin/hello-dolly.1.7.2.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:64:\"https://ps.w.org/hello-dolly/assets/icon-256x256.jpg?rev=2052855\";s:2:\"1x\";s:64:\"https://ps.w.org/hello-dolly/assets/icon-128x128.jpg?rev=2052855\";}s:7:\"banners\";a:1:{s:2:\"1x\";s:66:\"https://ps.w.org/hello-dolly/assets/banner-772x250.jpg?rev=2052855\";}s:11:\"banners_rtl\";a:0:{}}}}', 'no'),
+(403, '_site_transient_update_core', 'O:8:\"stdClass\":4:{s:7:\"updates\";a:1:{i:0;O:8:\"stdClass\":10:{s:8:\"response\";s:6:\"latest\";s:8:\"download\";s:65:\"https://downloads.wordpress.org/release/ru_RU/wordpress-5.2.2.zip\";s:6:\"locale\";s:5:\"ru_RU\";s:8:\"packages\";O:8:\"stdClass\":5:{s:4:\"full\";s:65:\"https://downloads.wordpress.org/release/ru_RU/wordpress-5.2.2.zip\";s:10:\"no_content\";b:0;s:11:\"new_bundled\";b:0;s:7:\"partial\";b:0;s:8:\"rollback\";b:0;}s:7:\"current\";s:5:\"5.2.2\";s:7:\"version\";s:5:\"5.2.2\";s:11:\"php_version\";s:6:\"5.6.20\";s:13:\"mysql_version\";s:3:\"5.0\";s:11:\"new_bundled\";s:3:\"5.0\";s:15:\"partial_version\";s:0:\"\";}}s:12:\"last_checked\";i:1565324301;s:15:\"version_checked\";s:5:\"5.2.2\";s:12:\"translations\";a:0:{}}', 'no'),
+(404, '_site_transient_update_themes', 'O:8:\"stdClass\":4:{s:12:\"last_checked\";i:1565324303;s:7:\"checked\";a:5:{s:4:\"inos\";s:0:\"\";s:4:\"rsht\";s:0:\"\";s:14:\"twentynineteen\";s:3:\"1.4\";s:15:\"twentyseventeen\";s:3:\"2.2\";s:13:\"twentysixteen\";s:3:\"2.0\";}s:8:\"response\";a:0:{}s:12:\"translations\";a:0:{}}', 'no'),
+(405, '_site_transient_update_plugins', 'O:8:\"stdClass\":5:{s:12:\"last_checked\";i:1565324303;s:7:\"checked\";a:3:{s:30:\"advanced-custom-fields/acf.php\";s:5:\"5.8.2\";s:19:\"akismet/akismet.php\";s:5:\"4.1.2\";s:9:\"hello.php\";s:5:\"1.7.2\";}s:8:\"response\";a:0:{}s:12:\"translations\";a:0:{}s:9:\"no_update\";a:3:{s:30:\"advanced-custom-fields/acf.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:36:\"w.org/plugins/advanced-custom-fields\";s:4:\"slug\";s:22:\"advanced-custom-fields\";s:6:\"plugin\";s:30:\"advanced-custom-fields/acf.php\";s:11:\"new_version\";s:5:\"5.8.2\";s:3:\"url\";s:53:\"https://wordpress.org/plugins/advanced-custom-fields/\";s:7:\"package\";s:71:\"https://downloads.wordpress.org/plugin/advanced-custom-fields.5.8.2.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:75:\"https://ps.w.org/advanced-custom-fields/assets/icon-256x256.png?rev=1082746\";s:2:\"1x\";s:75:\"https://ps.w.org/advanced-custom-fields/assets/icon-128x128.png?rev=1082746\";}s:7:\"banners\";a:2:{s:2:\"2x\";s:78:\"https://ps.w.org/advanced-custom-fields/assets/banner-1544x500.jpg?rev=1729099\";s:2:\"1x\";s:77:\"https://ps.w.org/advanced-custom-fields/assets/banner-772x250.jpg?rev=1729102\";}s:11:\"banners_rtl\";a:0:{}}s:19:\"akismet/akismet.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:21:\"w.org/plugins/akismet\";s:4:\"slug\";s:7:\"akismet\";s:6:\"plugin\";s:19:\"akismet/akismet.php\";s:11:\"new_version\";s:5:\"4.1.2\";s:3:\"url\";s:38:\"https://wordpress.org/plugins/akismet/\";s:7:\"package\";s:56:\"https://downloads.wordpress.org/plugin/akismet.4.1.2.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:59:\"https://ps.w.org/akismet/assets/icon-256x256.png?rev=969272\";s:2:\"1x\";s:59:\"https://ps.w.org/akismet/assets/icon-128x128.png?rev=969272\";}s:7:\"banners\";a:1:{s:2:\"1x\";s:61:\"https://ps.w.org/akismet/assets/banner-772x250.jpg?rev=479904\";}s:11:\"banners_rtl\";a:0:{}}s:9:\"hello.php\";O:8:\"stdClass\":9:{s:2:\"id\";s:25:\"w.org/plugins/hello-dolly\";s:4:\"slug\";s:11:\"hello-dolly\";s:6:\"plugin\";s:9:\"hello.php\";s:11:\"new_version\";s:5:\"1.7.2\";s:3:\"url\";s:42:\"https://wordpress.org/plugins/hello-dolly/\";s:7:\"package\";s:60:\"https://downloads.wordpress.org/plugin/hello-dolly.1.7.2.zip\";s:5:\"icons\";a:2:{s:2:\"2x\";s:64:\"https://ps.w.org/hello-dolly/assets/icon-256x256.jpg?rev=2052855\";s:2:\"1x\";s:64:\"https://ps.w.org/hello-dolly/assets/icon-128x128.jpg?rev=2052855\";}s:7:\"banners\";a:1:{s:2:\"1x\";s:66:\"https://ps.w.org/hello-dolly/assets/banner-772x250.jpg?rev=2052855\";}s:11:\"banners_rtl\";a:0:{}}}}', 'no'),
 (411, '_site_transient_timeout_browser_01b80466de9751fc3c1cfc72f0950804', '1565617866', 'no'),
 (412, '_site_transient_browser_01b80466de9751fc3c1cfc72f0950804', 'a:10:{s:4:\"name\";s:7:\"Firefox\";s:7:\"version\";s:4:\"68.0\";s:8:\"platform\";s:7:\"Windows\";s:10:\"update_url\";s:24:\"https://www.firefox.com/\";s:7:\"img_src\";s:44:\"http://s.w.org/images/browsers/firefox.png?1\";s:11:\"img_src_ssl\";s:45:\"https://s.w.org/images/browsers/firefox.png?1\";s:15:\"current_version\";s:2:\"56\";s:7:\"upgrade\";b:0;s:8:\"insecure\";b:0;s:6:\"mobile\";b:0;}', 'no'),
 (413, '_site_transient_timeout_php_check_c10b24bcda05543594ded94839f19c88', '1565617867', 'no'),
@@ -243,10 +243,10 @@ INSERT INTO `wp_options` (`option_id`, `option_name`, `option_value`, `autoload`
 (458, '_site_transient_browser_1c6548c1e5fcdb35d7741fd2e4f5f61e', 'a:10:{s:4:\"name\";s:6:\"Chrome\";s:7:\"version\";s:13:\"68.0.3440.106\";s:8:\"platform\";s:7:\"Windows\";s:10:\"update_url\";s:29:\"https://www.google.com/chrome\";s:7:\"img_src\";s:43:\"http://s.w.org/images/browsers/chrome.png?1\";s:11:\"img_src_ssl\";s:44:\"https://s.w.org/images/browsers/chrome.png?1\";s:15:\"current_version\";s:2:\"18\";s:7:\"upgrade\";b:0;s:8:\"insecure\";b:0;s:6:\"mobile\";b:0;}', 'no'),
 (459, '_site_transient_timeout_php_check_e481018c713db17b5f16f6d87bf44ece', '1565688807', 'no'),
 (460, '_site_transient_php_check_e481018c713db17b5f16f6d87bf44ece', 'a:5:{s:19:\"recommended_version\";s:3:\"7.3\";s:15:\"minimum_version\";s:6:\"5.6.20\";s:12:\"is_supported\";b:0;s:9:\"is_secure\";b:0;s:13:\"is_acceptable\";b:1;}', 'no'),
-(482, '_site_transient_timeout_community-events-1aecf33ab8525ff212ebdffbb438372e', '1565202840', 'no'),
-(483, '_site_transient_community-events-1aecf33ab8525ff212ebdffbb438372e', 'a:2:{s:8:\"location\";a:1:{s:2:\"ip\";s:9:\"127.0.0.0\";}s:6:\"events\";a:1:{i:0;a:7:{s:4:\"type\";s:6:\"meetup\";s:5:\"title\";s:55:\"WP Moscow #9. Осенний митап на крыше\";s:3:\"url\";s:57:\"https://www.meetup.com/wordpress-moscow/events/263354050/\";s:6:\"meetup\";s:16:\"WordPress Moscow\";s:10:\"meetup_url\";s:40:\"https://www.meetup.com/wordpress-moscow/\";s:4:\"date\";s:19:\"2019-09-05 19:00:00\";s:8:\"location\";a:4:{s:8:\"location\";s:20:\"Москва, Russia\";s:7:\"country\";s:2:\"ru\";s:8:\"latitude\";d:55.80791;s:9:\"longitude\";d:37.573364;}}}}', 'no'),
-(487, '_site_transient_timeout_theme_roots', '1565180454', 'no'),
-(488, '_site_transient_theme_roots', 'a:5:{s:4:\"inos\";s:7:\"/themes\";s:4:\"rsht\";s:7:\"/themes\";s:14:\"twentynineteen\";s:7:\"/themes\";s:15:\"twentyseventeen\";s:7:\"/themes\";s:13:\"twentysixteen\";s:7:\"/themes\";}', 'no');
+(506, '_site_transient_timeout_theme_roots', '1565326102', 'no'),
+(507, '_site_transient_theme_roots', 'a:5:{s:4:\"inos\";s:7:\"/themes\";s:4:\"rsht\";s:7:\"/themes\";s:14:\"twentynineteen\";s:7:\"/themes\";s:15:\"twentyseventeen\";s:7:\"/themes\";s:13:\"twentysixteen\";s:7:\"/themes\";}', 'no'),
+(509, '_site_transient_timeout_community-events-1aecf33ab8525ff212ebdffbb438372e', '1565369427', 'no'),
+(510, '_site_transient_community-events-1aecf33ab8525ff212ebdffbb438372e', 'a:2:{s:8:\"location\";a:1:{s:2:\"ip\";s:9:\"127.0.0.0\";}s:6:\"events\";a:0:{}}', 'no');
 
 -- --------------------------------------------------------
 
@@ -303,7 +303,7 @@ INSERT INTO `wp_postmeta` (`meta_id`, `post_id`, `meta_key`, `meta_value`) VALUE
 (49, 48, '_edit_lock', '1564393751:1'),
 (50, 52, '_edit_lock', '1564399894:1'),
 (51, 57, '_edit_lock', '1564483635:1'),
-(52, 59, '_edit_lock', '1565062593:1'),
+(52, 59, '_edit_lock', '1565271169:1'),
 (53, 61, '_edit_lock', '1564558145:1'),
 (54, 63, '_edit_lock', '1564557710:1'),
 (55, 65, '_edit_lock', '1564559796:1'),
@@ -508,18 +508,6 @@ INSERT INTO `wp_postmeta` (`meta_id`, `post_id`, `meta_key`, `meta_value`) VALUE
 (271, 95, '_color_class', 'field_5d483ba09bc99'),
 (272, 95, 'img_class', 'img-btn-8'),
 (273, 95, '_img_class', 'field_5d483d31056dc'),
-(274, 96, '_menu_item_type', 'custom'),
-(275, 96, '_menu_item_menu_item_parent', '0'),
-(276, 96, '_menu_item_object_id', '96'),
-(277, 96, '_menu_item_object', 'custom'),
-(278, 96, '_menu_item_target', ''),
-(279, 96, '_menu_item_classes', 'a:1:{i:0;s:0:\"\";}'),
-(280, 96, '_menu_item_xfn', ''),
-(281, 96, '_menu_item_url', '#'),
-(283, 96, 'color_class', 'menu-btn-color-5'),
-(284, 96, '_color_class', 'field_5d483ba09bc99'),
-(285, 96, 'img_class', 'img-btn-9'),
-(286, 96, '_img_class', 'field_5d483d31056dc'),
 (287, 97, '_menu_item_type', 'post_type'),
 (288, 97, '_menu_item_menu_item_parent', '0'),
 (289, 97, '_menu_item_object_id', '63'),
@@ -747,7 +735,30 @@ INSERT INTO `wp_postmeta` (`meta_id`, `post_id`, `meta_key`, `meta_value`) VALUE
 (659, 148, 'shape', 'circle'),
 (660, 148, '_shape', 'field_5d4ac00626401'),
 (661, 148, 'coords', '460,94,50'),
-(662, 148, '_coords', 'field_5d4ac04226402');
+(662, 148, '_coords', 'field_5d4ac04226402'),
+(663, 149, '_edit_lock', '1565271114:1'),
+(664, 151, '_edit_lock', '1565271409:1'),
+(665, 153, '_edit_lock', '1565275536:1'),
+(666, 155, '_edit_lock', '1565277139:1'),
+(667, 157, '_edit_lock', '1565282656:1'),
+(668, 160, '_edit_lock', '1565282703:1'),
+(669, 162, '_edit_lock', '1565283013:1'),
+(670, 164, '_edit_lock', '1565286400:1'),
+(671, 166, '_edit_lock', '1565287825:1'),
+(672, 168, '_edit_lock', '1565288504:1'),
+(673, 170, '_edit_lock', '1565326121:1'),
+(674, 172, '_menu_item_type', 'post_type'),
+(675, 172, '_menu_item_menu_item_parent', '0'),
+(676, 172, '_menu_item_object_id', '170'),
+(677, 172, '_menu_item_object', 'page'),
+(678, 172, '_menu_item_target', ''),
+(679, 172, '_menu_item_classes', 'a:1:{i:0;s:0:\"\";}'),
+(680, 172, '_menu_item_xfn', ''),
+(681, 172, '_menu_item_url', ''),
+(683, 172, 'color_class', 'menu-btn-color-5'),
+(684, 172, '_color_class', 'field_5d483ba09bc99'),
+(685, 172, 'img_class', 'img-btn-9'),
+(686, 172, '_img_class', 'field_5d483d31056dc');
 
 -- --------------------------------------------------------
 
@@ -837,7 +848,7 @@ INSERT INTO `wp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post
 (64, 1, '2019-07-31 10:23:11', '2019-07-31 07:23:11', '', 'ОБРАЗОВАТЕЛЬНЫЕ СТАНДАРТЫ', '', 'inherit', 'closed', 'closed', '', '63-revision-v1', '', '', '2019-07-31 10:23:11', '2019-07-31 07:23:11', '', 63, 'http://inos.local/2019/07/31/63-revision-v1/', 0, 'revision', '', 0),
 (65, 1, '2019-07-31 10:56:34', '2019-07-31 07:56:34', '', 'РУКОВОДСТВО.НАУЧНО-ПЕДАГОГИЧЕСКИЙ СОСТАВ', '', 'publish', 'closed', 'closed', '', 'pedagogicheskiy-sostav', '', '', '2019-07-31 10:56:34', '2019-07-31 07:56:34', '', 0, 'http://inos.local/?page_id=65', 0, 'page', '', 0),
 (66, 1, '2019-07-31 10:56:13', '2019-07-31 07:56:13', '', 'РУКОВОДСТВО.НАУЧНО-ПЕДАГОГИЧЕСКИЙ СОСТАВ', '', 'inherit', 'closed', 'closed', '', '65-revision-v1', '', '', '2019-07-31 10:56:13', '2019-07-31 07:56:13', '', 65, 'http://inos.local/2019/07/31/65-revision-v1/', 0, 'revision', '', 0),
-(67, 1, '2019-08-05 17:16:12', '2019-08-05 14:16:12', ' ', '', '', 'publish', 'closed', 'closed', '', '67', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=67', 12, 'nav_menu_item', '', 0),
+(67, 1, '2019-08-05 17:16:12', '2019-08-05 14:16:12', ' ', '', '', 'publish', 'closed', 'closed', '', '67', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=67', 12, 'nav_menu_item', '', 0),
 (68, 1, '2019-08-05 17:23:14', '2019-08-05 14:23:14', 'a:10:{s:4:\"type\";s:4:\"text\";s:12:\"instructions\";s:21:\"e.x. menu-btn-color-1\";s:8:\"required\";i:0;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\"\";s:5:\"class\";s:0:\"\";s:2:\"id\";s:0:\"\";}s:13:\"default_value\";s:0:\"\";s:11:\"placeholder\";s:0:\"\";s:7:\"prepend\";s:0:\"\";s:6:\"append\";s:0:\"\";s:9:\"maxlength\";s:0:\"\";}', 'Класс цвета меню', 'color_class', 'publish', 'closed', 'closed', '', 'field_5d483ba09bc99', '', '', '2019-08-05 17:23:14', '2019-08-05 14:23:14', '', 5, 'http://inos.local/?post_type=acf-field&p=68', 0, 'acf-field', '', 0),
 (69, 1, '2019-08-05 17:30:29', '2019-08-05 14:30:29', 'a:10:{s:4:\"type\";s:4:\"text\";s:12:\"instructions\";s:14:\"e.x. img-btn-1\";s:8:\"required\";i:1;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\"\";s:5:\"class\";s:0:\"\";s:2:\"id\";s:0:\"\";}s:13:\"default_value\";s:0:\"\";s:11:\"placeholder\";s:0:\"\";s:7:\"prepend\";s:0:\"\";s:6:\"append\";s:0:\"\";s:9:\"maxlength\";s:0:\"\";}', 'Класс изображения меню', 'img_class', 'publish', 'closed', 'closed', '', 'field_5d483d31056dc', '', '', '2019-08-05 17:30:29', '2019-08-05 14:30:29', '', 5, 'http://inos.local/?post_type=acf-field&p=69', 1, 'acf-field', '', 0),
 (70, 1, '2019-08-05 17:54:30', '2019-08-05 14:54:30', 'a:7:{s:8:\"location\";a:1:{i:0;a:1:{i:0;a:3:{s:5:\"param\";s:13:\"nav_menu_item\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:15:\"location/bottom\";}}}s:8:\"position\";s:6:\"normal\";s:5:\"style\";s:7:\"default\";s:15:\"label_placement\";s:3:\"top\";s:21:\"instruction_placement\";s:5:\"label\";s:14:\"hide_on_screen\";s:0:\"\";s:11:\"description\";s:0:\"\";}', 'Нижнее меню', '%d0%bd%d0%b8%d0%b6%d0%bd%d0%b5%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e', 'publish', 'closed', 'closed', '', 'group_5d48431f22cee', '', '', '2019-08-05 17:55:16', '2019-08-05 14:55:16', '', 0, 'http://inos.local/?post_type=acf-field-group&#038;p=70', 0, 'acf-field-group', '', 0),
@@ -857,18 +868,17 @@ INSERT INTO `wp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post
 (84, 1, '2019-08-06 08:59:27', '2019-08-06 05:59:27', '', 'НАУЧНО-ПЕДАГОГИЧЕСКИЙ СОСТАВ', '', 'publish', 'closed', 'closed', '', '%d0%bd%d0%b0%d1%83%d1%87%d0%bd%d0%be-%d0%bf%d0%b5%d0%b4%d0%b0%d0%b3%d0%be%d0%b3%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d1%81%d0%be%d1%81%d1%82%d0%b0%d0%b2', '', '', '2019-08-06 09:00:28', '2019-08-06 06:00:28', '', 0, 'http://inos.local/?p=84', 5, 'nav_menu_item', '', 0),
 (85, 1, '2019-08-06 08:59:58', '2019-08-06 05:59:58', '', 'ТЕКУЩИЕ ЦИКЛЫ ЛЕКЦИЙ', '', 'publish', 'closed', 'closed', '', '%d1%82%d0%b5%d0%ba%d1%83%d1%89%d0%b8%d0%b5-%d1%86%d0%b8%d0%ba%d0%bb%d1%8b-%d0%bb%d0%b5%d0%ba%d1%86%d0%b8%d0%b9', '', '', '2019-08-06 09:00:28', '2019-08-06 06:00:28', '', 0, 'http://inos.local/?p=85', 6, 'nav_menu_item', '', 0),
 (86, 1, '2019-08-06 09:00:28', '2019-08-06 06:00:28', '', 'ГАЛЕРЕЯ', '', 'publish', 'closed', 'closed', '', '%d0%b3%d0%b0%d0%bb%d0%b5%d1%80%d0%b5%d1%8f', '', '', '2019-08-06 09:00:28', '2019-08-06 06:00:28', '', 0, 'http://inos.local/?p=86', 7, 'nav_menu_item', '', 0),
-(87, 1, '2019-08-06 09:01:33', '2019-08-06 06:01:33', '', 'ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ', '', 'publish', 'closed', 'closed', '', '%d0%b8%d0%bd%d1%81%d1%82%d0%b8%d1%82%d1%83%d1%82-%d0%bd%d0%be%d0%b2%d1%8b%d1%85-%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d1%81%d0%b8%d1%81%d1%82', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=87', 1, 'nav_menu_item', '', 0),
-(88, 1, '2019-08-06 09:03:05', '2019-08-06 06:03:05', '', 'ОСНОВНЫЕ СВЕДЕНИЯ об образовательной организации', '', 'publish', 'closed', 'closed', '', '%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d1%81%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be%d0%b1-%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=88', 2, 'nav_menu_item', '', 0),
-(89, 1, '2019-08-06 09:03:35', '2019-08-06 06:03:35', ' ', '', '', 'publish', 'closed', 'closed', '', '89', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=89', 3, 'nav_menu_item', '', 0),
-(90, 1, '2019-08-06 09:04:03', '2019-08-06 06:04:03', ' ', '', '', 'publish', 'closed', 'closed', '', '90', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=90', 4, 'nav_menu_item', '', 0),
-(91, 1, '2019-08-06 09:04:48', '2019-08-06 06:04:48', '', 'СТРУКТУРА И ОРГАНЫ УПРАВЛЕНИЯ ИНСТИТУТА', '', 'publish', 'closed', 'closed', '', '%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80%d0%b0-%d0%b8-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d1%8b-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b8%d0%bd%d1%81%d1%82%d0%b8%d1%82', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=91', 5, 'nav_menu_item', '', 0),
-(92, 1, '2019-08-06 09:05:26', '2019-08-06 06:05:26', ' ', '', '', 'publish', 'closed', 'closed', '', '92', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=92', 6, 'nav_menu_item', '', 0),
-(93, 1, '2019-08-06 09:06:20', '2019-08-06 06:06:20', ' ', '', '', 'publish', 'closed', 'closed', '', '93', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=93', 7, 'nav_menu_item', '', 0),
-(94, 1, '2019-08-06 09:07:08', '2019-08-06 06:07:08', '', 'УЧЕБНЫЙ ПЛАН', '', 'publish', 'closed', 'closed', '', '%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d1%8b%d0%b9-%d0%bf%d0%bb%d0%b0%d0%bd', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=94', 8, 'nav_menu_item', '', 0),
-(95, 1, '2019-08-06 09:07:54', '2019-08-06 06:07:54', ' ', '', '', 'publish', 'closed', 'closed', '', '95', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=95', 9, 'nav_menu_item', '', 0),
-(96, 1, '2019-08-06 09:09:23', '2019-08-06 06:09:23', '', 'ТЕКУЩИЕ ЦИКЛЫ ЛЕКЦИЙ', '', 'publish', 'closed', 'closed', '', '%d1%82%d0%b5%d0%ba%d1%83%d1%89%d0%b8%d0%b5-%d1%86%d0%b8%d0%ba%d0%bb%d1%8b-%d0%bb%d0%b5%d0%ba%d1%86%d0%b8%d0%b9-2', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=96', 10, 'nav_menu_item', '', 0),
-(97, 1, '2019-08-06 09:10:43', '2019-08-06 06:10:43', ' ', '', '', 'publish', 'closed', 'closed', '', '97', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=97', 11, 'nav_menu_item', '', 0),
-(98, 1, '2019-08-06 09:11:40', '2019-08-06 06:11:40', ' ', '', '', 'publish', 'closed', 'closed', '', '98', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=98', 13, 'nav_menu_item', '', 0),
+(87, 1, '2019-08-06 09:01:33', '2019-08-06 06:01:33', '', 'ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ', '', 'publish', 'closed', 'closed', '', '%d0%b8%d0%bd%d1%81%d1%82%d0%b8%d1%82%d1%83%d1%82-%d0%bd%d0%be%d0%b2%d1%8b%d1%85-%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d1%8b%d1%85-%d1%81%d0%b8%d1%81%d1%82', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=87', 1, 'nav_menu_item', '', 0),
+(88, 1, '2019-08-06 09:03:05', '2019-08-06 06:03:05', '', 'ОСНОВНЫЕ СВЕДЕНИЯ об образовательной организации', '', 'publish', 'closed', 'closed', '', '%d0%be%d1%81%d0%bd%d0%be%d0%b2%d0%bd%d1%8b%d0%b5-%d1%81%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be%d0%b1-%d0%be%d0%b1%d1%80%d0%b0%d0%b7%d0%be%d0%b2%d0%b0%d1%82%d0%b5%d0%bb%d1%8c%d0%bd%d0%be', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=88', 2, 'nav_menu_item', '', 0),
+(89, 1, '2019-08-06 09:03:35', '2019-08-06 06:03:35', ' ', '', '', 'publish', 'closed', 'closed', '', '89', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=89', 3, 'nav_menu_item', '', 0),
+(90, 1, '2019-08-06 09:04:03', '2019-08-06 06:04:03', ' ', '', '', 'publish', 'closed', 'closed', '', '90', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=90', 4, 'nav_menu_item', '', 0),
+(91, 1, '2019-08-06 09:04:48', '2019-08-06 06:04:48', '', 'СТРУКТУРА И ОРГАНЫ УПРАВЛЕНИЯ ИНСТИТУТА', '', 'publish', 'closed', 'closed', '', '%d1%81%d1%82%d1%80%d1%83%d0%ba%d1%82%d1%83%d1%80%d0%b0-%d0%b8-%d0%be%d1%80%d0%b3%d0%b0%d0%bd%d1%8b-%d1%83%d0%bf%d1%80%d0%b0%d0%b2%d0%bb%d0%b5%d0%bd%d0%b8%d1%8f-%d0%b8%d0%bd%d1%81%d1%82%d0%b8%d1%82', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=91', 5, 'nav_menu_item', '', 0),
+(92, 1, '2019-08-06 09:05:26', '2019-08-06 06:05:26', ' ', '', '', 'publish', 'closed', 'closed', '', '92', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=92', 6, 'nav_menu_item', '', 0),
+(93, 1, '2019-08-06 09:06:20', '2019-08-06 06:06:20', ' ', '', '', 'publish', 'closed', 'closed', '', '93', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=93', 7, 'nav_menu_item', '', 0),
+(94, 1, '2019-08-06 09:07:08', '2019-08-06 06:07:08', '', 'УЧЕБНЫЙ ПЛАН', '', 'publish', 'closed', 'closed', '', '%d1%83%d1%87%d0%b5%d0%b1%d0%bd%d1%8b%d0%b9-%d0%bf%d0%bb%d0%b0%d0%bd', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=94', 8, 'nav_menu_item', '', 0),
+(95, 1, '2019-08-06 09:07:54', '2019-08-06 06:07:54', ' ', '', '', 'publish', 'closed', 'closed', '', '95', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=95', 9, 'nav_menu_item', '', 0),
+(97, 1, '2019-08-06 09:10:43', '2019-08-06 06:10:43', ' ', '', '', 'publish', 'closed', 'closed', '', '97', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=97', 11, 'nav_menu_item', '', 0),
+(98, 1, '2019-08-06 09:11:40', '2019-08-06 06:11:40', ' ', '', '', 'publish', 'closed', 'closed', '', '98', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=98', 13, 'nav_menu_item', '', 0),
 (109, 1, '2019-08-06 12:08:34', '2019-08-06 09:08:34', '', 'ЭЛЕКТРОННЫЕ ОБРАЗОВАТЕЛЬНЫЕ РЕСУРСЫ', '', 'publish', 'closed', 'closed', '', 'obrazovatelnie-resursy', '', '', '2019-08-06 12:08:34', '2019-08-06 09:08:34', '', 0, 'http://inos.local/?page_id=109', 0, 'page', '', 0),
 (110, 1, '2019-08-06 12:07:49', '2019-08-06 09:07:49', '', 'ЭЛЕКТРОННЫЕ ОБРАЗОВАТЕЛЬНЫЕ РЕСУРСЫ', '', 'inherit', 'closed', 'closed', '', '109-revision-v1', '', '', '2019-08-06 12:07:49', '2019-08-06 09:07:49', '', 109, 'http://inos.local/2019/08/06/109-revision-v1/', 0, 'revision', '', 0),
 (111, 1, '2019-08-06 12:33:49', '2019-08-06 09:33:49', '', 'ОРГАНИЗАЦИИ', '', 'publish', 'closed', 'closed', '', 'organizacii', '', '', '2019-08-06 12:33:49', '2019-08-06 09:33:49', '', 0, 'http://inos.local/?page_id=111', 0, 'page', '', 0),
@@ -891,16 +901,16 @@ INSERT INTO `wp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post
 (128, 1, '2019-08-06 20:21:04', '2019-08-06 17:21:04', '', 'ЦИКЛЫ ЛЕКЦИЙ.РУССКИЙ И ЛИТЕРАТУРА', '', 'publish', 'closed', 'closed', '', 'kval-russ-lit-cikl', '', '', '2019-08-06 20:23:48', '2019-08-06 17:23:48', '', 0, 'http://inos.local/?page_id=128', 0, 'page', '', 0),
 (129, 1, '2019-08-06 20:20:59', '2019-08-06 17:20:59', '', 'ЦИКЛЫ ЛЕКЦИЙ.РУССКИЙ И ЛИТЕРАТУРА', '', 'inherit', 'closed', 'closed', '', '128-revision-v1', '', '', '2019-08-06 20:20:59', '2019-08-06 17:20:59', '', 128, 'http://inos.local/2019/08/06/128-revision-v1/', 0, 'revision', '', 0);
 INSERT INTO `wp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post_content`, `post_title`, `post_excerpt`, `post_status`, `comment_status`, `ping_status`, `post_password`, `post_name`, `to_ping`, `pinged`, `post_modified`, `post_modified_gmt`, `post_content_filtered`, `post_parent`, `guid`, `menu_order`, `post_type`, `post_mime_type`, `comment_count`) VALUES
-(130, 1, '2019-08-07 09:36:43', '2019-08-07 06:36:43', '', 'МАТЕРИАЛЬНО-ТЕХНИЧЕСКОЕ ОБЕПЕЧЕНИЕ И ОСНАЩЕННОСТЬ ОБРАЗОВАТЕЛЬНОГО ПРОЦЕССА', '', 'publish', 'closed', 'closed', '', '%d0%bc%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%be%d0%b1%d0%b5%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-2', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=130', 14, 'nav_menu_item', '', 0),
-(131, 1, '2019-08-07 09:38:10', '2019-08-07 06:38:10', '', 'СВЕДЕНИЯ О ЗДАНИЯХ И ПОМЕЩЕНИЯХ, ИСПОЛЬЗУЕМЫХ ДЛЯ ОБРАЗОВАТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ', '', 'publish', 'closed', 'closed', '', '%d1%81%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be-%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d1%8f%d1%85-%d0%b8-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d1%8f%d1%85-%d0%b8%d1%81%d0%bf%d0%be%d0%bb-2', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=131', 15, 'nav_menu_item', '', 0),
-(132, 1, '2019-08-07 09:38:46', '2019-08-07 06:38:46', ' ', '', '', 'publish', 'closed', 'closed', '', '132', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=132', 16, 'nav_menu_item', '', 0),
-(133, 1, '2019-08-07 09:39:17', '2019-08-07 06:39:17', ' ', '', '', 'publish', 'closed', 'closed', '', '133', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=133', 17, 'nav_menu_item', '', 0),
-(134, 1, '2019-08-07 09:39:51', '2019-08-07 06:39:51', ' ', '', '', 'publish', 'closed', 'closed', '', '134', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=134', 18, 'nav_menu_item', '', 0),
-(135, 1, '2019-08-07 09:40:28', '2019-08-07 06:40:28', ' ', '', '', 'publish', 'closed', 'closed', '', '135', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=135', 19, 'nav_menu_item', '', 0),
-(136, 1, '2019-08-07 09:40:52', '2019-08-07 06:40:52', ' ', '', '', 'publish', 'closed', 'closed', '', '136', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=136', 20, 'nav_menu_item', '', 0),
-(137, 1, '2019-08-07 09:41:15', '2019-08-07 06:41:15', ' ', '', '', 'publish', 'closed', 'closed', '', '137', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=137', 21, 'nav_menu_item', '', 0),
-(138, 1, '2019-08-07 09:41:40', '2019-08-07 06:41:40', ' ', '', '', 'publish', 'closed', 'closed', '', '138', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=138', 22, 'nav_menu_item', '', 0),
-(139, 1, '2019-08-07 09:42:40', '2019-08-07 06:42:40', ' ', '', '', 'publish', 'closed', 'closed', '', '139', '', '', '2019-08-07 09:43:12', '2019-08-07 06:43:12', '', 0, 'http://inos.local/?p=139', 23, 'nav_menu_item', '', 0),
+(130, 1, '2019-08-07 09:36:43', '2019-08-07 06:36:43', '', 'МАТЕРИАЛЬНО-ТЕХНИЧЕСКОЕ ОБЕПЕЧЕНИЕ И ОСНАЩЕННОСТЬ ОБРАЗОВАТЕЛЬНОГО ПРОЦЕССА', '', 'publish', 'closed', 'closed', '', '%d0%bc%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%b0%d0%bb%d1%8c%d0%bd%d0%be-%d1%82%d0%b5%d1%85%d0%bd%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%be%d0%b5-%d0%be%d0%b1%d0%b5%d0%bf%d0%b5%d1%87%d0%b5%d0%bd%d0%b8%d0%b5-2', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=130', 14, 'nav_menu_item', '', 0),
+(131, 1, '2019-08-07 09:38:10', '2019-08-07 06:38:10', '', 'СВЕДЕНИЯ О ЗДАНИЯХ И ПОМЕЩЕНИЯХ, ИСПОЛЬЗУЕМЫХ ДЛЯ ОБРАЗОВАТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ', '', 'publish', 'closed', 'closed', '', '%d1%81%d0%b2%d0%b5%d0%b4%d0%b5%d0%bd%d0%b8%d1%8f-%d0%be-%d0%b7%d0%b4%d0%b0%d0%bd%d0%b8%d1%8f%d1%85-%d0%b8-%d0%bf%d0%be%d0%bc%d0%b5%d1%89%d0%b5%d0%bd%d0%b8%d1%8f%d1%85-%d0%b8%d1%81%d0%bf%d0%be%d0%bb-2', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=131', 15, 'nav_menu_item', '', 0),
+(132, 1, '2019-08-07 09:38:46', '2019-08-07 06:38:46', ' ', '', '', 'publish', 'closed', 'closed', '', '132', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=132', 16, 'nav_menu_item', '', 0),
+(133, 1, '2019-08-07 09:39:17', '2019-08-07 06:39:17', ' ', '', '', 'publish', 'closed', 'closed', '', '133', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=133', 17, 'nav_menu_item', '', 0),
+(134, 1, '2019-08-07 09:39:51', '2019-08-07 06:39:51', ' ', '', '', 'publish', 'closed', 'closed', '', '134', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=134', 18, 'nav_menu_item', '', 0),
+(135, 1, '2019-08-07 09:40:28', '2019-08-07 06:40:28', ' ', '', '', 'publish', 'closed', 'closed', '', '135', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=135', 19, 'nav_menu_item', '', 0),
+(136, 1, '2019-08-07 09:40:52', '2019-08-07 06:40:52', ' ', '', '', 'publish', 'closed', 'closed', '', '136', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=136', 20, 'nav_menu_item', '', 0),
+(137, 1, '2019-08-07 09:41:15', '2019-08-07 06:41:15', ' ', '', '', 'publish', 'closed', 'closed', '', '137', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=137', 21, 'nav_menu_item', '', 0),
+(138, 1, '2019-08-07 09:41:40', '2019-08-07 06:41:40', ' ', '', '', 'publish', 'closed', 'closed', '', '138', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=138', 22, 'nav_menu_item', '', 0),
+(139, 1, '2019-08-07 09:42:40', '2019-08-07 06:42:40', ' ', '', '', 'publish', 'closed', 'closed', '', '139', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=139', 23, 'nav_menu_item', '', 0),
 (140, 1, '2019-08-07 15:11:48', '2019-08-07 12:11:48', 'a:7:{s:8:\"location\";a:1:{i:0;a:1:{i:0;a:3:{s:5:\"param\";s:13:\"nav_menu_item\";s:8:\"operator\";s:2:\"==\";s:5:\"value\";s:12:\"location/top\";}}}s:8:\"position\";s:6:\"normal\";s:5:\"style\";s:7:\"default\";s:15:\"label_placement\";s:3:\"top\";s:21:\"instruction_placement\";s:5:\"label\";s:14:\"hide_on_screen\";s:0:\"\";s:11:\"description\";s:0:\"\";}', 'Верхнее меню', '%d0%b2%d0%b5%d1%80%d1%85%d0%bd%d0%b5%d0%b5-%d0%bc%d0%b5%d0%bd%d1%8e', 'publish', 'closed', 'closed', '', 'group_5d4abff56f0fd', '', '', '2019-08-07 15:13:43', '2019-08-07 12:13:43', '', 0, 'http://inos.local/?post_type=acf-field-group&#038;p=140', 0, 'acf-field-group', '', 0),
 (141, 1, '2019-08-07 15:13:43', '2019-08-07 12:13:43', 'a:10:{s:4:\"type\";s:4:\"text\";s:12:\"instructions\";s:17:\"circle, rect, etc\";s:8:\"required\";i:1;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\"\";s:5:\"class\";s:0:\"\";s:2:\"id\";s:0:\"\";}s:13:\"default_value\";s:0:\"\";s:11:\"placeholder\";s:0:\"\";s:7:\"prepend\";s:0:\"\";s:6:\"append\";s:0:\"\";s:9:\"maxlength\";s:0:\"\";}', 'Форма ссылок', 'shape', 'publish', 'closed', 'closed', '', 'field_5d4ac00626401', '', '', '2019-08-07 15:13:43', '2019-08-07 12:13:43', '', 140, 'http://inos.local/?post_type=acf-field&p=141', 0, 'acf-field', '', 0),
 (142, 1, '2019-08-07 15:13:43', '2019-08-07 12:13:43', 'a:10:{s:4:\"type\";s:4:\"text\";s:12:\"instructions\";s:127:\"Относительно левого верхнего угла картинки в пикселях. Зависит от shape\";s:8:\"required\";i:1;s:17:\"conditional_logic\";i:0;s:7:\"wrapper\";a:3:{s:5:\"width\";s:0:\"\";s:5:\"class\";s:0:\"\";s:2:\"id\";s:0:\"\";}s:13:\"default_value\";s:0:\"\";s:11:\"placeholder\";s:0:\"\";s:7:\"prepend\";s:0:\"\";s:6:\"append\";s:0:\"\";s:9:\"maxlength\";s:0:\"\";}', 'Координаты ссылки', 'coords', 'publish', 'closed', 'closed', '', 'field_5d4ac04226402', '', '', '2019-08-07 15:13:43', '2019-08-07 12:13:43', '', 140, 'http://inos.local/?post_type=acf-field&p=142', 1, 'acf-field', '', 0),
@@ -909,7 +919,31 @@ INSERT INTO `wp_posts` (`ID`, `post_author`, `post_date`, `post_date_gmt`, `post
 (145, 1, '2019-08-07 15:16:06', '2019-08-07 12:16:06', ' ', '', '', 'publish', 'closed', 'closed', '', '145', '', '', '2019-08-07 15:17:51', '2019-08-07 12:17:51', '', 0, 'http://inos.local/?p=145', 3, 'nav_menu_item', '', 0),
 (146, 1, '2019-08-07 15:16:29', '2019-08-07 12:16:29', ' ', '', '', 'publish', 'closed', 'closed', '', '146', '', '', '2019-08-07 15:17:51', '2019-08-07 12:17:51', '', 0, 'http://inos.local/?p=146', 4, 'nav_menu_item', '', 0),
 (147, 1, '2019-08-07 15:17:08', '2019-08-07 12:17:08', '', 'Текущие циклы лекций', '', 'publish', 'closed', 'closed', '', '%d1%82%d0%b5%d0%ba%d1%83%d1%89%d0%b8%d0%b5-%d1%86%d0%b8%d0%ba%d0%bb%d1%8b-%d0%bb%d0%b5%d0%ba%d1%86%d0%b8%d0%b9-3', '', '', '2019-08-07 15:17:51', '2019-08-07 12:17:51', '', 0, 'http://inos.local/?p=147', 5, 'nav_menu_item', '', 0),
-(148, 1, '2019-08-07 15:17:51', '2019-08-07 12:17:51', '', 'РУКОВОДСТВО. ПЕДАГОГИЧЕСКИЙ СОСТАВ', '', 'publish', 'closed', 'closed', '', '%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%b5%d0%b4%d0%b0%d0%b3%d0%be%d0%b3%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d1%81%d0%be%d1%81%d1%82%d0%b0%d0%b2', '', '', '2019-08-07 15:17:51', '2019-08-07 12:17:51', '', 0, 'http://inos.local/?p=148', 6, 'nav_menu_item', '', 0);
+(148, 1, '2019-08-07 15:17:51', '2019-08-07 12:17:51', '', 'РУКОВОДСТВО. ПЕДАГОГИЧЕСКИЙ СОСТАВ', '', 'publish', 'closed', 'closed', '', '%d1%80%d1%83%d0%ba%d0%be%d0%b2%d0%be%d0%b4%d1%81%d1%82%d0%b2%d0%be-%d0%bf%d0%b5%d0%b4%d0%b0%d0%b3%d0%be%d0%b3%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d1%81%d0%be%d1%81%d1%82%d0%b0%d0%b2', '', '', '2019-08-07 15:17:51', '2019-08-07 12:17:51', '', 0, 'http://inos.local/?p=148', 6, 'nav_menu_item', '', 0),
+(149, 1, '2019-08-08 16:34:14', '0000-00-00 00:00:00', '', 'Черновик', '', 'auto-draft', 'closed', 'closed', '', '', '', '', '2019-08-08 16:34:14', '0000-00-00 00:00:00', '', 0, 'http://inos.local/?page_id=149', 0, 'page', '', 0),
+(150, 1, '2019-08-08 16:35:03', '2019-08-08 13:35:03', '', 'УЧЕБНЫЙ ПЛАН ПОВЫШЕНИЯ КВАЛИФИКАЦИИ', '', 'inherit', 'closed', 'closed', '', '59-autosave-v1', '', '', '2019-08-08 16:35:03', '2019-08-08 13:35:03', '', 59, 'http://inos.local/2019/08/08/59-autosave-v1/', 0, 'revision', '', 0),
+(151, 1, '2019-08-08 16:39:09', '2019-08-08 13:39:09', '', 'ПРОГРАММА ПОВЫШЕНИЯ КВАЛИФИКАЦИИ.РУКОВОДИТЕЛЬ ОБЩЕОБРАЗОВАТЕЛЬНОЙ ШКОЛЫ', '', 'publish', 'closed', 'closed', '', 'kval-ruk-obr-shkol-prog', '', '', '2019-08-08 16:39:09', '2019-08-08 13:39:09', '', 0, 'http://inos.local/?page_id=151', 0, 'page', '', 0),
+(152, 1, '2019-08-08 16:36:09', '2019-08-08 13:36:09', '', 'ПРОГРАММА ПОВЫШЕНИЯ КВАЛИФИКАЦИИ.РУКОВОДИТЕЛЬ ОБЩЕОБРАЗОВАТЕЛЬНОЙ ШКОЛЫ', '', 'inherit', 'closed', 'closed', '', '151-revision-v1', '', '', '2019-08-08 16:36:09', '2019-08-08 13:36:09', '', 151, 'http://inos.local/2019/08/08/151-revision-v1/', 0, 'revision', '', 0),
+(153, 1, '2019-08-08 17:47:58', '2019-08-08 14:47:58', '', 'УЧЕБНЫЙ ПЛАН.РУКОВОДИТЕЛЬ ОБЩЕОБРАЗОВАТЕЛЬНОЙ ШКОЛЫ', '', 'publish', 'closed', 'closed', '', 'kval-ruk-obr-shkol-plan', '', '', '2019-08-08 17:47:58', '2019-08-08 14:47:58', '', 0, 'http://inos.local/?page_id=153', 0, 'page', '', 0),
+(154, 1, '2019-08-08 17:47:52', '2019-08-08 14:47:52', '', 'УЧЕБНЫЙ ПЛАН.РУКОВОДИТЕЛЬ ОБЩЕОБРАЗОВАТЕЛЬНОЙ ШКОЛЫ', '', 'inherit', 'closed', 'closed', '', '153-revision-v1', '', '', '2019-08-08 17:47:52', '2019-08-08 14:47:52', '', 153, 'http://inos.local/2019/08/08/153-revision-v1/', 0, 'revision', '', 0),
+(155, 1, '2019-08-08 18:14:42', '2019-08-08 15:14:42', '', 'ЦИКЛЫ ЛЕКЦИЙ. РУКОВОДИТЕЛЬ ОБЩЕОБРАЗОВАТЕЛЬНОЙ ШКОЛЫ', '', 'publish', 'closed', 'closed', '', 'kval-ruk-obr-shkol-cikl', '', '', '2019-08-08 18:14:42', '2019-08-08 15:14:42', '', 0, 'http://inos.local/?page_id=155', 0, 'page', '', 0),
+(156, 1, '2019-08-08 18:14:37', '2019-08-08 15:14:37', '', 'ЦИКЛЫ ЛЕКЦИЙ. РУКОВОДИТЕЛЬ ОБЩЕОБРАЗОВАТЕЛЬНОЙ ШКОЛЫ', '', 'inherit', 'closed', 'closed', '', '155-revision-v1', '', '', '2019-08-08 18:14:37', '2019-08-08 15:14:37', '', 155, 'http://inos.local/2019/08/08/155-revision-v1/', 0, 'revision', '', 0),
+(157, 1, '2019-08-08 19:37:51', '2019-08-08 16:37:51', '', 'ПРОГРАММА ПОВЫШЕНИЯ КВАЛИФИКАЦИИ.МАТЕМАТИКА', '', 'publish', 'closed', 'closed', '', 'kval-math-prog', '', '', '2019-08-08 19:37:51', '2019-08-08 16:37:51', '', 0, 'http://inos.local/?page_id=157', 0, 'page', '', 0),
+(158, 1, '2019-08-08 19:37:44', '2019-08-08 16:37:44', '', 'ПРОГРАММА ПОВЫШЕНИЯ КВАЛИФИКАЦИИ.МАТЕМАТИКА', '', 'inherit', 'closed', 'closed', '', '157-revision-v1', '', '', '2019-08-08 19:37:44', '2019-08-08 16:37:44', '', 157, 'http://inos.local/2019/08/08/157-revision-v1/', 0, 'revision', '', 0),
+(159, 1, '2019-08-08 19:37:53', '2019-08-08 16:37:53', '', 'ПРОГРАММА ПОВЫШЕНИЯ КВАЛИФИКАЦИИ.МАТЕМАТИКА', '', 'inherit', 'closed', 'closed', '', '157-autosave-v1', '', '', '2019-08-08 19:37:53', '2019-08-08 16:37:53', '', 157, 'http://inos.local/2019/08/08/157-autosave-v1/', 0, 'revision', '', 0),
+(160, 1, '2019-08-08 19:47:26', '2019-08-08 16:47:26', '', 'УЧЕБНЫЙ ПЛАН.МАТЕМАТИКА', '', 'publish', 'closed', 'closed', '', 'kval-math-plan', '', '', '2019-08-08 19:47:26', '2019-08-08 16:47:26', '', 0, 'http://inos.local/?page_id=160', 0, 'page', '', 0),
+(161, 1, '2019-08-08 19:47:05', '2019-08-08 16:47:05', '', 'УЧЕБНЫЙ ПЛАН.МАТЕМАТИКА', '', 'inherit', 'closed', 'closed', '', '160-revision-v1', '', '', '2019-08-08 19:47:05', '2019-08-08 16:47:05', '', 160, 'http://inos.local/2019/08/08/160-revision-v1/', 0, 'revision', '', 0),
+(162, 1, '2019-08-08 19:52:37', '2019-08-08 16:52:37', '', 'ЦИКЛЫ ЛЕКЦИЙ.МАТЕМАТИКА', '', 'publish', 'closed', 'closed', '', 'kval-math-cikl', '', '', '2019-08-08 19:52:37', '2019-08-08 16:52:37', '', 0, 'http://inos.local/?page_id=162', 0, 'page', '', 0),
+(163, 1, '2019-08-08 19:52:25', '2019-08-08 16:52:25', '', 'ЦИКЛЫ ЛЕКЦИЙ.МАТЕМАТИКА', '', 'inherit', 'closed', 'closed', '', '162-revision-v1', '', '', '2019-08-08 19:52:25', '2019-08-08 16:52:25', '', 162, 'http://inos.local/2019/08/08/162-revision-v1/', 0, 'revision', '', 0),
+(164, 1, '2019-08-08 20:49:03', '2019-08-08 17:49:03', '', 'ПРОГРАММА ПОВЫШЕНИЯ КВАЛИФИКАЦИИ.ПРЕПОДАВАНИЕ В НАЧАЛЬНОЙ ШКОЛЕ', '', 'publish', 'closed', 'closed', '', 'kval-nach-school-prog', '', '', '2019-08-08 20:49:03', '2019-08-08 17:49:03', '', 0, 'http://inos.local/?page_id=164', 0, 'page', '', 0),
+(165, 1, '2019-08-08 20:48:43', '2019-08-08 17:48:43', '', 'ПРОГРАММА ПОВЫШЕНИЯ КВАЛИФИКАЦИИ.ПРЕПОДАВАНИЕ В НАЧАЛЬНОЙ ШКОЛЕ', '', 'inherit', 'closed', 'closed', '', '164-revision-v1', '', '', '2019-08-08 20:48:43', '2019-08-08 17:48:43', '', 164, 'http://inos.local/2019/08/08/164-revision-v1/', 0, 'revision', '', 0),
+(166, 1, '2019-08-08 21:12:49', '2019-08-08 18:12:49', '', 'УЧЕБНЫЙ ПЛАН.ПРЕПОДАВАНИЕ В НАЧАЛЬНОЙ ШКОЛЕ', '', 'publish', 'closed', 'closed', '', 'kval-nach-school-plan', '', '', '2019-08-08 21:12:49', '2019-08-08 18:12:49', '', 0, 'http://inos.local/?page_id=166', 0, 'page', '', 0),
+(167, 1, '2019-08-08 21:12:33', '2019-08-08 18:12:33', '', 'УЧЕБНЫЙ ПЛАН.ПРЕПОДАВАНИЕ В НАЧАЛЬНОЙ ШКОЛЕ', '', 'inherit', 'closed', 'closed', '', '166-revision-v1', '', '', '2019-08-08 21:12:33', '2019-08-08 18:12:33', '', 166, 'http://inos.local/2019/08/08/166-revision-v1/', 0, 'revision', '', 0),
+(168, 1, '2019-08-08 21:24:07', '2019-08-08 18:24:07', '', 'ЦИКЛЫ ЛЕКЦИЙ.ПРЕПОДАВАНИЕ В НАЧАЛЬНОЙ ШКОЛЕ', '', 'publish', 'closed', 'closed', '', 'kval-nach-school-cikl', '', '', '2019-08-08 21:24:07', '2019-08-08 18:24:07', '', 0, 'http://inos.local/?page_id=168', 0, 'page', '', 0),
+(169, 1, '2019-08-08 21:23:45', '2019-08-08 18:23:45', '', 'ЦИКЛЫ ЛЕКЦИЙ.ПРЕПОДАВАНИЕ В НАЧАЛЬНОЙ ШКОЛЕ', '', 'inherit', 'closed', 'closed', '', '168-revision-v1', '', '', '2019-08-08 21:23:45', '2019-08-08 18:23:45', '', 168, 'http://inos.local/2019/08/08/168-revision-v1/', 0, 'revision', '', 0),
+(170, 1, '2019-08-09 07:51:05', '2019-08-09 04:51:05', '', 'ТЕКУЩИЕ ЦИКЛЫ ЛЕКЦИЙ', '', 'publish', 'closed', 'closed', '', 'cikl-lek', '', '', '2019-08-09 07:51:05', '2019-08-09 04:51:05', '', 0, 'http://inos.local/?page_id=170', 0, 'page', '', 0),
+(171, 1, '2019-08-09 07:50:44', '2019-08-09 04:50:44', '', 'ТЕКУЩИЕ ЦИКЛЫ ЛЕКЦИЙ', '', 'inherit', 'closed', 'closed', '', '170-revision-v1', '', '', '2019-08-09 07:50:44', '2019-08-09 04:50:44', '', 170, 'http://inos.local/2019/08/09/170-revision-v1/', 0, 'revision', '', 0),
+(172, 1, '2019-08-09 07:54:00', '2019-08-09 04:54:00', ' ', '', '', 'publish', 'closed', 'closed', '', '172', '', '', '2019-08-09 07:54:00', '2019-08-09 04:54:00', '', 0, 'http://inos.local/?p=172', 10, 'nav_menu_item', '', 0);
 
 -- --------------------------------------------------------
 
@@ -990,7 +1024,6 @@ INSERT INTO `wp_term_relationships` (`object_id`, `term_taxonomy_id`, `term_orde
 (93, 2, 0),
 (94, 2, 0),
 (95, 2, 0),
-(96, 2, 0),
 (97, 2, 0),
 (98, 2, 0),
 (130, 2, 0),
@@ -1008,7 +1041,8 @@ INSERT INTO `wp_term_relationships` (`object_id`, `term_taxonomy_id`, `term_orde
 (145, 4, 0),
 (146, 4, 0),
 (147, 4, 0),
-(148, 4, 0);
+(148, 4, 0),
+(172, 2, 0);
 
 -- --------------------------------------------------------
 
@@ -1069,7 +1103,7 @@ INSERT INTO `wp_usermeta` (`umeta_id`, `user_id`, `meta_key`, `meta_value`) VALU
 (14, 1, 'dismissed_wp_pointers', 'theme_editor_notice'),
 (15, 1, 'default_password_nag', ''),
 (16, 1, 'show_welcome_panel', '0'),
-(17, 1, 'session_tokens', 'a:4:{s:64:\"aaa46af94f30c025a957bafddfeaafaf18d766e7fda1d4d545854f7987eda518\";a:4:{s:10:\"expiration\";i:1565185865;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:78:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0\";s:5:\"login\";i:1565013065;}s:64:\"c96e526a2da3948192433ed63605952199f57d45f6fa7f26c512b0ecb85f8974\";a:4:{s:10:\"expiration\";i:1565199869;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:110:\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36\";s:5:\"login\";i:1565027069;}s:64:\"015bc797b890ac790ca5ed4d77feeb1807339f69ffa0d722111c11c9d139162e\";a:4:{s:10:\"expiration\";i:1565243741;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:78:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0\";s:5:\"login\";i:1565070941;}s:64:\"38797aaa952a302c576b7869e6631bae625042940ea35198d2845ba23280d765\";a:4:{s:10:\"expiration\";i:1565332435;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:78:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0\";s:5:\"login\";i:1565159635;}}'),
+(17, 1, 'session_tokens', 'a:2:{s:64:\"38797aaa952a302c576b7869e6631bae625042940ea35198d2845ba23280d765\";a:4:{s:10:\"expiration\";i:1565332435;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:78:\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:68.0) Gecko/20100101 Firefox/68.0\";s:5:\"login\";i:1565159635;}s:64:\"8d0039cc13ebe76f12b478595c8f50447d133a426ff27092c4265318de24de5c\";a:4:{s:10:\"expiration\";i:1565444047;s:2:\"ip\";s:9:\"127.0.0.1\";s:2:\"ua\";s:110:\"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36\";s:5:\"login\";i:1565271247;}}'),
 (18, 1, 'wp_dashboard_quick_press_last_post_id', '117'),
 (19, 1, 'community-events-location', 'a:1:{s:2:\"ip\";s:9:\"127.0.0.0\";}'),
 (20, 1, 'wp_user-settings', 'libraryContent=browse'),
@@ -1077,7 +1111,7 @@ INSERT INTO `wp_usermeta` (`umeta_id`, `user_id`, `meta_key`, `meta_value`) VALU
 (22, 1, 'managenav-menuscolumnshidden', 'a:5:{i:0;s:11:\"link-target\";i:1;s:11:\"css-classes\";i:2;s:3:\"xfn\";i:3;s:11:\"description\";i:4;s:15:\"title-attribute\";}'),
 (23, 1, 'metaboxhidden_nav-menus', 'a:1:{i:0;s:12:\"add-post_tag\";}'),
 (24, 1, 'wp_media_library_mode', 'list'),
-(25, 1, 'nav_menu_recently_edited', '4'),
+(25, 1, 'nav_menu_recently_edited', '2'),
 (26, 1, 'closedpostboxes_dashboard', 'a:1:{i:0;s:17:\"dashboard_primary\";}'),
 (27, 1, 'metaboxhidden_dashboard', 'a:0:{}');
 
@@ -1236,19 +1270,19 @@ ALTER TABLE `wp_links`
 -- AUTO_INCREMENT для таблицы `wp_options`
 --
 ALTER TABLE `wp_options`
-  MODIFY `option_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=489;
+  MODIFY `option_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=511;
 
 --
 -- AUTO_INCREMENT для таблицы `wp_postmeta`
 --
 ALTER TABLE `wp_postmeta`
-  MODIFY `meta_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=663;
+  MODIFY `meta_id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=687;
 
 --
 -- AUTO_INCREMENT для таблицы `wp_posts`
 --
 ALTER TABLE `wp_posts`
-  MODIFY `ID` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=149;
+  MODIFY `ID` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=173;
 
 --
 -- AUTO_INCREMENT для таблицы `wp_termmeta`

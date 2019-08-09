@@ -80,37 +80,37 @@ get_header();
     </div>
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0124_1.JPG" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0124-1.JPG" alt="" class="w400 m0auto d-block mtb-20">
 
     <p class="w800 m0auto fs18 mt-10 fb txt-vi tar"><span class="mr-10">&#9734;</span><i>Имеются информационные стенды.</i></p>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0070.jpg" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0070.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0145frag.jpg" alt="" class="w400 m0auto d-block mtb-20">
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0149frag2.jpg" alt="" class="w400 m0auto d-block mtb-20">
-
-
-    <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
-
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya+/0149frag.jpg" alt="" class="w400 m0auto d-block mtb-20">
-
-    <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
-
-
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0128_1+mt.JPG" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0145frag.jpg" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0149frag2.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0132_1_1.JPG" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0149frag.jpg" alt="" class="w400 m0auto d-block mtb-20">
+
+    <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
+
+
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0128-1mt.JPG" alt="" class="w400 m0auto d-block mtb-20">
+
+
+    <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
+
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0132-1-1.JPG" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0112_1.JPG" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0112-1.JPG" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <h4 class="h4-page-header fb mtb-20"><span class="fb fs25 mr-10">&#10033;</span>Средства обучения:</h4>
@@ -175,7 +175,7 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/+galereya2+/+0127_1+mt.jpg" alt="" class="w250 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0127-1mt.jpg" alt="" class="w250 m0auto d-block mtb-20">
 
     <p class="mtb-20"></p>
     <!--Нижнее меню-->

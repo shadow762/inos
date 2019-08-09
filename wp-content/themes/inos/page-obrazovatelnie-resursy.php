@@ -16,7 +16,7 @@ get_header();
     <h4 class="h4-page-header fb mtb-20">ИСПОЛЬЗУЕМЫЕ ПРЕПОДАВАТЕЛЯМИ И
         СЛУШАТЕЛЯМИ ИНСТИТУТА В СИСТЕМЕ ПОВЫШЕНИЕ КВАЛИФИКАЦИИ ПЕДАГОГИЧЕСКИХ РАБОТНИКОВ:</h4>
 
-    <p class="w600 m0auto fs18 tac fb txt-blue"><img src="<?php echo get_template_directory_uri()?>/img/Shar8.png" class="w100h100">
+    <p class="w600 m0auto fs18 tac fb txt-blue"><img src="<?php echo get_template_directory_uri()?>/img/shar8.png" class="w100h100">
         ПОЛНОТЕКСТОВАЯ ЭЛЕКТРОННАЯ
         УЧЕБНО-МЕТОДИЧЕСКАЯ БИБЛИОТЕКА:
     </p>

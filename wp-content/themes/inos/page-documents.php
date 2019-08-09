@@ -73,12 +73,12 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/lic+/lic1.jpg" alt="лицензия">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/lic/lic1.jpg" alt="лицензия">
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/lic+/lic3.jpg" alt="лицензия">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/lic+/lic2.jpg" alt="лицензия">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/lic/lic3.jpg" alt="лицензия">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/lic/lic2.jpg" alt="лицензия">
     </div>
 
     <div class="rekv-info-block">
@@ -153,7 +153,7 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/svidetelstva+/svid1.jpg" alt="свидетельство">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid1.jpg" alt="свидетельство">
     </div>
 
     <!--    ***свидетельство 2*** -->
@@ -214,7 +214,7 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/svidetelstva+/svid2.jpg" alt="свидетельство">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid2.jpg" alt="свидетельство">
     </div>
 
     <!--    ***свидетельство 3*** -->
@@ -267,7 +267,7 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/svidetelstva+/svid3.jpg" alt="свидетельство">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid3.jpg" alt="свидетельство">
     </div>
 
     <!--    ***свидетельство 4*** -->
@@ -299,8 +299,8 @@ get_header();
 
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/svidetelstva+/svid4.jpg" alt="свидетельство">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/svidetelstva+/svid5.jpg" alt="свидетельство">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid4.jpg" alt="свидетельство">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid5.jpg" alt="свидетельство">
     </div>
 
     <!--    ***свидетельство 5*** -->
@@ -361,7 +361,7 @@ get_header();
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/svidetelstva+/svid6.jpg" alt="свидетельство">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/svidetelstva/svid6.jpg" alt="свидетельство">
     </div>
 
     <!--    ***устав*** -->
@@ -397,18 +397,18 @@ get_header();
 
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/ustav+/ustav1.jpg" alt="устав">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/ustav+/ustav2.jpg" alt="устав">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav1.jpg" alt="устав">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav2.jpg" alt="устав">
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/ustav+/ustav3.jpg" alt="устав">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/ustav+/ustav4.jpg" alt="устав">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav3.jpg" alt="устав">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav4.jpg" alt="устав">
     </div>
 
     <div class="img-container">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/ustav+/ustav5.jpg" alt="устав">
-        <img src="<?php echo get_template_directory_uri()?>/img/+docs+/ustav+/ustav6.jpg" alt="устав">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav5.jpg" alt="устав">
+        <img src="<?php echo get_template_directory_uri()?>/img/docs/ustav/ustav6.jpg" alt="устав">
     </div>
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">

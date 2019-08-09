@@ -130,6 +130,11 @@
 .fi {
   font-style: italic;
 }
+
+.fin {
+  font-style: normal;
+}
+
 .fs18 {
   font-size: 18px;
 }
@@ -224,6 +229,20 @@
 
 
 
+.ul-star::before {
+  content: '\2735';
+  font-size: 35px;
+  font-weight: bold;
+  padding-right: 10px;
+
+}
+
+.ul-flag::before {
+  content: '\1F3F1';
+}
+
+
+
 
 // images
 
@@ -248,6 +267,16 @@
   height: 20px;
 }
 
+.w50h50 {
+  width: 50px;
+  height: 50px;
+}
+
+.w65h35 {
+  width: 65px;
+  height: 35px;
+}
+
 .w100h100 {
   width: 100px;
   height: 100px;
@@ -263,10 +292,7 @@
   height: 130px;
 }
 
-.w50h50 {
-  width: 50px;
-  height: 50px;
-}
+
 
 
 
@@ -337,3 +363,15 @@
 .bb2s-blue {
   border-bottom: 2px solid blue;
 }
+
+
+//fonts
+
+.wd {
+  font-family: Wingdings;
+}
+
+.wd2 {
+  font-family: "Wingdings 2";
+}
+
