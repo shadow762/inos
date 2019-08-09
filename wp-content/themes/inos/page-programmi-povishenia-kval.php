@@ -14,7 +14,7 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/image28.png" alt="лого раздела" class="w250 mt-20 m0auto d-block">
 
 
-    <p class="w800 m0auto fs18 fb fi mt-20">С целью проведения в Институте новых образовательных систем курсов повышения квалификации педагогических
+    <p class="w800 m0auto fs20 fb fi mt-20 txt-vi tsd">С целью проведения в Институте новых образовательных систем курсов повышения квалификации педагогических
         работников образовательных учреждений разработаны, с учетом новых нормативных документов, и утверждены
         Ученым советом Института следующие учебные программы повышения квалификации работников
         образования (дополнительные профессиональные образовательная программы повышения квалификации):
@@ -22,69 +22,88 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <p class="w800 m0auto fs18 mt-10 fb"><img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-10 fb">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
         <i>
-        <a href="#">«Содержание, методика и технологии преподавания в современной
-            начальной школе в контексте Федерального государственного образовательного стандарта».  </a></i>
+        <a href="/kval-russ-lit-prog">«Содержание, методика и технологии
+            преподавания русского языка и литературы в контексте
+            Федерального государственного образовательного стандарта».</a></i>
     </p>
 
-    <p class="w800 m0auto fs18 mt-10 fb"><img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-10 fb">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
         <i>
-            <a href="#">«Содержание, методика и технологии работы руководителя общеобразовательной школы в
+            <a href="/kval-ruk-obr-shkol-prog">«Содержание, методика и технологии работы руководителя общеобразовательной школы в
                 контексте Федерального государственного образовательного стандарта».   </a></i>
     </p>
 
-    <p class="w800 m0auto fs18 mt-10 fb"><img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-10 fb">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
         <i>
-            <a href="#">«Содержание, методика и технологии преподавания математики в контексте Федерального
+            <a href="kval-math-prog">«Содержание, методика и технологии преподавания математики в контексте Федерального
                 государственного образовательного стандарта». </a></i>
     </p>
 
-    <p class="w800 m0auto fs18 mt-10 fb"><img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-10 fb">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
         <i>
-            <a href="#">«Содержание, методика и технологии преподавания в современной начальной школе в контексте
+            <a href="/kval-nach-school-prog">«Содержание, методика и технологии преподавания в современной начальной школе в контексте
                 Федерального государственного образовательного стандарта». </a></i>
     </p>
 
 
+    <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <p class="w800 m0auto fs18 fb fi mt-10"><img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
+
+    <p class="w800 m0auto fs18  mt-10 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/golybaya-strelka.png" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h80">
         
-        <a href="#">Лекционно-семинарские занятия, проводятся на базе Института авторами УМК и Федеральных нормативных
-            документов (ФГОС, ГИА, ОГЭ, ЕГЭ). </a>
+        Лекционно-семинарские занятия, проводятся на базе Института <b>авторами УМК и Федеральных нормативных
+                документов (ФГОС, ГИА, ОГЭ, ЕГЭ).</b>
     </p>
 
-    <ul class="w600 m0auto fi fb mt-20">
-        <li><a href="#">«Пед.состав»</a></li>
-        <li><a href="#">«Текущие циклы лекций»</a></li>
+    <ul class="w600 m0auto fs18 fi fb mt-10 ul-2">
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30"><a href="/pedagogicheskiy-sostav">«Пед.состав»</a></li>
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30"><a href="/cikl-lek">«Текущие циклы лекций»</a></li>
     </ul>
 
-    <p class="w800 m0auto fs18 fb fi mt-10"><img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-10 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/golybaya-strelka.png" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h80">
 
-        <a href="#">Консультации для слушателей проводятся в дни лекционных занятий, семинаров, совещаний, а также
-            в соответствии с заявками образовательных учреждений.</a>
+        Консультации для слушателей проводятся в дни лекционных занятий, семинаров, совещаний, а также
+            в соответствии с заявками образовательных учреждений.
     </p>
 
-    <p class="w800 m0auto fs18 fb fi mt-10"><img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18  mt-10 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/golybaya-strelka.png" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h80">
 
-        <a href="#">Слушателям, успешно освоившим дополнительную профессиональную программу и прошедшим итоговую
-            аттестацию, выдаются Удостоверения о повышении квалификации.</a>
+        Слушателям, успешно освоившим дополнительную профессиональную программу и прошедшим итоговую
+            аттестацию, выдаются <b><i>Удостоверения о повышении квалификации.</i></b>
     </p>
 
-    <p class="w800 m0auto fs18 fb fi mt-10"><img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-10 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/golybaya-strelka.png" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h80">
 
-        <a href="#">Удостоверение о повышении квалификации выдается учителям, а также руководителям
-            ОУ (очно-заочная форма) по программе: «Содержание, методика и технологии преподавания (…указание предмета…)
-            в контексте Федерального государственного образовательного стандарта»
+        Удостоверение о повышении квалификации выдается учителям, а также руководителям
+            ОУ (очно-заочная форма) по программе: <b><i> «Содержание, методика и технологии преподавания (…указание предмета…)
+                    в контексте Федерального государственного образовательного стандарта»</i></b>
             в объеме 72 учебных часов.
-        </a>
+
     </p>
 
-    <ul class="w600 m0auto fi fb mtb-20">
-        <li><a href="#">1</a></li>
-        <li><a href="#">2</a></li>
-        <li><a href="#">3</a></li>
-        <li><a href="#">4</a></li>
+    <ul class="w600 m0auto fs18 fi fb mtb-10 ul-2">
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30"><a href="#">Удостоверение 1</a></li>
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30"><a href="#">Удостоверение 2</a></li>
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30"><a href="#">Удостоверение 3</a></li>
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30"><a href="#">Удостоверение 4</a></li>
     </ul>
 
     <!--Нижнее меню-->

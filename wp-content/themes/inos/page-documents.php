@@ -78,20 +78,20 @@ get_header();
     <p class="w600 m0auto fb fi fs25 tac txt-bo mt-20 tsd">Проверить лицензию в реестре можно <a href="https://data.mos.ru/opendata/reestr-litsenziy-na-obrazovatelnuyu-deyatelnost-vydannyh-organami-ispolnitelnoy-vlasti/row/46710012?versionNumber=2&releaseNumber=1" target="_blank">здесь</a></p>
 
     <ul class="w600 m0auto fs18 fi fb ul-2 mt-20 tar txt-bo">
-        <li><span class="fs25 fin mr-10">&#8635;</span>Регистрационный номер лицензии: 034416</li>
-        <li><span class="fs25 fin mr-10">&#8635;</span>Дата регистрации лицензии:
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30">Регистрационный номер лицензии: 034416</li>
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30">Дата регистрации лицензии:
             10.12.2013
         </li>
-        <li><span class="fs25 fin mr-10">&#8635;</span>Образовательные программы:
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30">Образовательные программы:
             дополнительное профессиональное образование
         </li>
-        <li><span class="fs25 fin mr-10">&#8635;</span>Серия бланка лицензии:
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30">Серия бланка лицензии:
             77Л01
         </li>
-        <li><span class="fs25 fin mr-10">&#8635;</span>Номер бланка лицензии:
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30">Номер бланка лицензии:
             0001837
         </li>
-        <li><span class="fs25 fin mr-10">&#8635;</span>global_id:
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30">global_id:
             46710012
         </li>
     </ul>
@@ -111,14 +111,14 @@ get_header();
         РЕЕСТР ЮРИДИЧЕСКИХ ЛИЦ</p>
 
     <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
-        <span class="fin fs25 mr-10">&#8635;</span>
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30">
         Управление Федеральной налоговой службы
     </p>
     <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
         по г. Москве,
     </p>
     <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo">
-        <span class="fin fs25 mr-10">&#8635;</span>
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30">
         за государственным регистрационным
     </p>
     <p class="w800 m0auto fs16 fi fb tar mt-10 txt-bo ">

@@ -13,25 +13,33 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/image28.png" alt="лого раздела" class="w250 mt-20 m0auto d-block">
 
-    <p class="w800 m0auto fs18 mt-10 fb"><img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-10 fb">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
         <i>
             <a href="/kval-russ-lit-cikl">Текущие циклы лекций повышения квалификации
                 учителей
                 русского языка и литературы</a></i>
     </p>
 
-    <p class="w800 m0auto fs18 mt-10 fb"><img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-10 fb">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
         <i>
             <a href="/kval-ruk-obr-shkol-cikl">Текущие циклы лекций повышения квалификации руководителей
                 общеобразовательных учреждений</a></i>
     </p>
 
-    <p class="w800 m0auto fs18 mt-10 fb"><img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-10 fb">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
         <i>
             <a href="/kval-math-cikl">Текущие циклы лекций повышения квалификации учителей математики</a></i>
     </p>
 
-    <p class="w800 m0auto fs18 mt-10 fb"><img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-10 fb">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-9.png" alt="" class="w50h50">
         <i>
             <a href="/kval-nach-school-cikl">Текущие циклы лекций повышения квалификации учителей начальной школы</a></i>
     </p>

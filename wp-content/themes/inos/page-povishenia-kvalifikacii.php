@@ -12,65 +12,83 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/new_moon.png" alt="лого раздела" class="w250 mt-20 m0auto d-block">
 
 
-        <p class="w800 m0auto tal mt-10 fi fb fs18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">Цель обучения:</p>
-
-    <p class="w800 m0auto fs18">овладение особенностями нового содержания, технологий и методики преподавания.
+    <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
+        Цель обучения:
     </p>
 
-    <p class="w800 m0auto tal mt-10 fi fb fs18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+    <p class="w800 m0auto fs18 fb tsd txt-vi">овладение особенностями нового содержания, технологий и методики преподавания.
+    </p>
+
+     <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Уровень (ступень) образования:</i>
     </p>
 
-    <p class="w800 m0auto fs18">дополнительное к высшему профессиональному образованию.
+    <p class="w800 m0auto fs18 fb tsd txt-vi">дополнительное к высшему профессиональному образованию.
     </p>
 
-    <p class="w800 m0auto tal mt-10 fi fb fs18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+     <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Вид образовательной программы:</i>
     </p>
 
-    <p class="w800 m0auto fs18">дополнительная.
+    <p class="w800 m0auto fs18 fb tsd txt-vi">дополнительная.
     </p>
 
-    <p class="w800 m0auto tal mt-10 fi fb fs18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+     <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Категория слушателей:</i>
     </p>
 
-    <p class="w800 m0auto fs18">учителя, работники образовательных учреждений
+    <p class="w800 m0auto fs18 fb tsd txt-vi">учителя, работники образовательных учреждений
     </p>
 
-    <p class="w800 m0auto tal mt-10 fi fb fs18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+     <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Сроки обучения: </i>
     </p>
 
-    <p class="w800 m0auto fs18">учебный год.
+    <p class="w800 m0auto fs18 fb tsd txt-vi">учебный год.
     </p>
 
-    <p class="w800 m0auto tal mt-10 fi fb fs18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+     <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Нормативный срок освоения: </i>
     </p>
 
-    <p class="w800 m0auto fs18">72,144 час.
+    <p class="w800 m0auto fs18 fb tsd txt-vi">72,144 час.
     </p>
 
-    <p class="w800 m0auto tal mt-10 fi fb fs18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24">
+     <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Режим занятий: </i>
     </p>
 
-    <p class="w800 m0auto fs18">индивидуально-групповой, по расписанию.
+    <p class="w800 m0auto fs18 fb tsd txt-vi">индивидуально-групповой, по расписанию.
     </p>
 
-    <p class="w800 m0auto tal mt-10 fi fb fs18 txt-lblue"><img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w40h24 mr-10">
+    <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Форма обучения: </i>
     </p>
 
-    <p class="w800 m0auto fs18">очно-заочная, без отрыва от основной работы
+    <p class="w800 m0auto fs18 fb tsd txt-vi">очно-заочная, без отрыва от основной работы
     </p>
 
 
 
 
 
-    <p class="w800 m0auto fs18 mt-20"><img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-50"><img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w50h50">
         Учебный план повышения квалификации педагогических кадров разработан в соответствии
         с действующими нормативно-правовыми требованиями к системе повышения квалификации специалистов и является
         нормативно-правовой основой, регламентирующей организацию и содержание образовательного процесса в системе
@@ -98,27 +116,36 @@ get_header();
         На основе учебного плана и содержания образовательной программы разработаны учебно-тематические планы, учитывающие исходный образовательный уровень и профессиональную подготовленность педагогов.
     </p>
 
-    <p class="w800 m0auto fs18 mt-20"><img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-20 fb fi">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
+
         Учебный план программы
-        <a href="#">«Содержание, методика и технологии преподавания русского языка и литературы в контексте
+        <a href="/kval-russ-lit-plan">«Содержание, методика и технологии преподавания русского языка и литературы в контексте
             Федерального государственного образовательного стандарта».</a>
     </p>
 
-    <p class="w800 m0auto fs18 mt-20"><img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-20 fb fi">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
         Учебный план программы
-        <a href="#">«Содержание, методика и технологии работы руководителя общеобразовательной
+        <a href="/kval-ruk-obr-shkol-plan">«Содержание, методика и технологии работы руководителя общеобразовательной
             школы в контексте Федерального государственного образовательного стандарта». </a>
     </p>
 
-    <p class="w800 m0auto fs18 mt-20"><img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mt-20 fb fi">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
         Учебный план программы
-        <a href="#">«Содержание, методика и технологии преподавания математики в контексте
+        <a href="kval-math-plan">«Содержание, методика и технологии преподавания математики в контексте
             Федерального государственного образовательного стандарта». </a>
     </p>
 
-    <p class="w800 m0auto fs18 mtb-20"><img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
+    <p class="w800 m0auto fs18 mtb-20 fb fi">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/obrazovanie.svg" alt="" class="w50h50 txt-vi">
+        <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50">
         Учебный план программы
-        <a href="#">«Содержание, методика и технологии преподавания в современной
+        <a href="/kval-nach-school-plan">«Содержание, методика и технологии преподавания в современной
             начальной школе в контексте Федерального государственного образовательного стандарта».  </a>
     </p>
 
