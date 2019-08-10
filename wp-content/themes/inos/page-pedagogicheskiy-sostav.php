@@ -64,40 +64,40 @@ get_header();
         ученых, научных сотрудников Российской Академии образования и высшей школы, педагогов-практиков, среди которых:
     </p>
 
-    <div class="w800">
-        <table style="border-spacing:0" class="w800">
+    <div style="margin: 0 auto;display: table;">
+        <table style="border-spacing:0;font-size: 14px" class="w800">
             <tr style="background-color: #fbd4b4">
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ФИО СОТРУДНИКА</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">МЕСТО РАБОТЫ</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ЗАНИМАЕМАЯ ДОЛЖНОСТЬ / ДОЛЖНОСТИ/ ВИД ЗАНЯТОСТИ / УСЛОВИЯ ПРИВЛЕЧЕНИЯ К РАБОТЕ (ШТАТНЫЙ, СОВМЕСТИТЕЛЬ, ИНОЕ)</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">КАКОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ ОКОНЧИЛ /СПЕЦИАЛИТЕТ (СПЕЦИАЛЬНОСТЬ ПО ДИПЛОМУ)</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">АСПИРАНТУРА/ ДОКТОРАНТУРА</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ПРЕПОДАВАЕМЫЕ ДИСЦИПЛИНЫ</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">НАИМЕНОВАНИЕ НАПРАВЛЕНИЯ ПОДГОТОВКИ И (ИЛИ) СПЕЦИАЛЬНОСТИ</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ДАННЫЕ О ПОВЫШЕНИИ КВАЛИФИКАЦИИ И (ИЛИ) ПРОФЕССИОНАЛЬНОЙ ПЕРЕПОДГОТОВКЕ (ПРИ НАЛИЧИИ)</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ОБЩИЙ СТАЖ РАБОТЫ</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">СТАЖ РАБОТЫ ПО СПЕЦИАЛЬНОСТИ (НАУЧНО-ПЕДАГОГИЧЕСКИЙ СТАЖ)</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">УЧЕНАЯ СТЕПЕНЬ</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">УЧЕНОЕ ЗВАНИЕ</p></td>
-                <td style="height: 305px"><p style="writing-mode: vertical-rl;text-align: center">ФИО СОТРУДНИКА</p></td>
-                <td style="height: 305px"><p style="text-align: center">ДОСТИЖЕНИЯ/ НАГРАДЫ</p></td>
+                <td style="height: 305px;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">ФИО СОТРУДНИКА</span></td>
+                <td style="height: 305px;text-align: center;;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">МЕСТО РАБОТЫ</span></td>
+                <td style="height: 305px;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">ЗАНИМАЕМАЯ ДОЛЖНОСТЬ / ДОЛЖНОСТИ/ ВИД ЗАНЯТОСТИ / УСЛОВИЯ ПРИВЛЕЧЕНИЯ К РАБОТЕ (ШТАТНЫЙ, СОВМЕСТИТЕЛЬ, ИНОЕ)</span></td>
+                <td style="height: 305px;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">КАКОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ ОКОНЧИЛ /СПЕЦИАЛИТЕТ (СПЕЦИАЛЬНОСТЬ ПО ДИПЛОМУ)</span></td>
+                <td style="height: 305px;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">АСПИРАНТУРА/ ДОКТОРАНТУРА</span></td>
+                <td style="height: 305px;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">ПРЕПОДАВАЕМЫЕ ДИСЦИПЛИНЫ</span></td>
+                <td style="height: 305px;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">НАИМЕНОВАНИЕ НАПРАВЛЕНИЯ ПОДГОТОВКИ И (ИЛИ) СПЕЦИАЛЬНОСТИ</span></td>
+                <td style="height: 305px;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">ДАННЫЕ О ПОВЫШЕНИИ КВАЛИФИКАЦИИ И (ИЛИ) ПРОФЕССИОНАЛЬНОЙ ПЕРЕПОДГОТОВКЕ (ПРИ НАЛИЧИИ)</span></td>
+                <td style="height: 305px;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">ОБЩИЙ СТАЖ РАБОТЫ</span></td>
+                <td style="height: 305px;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">СТАЖ РАБОТЫ ПО СПЕЦИАЛЬНОСТИ (НАУЧНО-ПЕДАГОГИЧЕСКИЙ СТАЖ)</span></td>
+                <td style="height: 305px;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">УЧЕНАЯ СТЕПЕНЬ</span></td>
+                <td style="height: 305px;text-align: center;"><span style="writing-mode: vertical-rl;text-align: center">УЧЕНОЕ ЗВАНИЕ</span></td>
+                <td style="height: 305px;text-align: center;"><span style="text-align: center">ДОСТИЖЕНИЯ/ НАГРАДЫ</span></td>
             </tr>
-            <tr><td colspan="14">СОКОЛОВА ГАЛИНА КОНСТАНТИНОВНА</td></tr>
+            <tr><td colspan="13">СОКОЛОВА ГАЛИНА КОНСТАНТИНОВНА</td></tr>
             <tr>
-                <td><p style="writing-mode: vertical-rl;text-align: center">СОКОЛОВА ГАЛИНА КОНСТАНТИНОВНА</p></td>
-                <td><p>Институт новых образовательных систем/ ИНОС</p></td>
-                <td><p>Директор Штат</p></td>
-                <td><p>(1968) Московский государственный заочный педагогический институт /Специальность «Психология и педагогика»</p></td>
-                <td><p></p></td>
-                <td><p>Теория и практика развития общего образования. Теория и методика профессионального образования</p></td>
-                <td><p style="writing-mode: vertical-rl;text-align: center">ПСИХОЛОГИЯ И ПЕДАГОГИКА</p></td>
-                <td><p>Повышение квалификации по программе «Содержание, методика работы руководителя образовательного учреждения в контексте современного ФГОС» в объеме 72 уч.часов. НОУ ДО ИНОС, г. Москва, 2019 г.</p></td>
-                <td><p style="writing-mode: vertical-rl;text-align: center">54 года</p></td>
-                <td><p style="writing-mode: vertical-rl;text-align: center">50 лет</p></td>
-                <td><p>Кандидат педагогических наук (13.00.01). (2000)</p></td>
-                <td><p>Профессор (2002)</p></td>
-                <td><p>Действительный член Международной Академии интеграции науки и бизнеса.Руководитель экспериментальной площадки.Ветеран труда.</p></td>
+                <td style="height: 290px"><span style="writing-mode: vertical-rl;text-align: center">СОКОЛОВА ГАЛИНА КОНСТАНТИНОВНА</span></td>
+                <td style="height: 290px"><span>Институт новых образовательных систем/ ИНОС</span></td>
+                <td style="height: 290px"><span>Директор Штат</span></td>
+                <td style="height: 290px"><span>(1968) Московский государственный заочный педагогический институт /Специальность «Психология и педагогика»</span></td>
+                <td style="height: 290px"><span></span></td>
+                <td style="height: 290px"><span>Теория и практика развития общего образования. Теория и методика профессионального образования</span></td>
+                <td style="height: 290px"><span style="writing-mode: vertical-rl;text-align: center">ПСИХОЛОГИЯ И ПЕДАГОГИКА</span></td>
+                <td style="height: 290px"><span>Повышение квалификации по программе «Содержание, методика работы руководителя образовательного учреждения в контексте современного ФГОС» в объеме 72 уч.часов. НОУ ДО ИНОС, г. Москва, 2019 г.</span></td>
+                <td style="height: 290px"><span style="writing-mode: vertical-rl;text-align: center">54 года</span></td>
+                <td style="height: 290px"><span style="writing-mode: vertical-rl;text-align: center">50 лет</span></td>
+                <td style="height: 290px"><span>Кандидат педагогических наук (13.00.01). (2000)</span></td>
+                <td style="height: 290px"><span>Профессор (2002)</span></td>
+                <td style="height: 290px"><span>Действительный член Международной Академии интеграции науки и бизнеса.Руководитель экспериментальной площадки.Ветеран труда.</span></td>
             </tr>
+            <tr><td colspan="13">СОКОЛОВА ГАЛИНА КОНСТАНТИНОВНА</td></tr>
         </table>
     </div>
 
