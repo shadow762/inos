@@ -14,9 +14,9 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/img-btn-6.png" alt="" class="w250 m0auto d-block mtb-20">
 
-    <p class="w800 m0auto fs18 fb txt-red tac">Законодательные и нормативные правовые акты, регламентирующие деятельность Негосударственное
+    <p class="w800 m0auto fs18 fb txt-red tac tsd">Законодательные и нормативные правовые акты, регламентирующие деятельность Негосударственное
         образовательное учреждение дополнительного образования </p>
-    <p class="w800 m0auto fs18 fb txt-red tac">«ИНОС - ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»:</p>
+    <p class="w800 m0auto fs18 fb txt-red tac tsd">«ИНОС - ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»:</p>
 
     <ul class="w600 mt-10 m0auto ul-2 txt-vi fs18">
         <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Конституция Российской Федерации.</a></li>

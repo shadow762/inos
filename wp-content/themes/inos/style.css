@@ -60,6 +60,9 @@
 .txt-vi {
   color: #6d076d !important; }
 
+.txt-vi2 {
+  color: #001848 !important; }
+
 .txt-blue {
   color: blue !important; }
 
@@ -222,6 +225,10 @@
   width: 50px;
   height: 50px; }
 
+.w50h40 {
+  width: 50px;
+  height: 40px; }
+
 .w50h80 {
   width: 50px;
   height: 80px; }
@@ -229,6 +236,10 @@
 .w65h35 {
   width: 65px;
   height: 35px; }
+
+.w70h70 {
+  width: 70px;
+  height: 70px; }
 
 .w100h30 {
   width: 100px;
