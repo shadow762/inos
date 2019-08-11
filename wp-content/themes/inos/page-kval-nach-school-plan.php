@@ -5,25 +5,24 @@
 //
 get_header();
 ?>
-    <h3 class="h3-page-header">УЧЕБНЫЙ ПЛАН</h3>
-    <p class="w600 m0auto mtb-20 fs18 tac">ДОПОЛНИТЕЛЬНОЙ ПРОФЕССИОНАЛЬНОЙ ОБРАЗОВАТЕЛЬНОЙ
+    <h4 class="h4-page-header mt-20 tsd">ОБРАЗОВАНИЕ</h4>
+    <h2 class="h2-page-header mtb-10 tsd"><span>&#10037;</span></h2>
+    <h2 class="h2-page-header tsd">УЧЕБНЫЙ ПЛАН</h2>
+
+    <p class="w600 m0auto fs18 fb tac txt-vi tsd">(ДОПОЛНИТЕЛЬНАЯ ПРОФЕССИОНАЛЬНАЯ ОБРАЗОВАТЕЛЬНАЯ ПРОГРАММА
+        ПОВЫШЕНИЯ КВАЛИФИКАЦИИ)
     </p>
-    <p class="w600 m0auto fb fs18 tac">
-        ПРОГРАММЫ
-        ПОВЫШЕНИЯ КВАЛИФИКАЦИИ
-    </p>
-
-
-    <p class="w600 m0auto fs25 mt-20 fb tac">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ ПРЕПОДАВАНИЯ</p>
-    <p class="w600 m0auto fs25 fb tac">В СОВРЕМЕННОЙ НАЧАЛЬНОЙ ШКОЛЕ</p>
-    <p class="w600 m0auto fs25 fb tac mt-20">в контексте Федерального образовательного стандарта</p>
-
 
     <img src="<?php echo get_template_directory_uri()?>/img/img-btn-7.png" alt="" class="w150 m0auto d-block mtb-20">
 
+    <h4 class="h4-page-header mt-50 tsd">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ ПРЕПОДАВАНИЯ</h4>
+    <h4 class="h4-page-header mt-10  tsd">В СОВРЕМЕННОЙ НАЧАЛЬНОЙ ШКОЛЕ</h4>
+    <h4 class="h4-page-header mt-10  tsd">в контексте Федерального образовательного стандарта</h4>
 
-    <p class="w800 m0auto tal mt-20 fs18 fi ">
-        <span class="fs35 fb fin">&#10209;</span>
+
+
+      <p class="w800 m0auto tal mt-20 fs18 fi tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb-v.png" alt="" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <span class="fb txt-vi">Цель обучения:</span>
         овладение особенностями нового
@@ -31,26 +30,26 @@ get_header();
         в общеобразовательных учреждениях, сотрудничающих с
         Институтом.
     </p>
-    <p class="w800 m0auto tal mt-20 fs18 fi ">
-        <span class="fs35 fb fin">&#10209;</span>
+     <p class="w800 m0auto tal mt-20 fs18 fi tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb-v.png" alt="" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <span class="fb txt-vi">Категория слушателей:</span>
         учителя начальных классов.
     </p>
-    <p class="w800 m0auto tal mt-20 fs18 fi ">
-        <span class="fs35 fb fin">&#10209;</span>
+     <p class="w800 m0auto tal mt-20 fs18 fi tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb-v.png" alt="" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <span class="fb txt-vi">Сроки обучения:</span>
         учебный год.
     </p>
-    <p class="w800 m0auto tal mt-20 fs18 fi ">
-        <span class="fs35 fb fin">&#10209;</span>
+     <p class="w800 m0auto tal mt-20 fs18 fi tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb-v.png" alt="" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <span class="fb txt-vi">Режим занятий:</span>
         индивидуально-групповой, по расписанию.
     </p>
-    <p class="w800 m0auto tal mt-20 fs18 fi ">
-        <span class="fs35 fb fin">&#10209;</span>
+     <p class="w800 m0auto tal mt-20 fs18 fi tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb-v.png" alt="" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <span class="fb txt-vi">Форма обучения:</span>
         очно-заочная, без отрыва от основной
@@ -61,7 +60,7 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
 
-    <table class="w600 m0auto bkg-we">
+    <table class="w600 m0auto bkg-we" style="border-spacing:0;border: 2px solid black">
         <tr>
             <th class="tw-25px b-1p">№ п/п
             </th>
