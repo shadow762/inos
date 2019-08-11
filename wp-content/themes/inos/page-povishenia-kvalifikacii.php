@@ -9,7 +9,7 @@ get_header();
     <h2 class="h2-page-header mtb-10 tsd"><span>&#10037;</span></h2>
     <h2 class="h2-page-header tsd">УЧЕБНЫЙ ПЛАН ПОВЫШЕНИЯ КВАЛИФИКАЦИИ</h2>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/new_moon.png" alt="лого раздела" class="w250 mt-20 m0auto d-block">
+    <img src="<?php echo get_template_directory_uri()?>/img/new-moon.png" alt="лого раздела" class="w250 mt-20 m0auto d-block">
 
 
     <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">

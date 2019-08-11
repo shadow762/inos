@@ -217,6 +217,10 @@
   width: 30px;
   height: 30px; }
 
+.w20h20 {
+  width: 20px;
+  height: 20px; }
+
 .w25h20 {
   width: 25px;
   height: 20px; }
@@ -340,6 +344,18 @@
 
 .docs-cont-1 img {
   width: 40%;
+  height: 30%; }
+
+.docs-cont-2 {
+  margin: 0 auto;
+  width: 800px;
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center; }
+
+.docs-cont-2 img {
+  width: 60%;
   height: 30%; }
 
 /* Styles for Rokovodstvo */

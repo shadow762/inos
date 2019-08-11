@@ -6,33 +6,40 @@
 get_header();
 ?>
 
-
-
-    <h4 class="h4-page-header mt-20">МАТЕРИАЛЬНО-ТЕХНИЧЕСКОЕ ОБЕСПЕЧЕНИЕ И ОСНАЩЕННОСТЬ ОБРАЗОВАТЕЛЬНОГО ПРОЦЕССА</h4>
-    <h2 class="h2-page-header mt-20">СВЕДЕНИЯ О ЗДАНИЯХ И ПОМЕЩЕНИЯХ,
+    <h4 class="h4-page-header mt-20 tsd">МАТЕРИАЛЬНО-ТЕХНИЧЕСКОЕ ОБЕСПЕЧЕНИЕ И ОСНАЩЕННОСТЬ ОБРАЗОВАТЕЛЬНОГО ПРОЦЕССА</h4>
+    <h2 class="h2-page-header mtb-10 tsd"><span>&#10037;</span></h2>
+    <h2 class="h2-page-header tsd">СВЕДЕНИЯ О ЗДАНИЯХ И ПОМЕЩЕНИЯХ,
         ИСПОЛЬЗУЕМЫХ
         ДЛЯ ОРГАНИЗАЦИИ И ВЕДЕНИЯ
-        ОБРАЗОВАТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ
-    </h2>
+        ОБРАЗОВАТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ</h2>
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-14.png" alt="" class="w200 m0auto d-block mtb-20">
 
-    <p class="w800 m0auto fs18 mt-10"><span class="mr-10">&#10022;</span><b>Юридический /Фактический адрес здания:</b></p>
-    <p class="w600 m0auto fs18 mt-10">Российская Федерация, 117535, г. Москва,
+    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-14.png" alt="" class="w200 m0auto d-block mt-50">
+
+    <p class="w800 m0auto fs18 mt-50 txt-vi tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+        <b>Юридический /Фактический адрес здания:</b></p>
+    <p class="w600 m0auto fs18 mt-10 txt-vi2 tsd">Российская Федерация, 117535, г. Москва,
         3-й дорожный проезд, д. 3-А.
     </p>
 
-    <p class="w800 m0auto fs18 mt-10"><span class="mr-10">&#10022;</span><b>Вид и назначение здания и помещений:</b></p>
-    <p class="w600 m0auto fs18 mt-10">Учебно-научные, административные, сдача в аренду, архив-
+    <p class="w800 m0auto fs18 mt-10 txt-vi tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+        <b>Вид и назначение здания и помещений:</b></p>
+    <p class="w600 m0auto fs18 mt-10 txt-vi2 tsd">Учебно-научные, административные, сдача в аренду, архив-
         общей площадью - 1786,8 кв. м.
     </p>
 
-    <p class="w800 m0auto fs18 mt-10"><span class="mr-10">&#10022;</span><b>Форма владения:</b></p>
-    <p class="w600 m0auto fs18 mt-10">Собственность.</p>
+    <p class="w800 m0auto fs18 mt-10 txt-vi tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+        <b>Форма владения:</b></p>
+    <p class="w600 m0auto fs18 mt-10 txt-vi2 tsd">Собственность.</p>
 
-    <p class="w800 m0auto fs18 mt-10"><span class="mr-10">&#10022;</span><b>Реквизиты правомочных документов:</b></p>
-    <p class="w600 m0auto fs18 mt-10">Свидетельство о государственной регистрации права.
+    <p class="w800 m0auto fs18 mt-10 txt-vi tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+        <b>Реквизиты правомочных документов:</b></p>
+    <p class="w600 m0auto fs18 mt-10 txt-vi2 tsd">Свидетельство о государственной регистрации права.
         Главное управление Федеральной регистрационной службы
         от 14 января 2005 г.
         № 77 АВ 519089.
@@ -42,17 +49,19 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/gallery/02451.jpg" alt="" class="w600 m0auto d-block mtb-20">
 
 
-    <p class="w800 m0auto fs25 fb tac txt-vi "><span class="mr-10 fs35">&#10023;</span>ЭКСПЛИКАЦИЯ</p>
-    <p class="w800 m0auto fs25 fb tac txt-vi ">К ПОЭТАЖНОМУ ПЛАНУ ЗДАНИЯ ИНСТИТУТА</p>
+    <p class="w800 m0auto fs25 fb tac txt-vi tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb-v.png" alt="" class="w30h30 mr-10">
+        ЭКСПЛИКАЦИЯ</p>
+    <p class="w800 m0auto fs18 fb tac txt-vi tsd">К ПОЭТАЖНОМУ ПЛАНУ ЗДАНИЯ ИНСТИТУТА</p>
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/pen1.png" alt="" class="w150 m0auto d-block mtb-20">
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8696obr.jpg" alt="">
     </div>
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8693.jpg" alt="">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8700.jpg" alt="">
     </div>
@@ -70,11 +79,11 @@ get_header();
     </div>
 
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8706.jpg" alt="">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8691.jpg" alt="">
     </div>
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8698.jpg" alt="">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8702.jpg" alt="">
     </div>
@@ -91,11 +100,11 @@ get_header();
         <img src="<?php echo get_template_directory_uri()?>/img/clip2.png" alt="" class="f-right w100h100">
     </div>
 
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8689.jpg" alt="">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8682.jpg" alt="">
     </div>
-    <div class="img-container">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8686.jpg" alt="">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8684.jpg" alt="">
     </div>

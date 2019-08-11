@@ -7,25 +7,56 @@ get_header();
 ?>
 
 
-    <h2 class="h2-page-header">МАТЕРИАЛЬНО-ТЕХНИЧЕСКОЕ ОБЕСПЕЧЕНИЕ И ОСНАЩЕННОСТЬ ОБРАЗОВАТЕЛЬНОГО ПРОЦЕССА</h2>
+    <h2 class="h2-page-header mt-20 tsd">МАТЕРИАЛЬНО-ТЕХНИЧЕСКОЕ ОБЕСПЕЧЕНИЕ И ОСНАЩЕННОСТЬ ОБРАЗОВАТЕЛЬНОГО ПРОЦЕССА</h2>
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/computer.png" alt="лого раздела">
-        <img src="<?php echo get_template_directory_uri()?>/img/Butor-21.png" alt="лого раздела">
+        <img src="<?php echo get_template_directory_uri()?>/img/butor-21.png" alt="лого раздела">
 
     </div>
 
-    <p class="w800 m0auto fs18 mt-10 tar tar"><span class="mr-10">&#9734;</span><i>Материально-техническая база позволяет  реализовывать все заявленные образовательные программы.</i></p>
-    <p class="w800 m0auto fs18 mt-10 tar"><span class="mr-10">&#9734;</span><i>По набору и состоянию помещений в Институте созданы оптимальные условия для организации образовательного процесса.</i></p>
-    <p class="w800 m0auto fs18 mt-10 tar"><span class="mr-10">&#9734;</span><i>Все аудитории, где проходят занятия со слушателями, отремонтированы, оснащены необходимым оборудованием, соответствуют санитарно-гигиеническим нормам. </i></p>
-    <p class="w800 m0auto fs18 mt-10 tar"><span class="mr-10">&#9734;</span><i>Рабочие места администрации, сотрудников, преподавателей; учебные аудитории имеют высокоскоростное подключение к сети Интернет.</i></p>
+    <p class="w800 m0auto fs18 fi mt-50 tar txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+        Материально-техническая база позволяет</p>
+    <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
+        реализовывать все заявленные образовательные программы.</p>
 
-    <h4 class="h4-page-header fb mtb-20"><span class="fb fs25 mr-10">&#10033;</span>Оборудование учебных аудиторий Института:</h4>
+    <p class="w800 m0auto fs18 mt-10 fi tar txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+        По набору и состоянию помещений в</p>
+    <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
+        Институте созданы оптимальные условия для</p>
+    <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
+        организации образовательного процесса.</p>
 
-    <p class="w600 m0auto fs18 m6-10"><span class="mr-10">&#10022;</span><i>стандартный набор специализированной учебной мебели и учебного оборудования, в том числе аудиторная доска (с магнитной поверхностью и набором приспособлений для крепления демонстрационных материалов и фломастеров); </i></p>
-    <p class="w600 m0auto fs18 mt-10"><span class="mr-10">&#10022;</span><i>экран (навесной), оверхэд, проектор;</i></p>
-    <p class="w600 m0auto fs18 mt-10"><span class="mr-10">&#10022;</span><i>демонстрационные планшеты и компьютеры с доступом к информационно-телекоммуникационным сетям; </i></p>
-    <p class="w600 m0auto fs18 mt-10"><span class="mr-10">&#10022;</span><i>цифровые носители информации.</i></p>
+    <p class="w800 m0auto fs18 mt-10 fi tar txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+        Все аудитории, где проходят занятия со</p>
+    <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
+        слушателями, отремонтированы, оснащены</p>
+    <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
+        необходимым оборудованием, соответствуют</p>
+    <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
+        санитарно-гигиеническим нормам.</p>
+
+
+
+    <h4 class="h4-page-header fb mt-50 tsd">
+
+        ОБОРУДОВАНИЕ УЧЕБНЫХ АУДИТОРИЙ ИНСТИТУТА:</h4>
+
+    <p class="w600 m0auto fs18 mt-20 txt-vi2">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+        <i>стандартный набор специализированной учебной мебели и учебного оборудования, в том числе аудиторная доска (с магнитной поверхностью и набором приспособлений для крепления демонстрационных материалов и фломастеров); </i></p>
+    <p class="w600 m0auto fs18 mt-10 txt-vi2">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+        <i>экран (навесной), оверхэд, проектор;</i></p>
+    <p class="w600 m0auto fs18 mt-10 txt-vi2">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+        <i>демонстрационные планшеты и компьютеры с доступом к информационно-телекоммуникационным сетям; </i></p>
+    <p class="w600 m0auto fs18 mt-10 txt-vi2">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+        <i>цифровые носители информации.</i></p>
 
 
     <div class="img-container">
@@ -37,33 +68,33 @@ get_header();
 
     <table class="w600 m0auto bkg-we">
     <tr>
-        <th class="tw-25p b-1p">Наименование специализированных аудиторий,
+        <th class="tw-25p b-1p fi tsd">Наименование специализированных аудиторий,
             кабинетов Института
         </th>
-        <th class="tw-25p b-1p">Вид занятий</th>
-        <th class="b-1p">Наименование оборудования</th>
+        <th class="tw-25p b-1p fi tsd">Вид занятий</th>
+        <th class="b-1p fi tsd">Наименование оборудования</th>
     </tr>
     <tr>
-        <td class="tw-25p b-1p tac">Учебные
+        <td class="tw-25p b-1p tac fi fb txt-vi2">Учебные
             аудитории
         </td>
-        <td class="tw-25p b-1p tac">
+        <td class="tw-25p b-1p tac fi fb txt-vi2">
             Лекции,
             семинары, консультации
 
         </td>
-        <td class="b-1p tac">Компьютеры, проектор, экран,
+        <td class="b-1p tac fi fb txt-vi2">Компьютеры, проектор, экран,
             оверхэд, аудиторная доска, демонстрационные планшеты.
         </td>
     </tr>
         <tr>
-            <td class="tw-25p b-1p tac">Консультационные кабинеты
+            <td class="tw-25p b-1p tac fi fb txt-vi2">Консультационные кабинеты
             </td>
-            <td class="tw-25p b-1p tac">
+            <td class="tw-25p b-1p tac fi fb txt-vi2">
                 Практические занятия, консультации
 
             </td>
-            <td class="b-1p tac">Компьютеры и планшеты
+            <td class="b-1p tac fi fb txt-vi2">Компьютеры и планшеты
                 (с доступом к информационно-телекоммуникационным сетям, образовательным Интернет-ресурсам и полнотекстовой электронной библиотеке), презентационные материалы
                 (на цифровых носителях).
 
@@ -82,7 +113,7 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/gallery/0124-1.JPG" alt="" class="w400 m0auto d-block mtb-20">
 
-    <p class="w800 m0auto fs18 mt-10 fb txt-vi tar"><span class="mr-10">&#9734;</span><i>Имеются информационные стенды.</i></p>
+    <p class="w800 m0auto fs18 mt-10 fb txt-vi2 tar"><img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10"><i>Имеются информационные стенды.</i></p>
 
     <img src="<?php echo get_template_directory_uri()?>/img/gallery/0070.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
@@ -113,59 +144,71 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/gallery/0112-1.JPG" alt="" class="w400 m0auto d-block mtb-20">
 
 
-    <h4 class="h4-page-header fb mtb-20"><span class="fb fs25 mr-10">&#10033;</span>Средства обучения:</h4>
+    <h4 class="h4-page-header fb mt-50 tsd">СРЕДСТВА ОБУЧЕНИЯ:</h4>
     <img src="<?php echo get_template_directory_uri()?>/img/img-btn-19.png" alt="" class="w250 m0auto d-block mtb-20">
 
-    <ul class="ul-1 w600 m0auto">
+    <ul class="ul-2 fs18 fb w600 m0auto txt-vi2 tsd">
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/drive15.png" class="w100h100">
 
 
             учебные схемы, таблицы, опорные материалы, презентационные материалы (на цифровых носителях),</li>
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/shar4.png" class="w100h100">
             демонстрационные планшеты и компьютеры с доступом к
         </li>
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/shar6.png" class="w100h100">
             каталогу образовательных Интернет-ресурсов;
         </li>
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/shar8.png" class="w100h100">
             полнотекстовой электронной библиотеке учебных, учебно-методических и научных материалов с открытым
             доступом для общего и профессионального образования (содержит более 30 000 материалов, источниками
             которых являются более трехсот российских вузов и других образовательных и научных учреждений);
         </li>
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/butor18.png" class="w100h100">
             сетевой многофункциональной информационно-поисковой системе Российской академии образования;
         </li>
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/folder1.png" class="w100h100">
             Федеральной библиотеке видеолекций лучших лекторов ведущих ВУЗов России (все материалы публикуются
             только по согласованию с лекторами и учебными заведениями);
         </li>
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/folder2.png" class="w100h100">
             репозиторию образовательных видеолекций, систематизированых по предметам;
         </li>
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/img-btn-12.png" class="w100h100">
             прочитанных выдающимися исследователями на конференциях, в ходе работы круглых столов;
         </li>
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/drive.png" class="w100h100">
             образовательному видеопорталу с образовательными фильмами на различные темы;
         </li>
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/folder2.png" class="w100h100">
             материалами научных конференций и научно-популярных лекций по интересующему вопросу;
         </li>
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/img-btn-12.png" class="w100h100">
             лекциями в ведущих российских и зарубежных образовательных учреждениях;
         </li>
         <li class="mt-20">
+            <img src="<?php echo get_template_directory_uri()?>/img/romb.png" alt="" class="w30h25 mr-10">
             <img src="<?php echo get_template_directory_uri()?>/img/folder1.png" class="w100h100">
             лучшими образцами преподавания сложных школьных тем.
         </li>

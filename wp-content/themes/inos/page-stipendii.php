@@ -7,24 +7,23 @@ get_header();
 ?>
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-20.png" alt="" class="w250 m0auto d-block mtb-20">
-
-    <h2 class="h2-page-header mt-20">СТИПЕНДИИ</h2>
 
 
+    <h2 class="h2-page-header tsd mt-20">СТИПЕНДИИ</h2>
 
-    <p class="w800 m0auto fs18 mt-10 tal">
-        <span class="fs25 fb mr-10">&#9734;</span>
+    <img src="<?php echo get_template_directory_uri()?>/img/img-btn-20.png" alt="" class="w250 m0auto d-block mt-50">
+
+    <p class="w800 m0auto fs18 mt-10 tal txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
         Слушатели курсов повышения квалификации <span class="fi fb">получают ежемесячную стипендию</span>, которая выплачивается из
         средств, перечисляемых родителями в виде добровольных целевых взносов на уставную деятельность Института
     </p>
-    <p class="w800 m0auto fs18 mt-10 tal">
-        <span class="mr-10"></span>
+    <p class="w800 m0auto fs18 mt-10 tal txt-vi2 tsd">
         В Институте установлены следующие критерии выплаты стипендии слушателям курсов повышения квалификации:
     </p>
 
-    <p class="w800 m0auto fs18 mt-10 tal">
-        <span class="mr-10"></span>
+    <p class="w800 m0auto fs18 mt-10 tal txt-vi2 tsd">
+
         размер стипендии каждого слушателя курсов повышения квалификации Института новых образовательных систем
         определяется в соответствии с объемом добровольной целевой финансовой помощи родителей учащихся
         образовательного учреждения, сотрудничающего с Институтом, зависит от выполнения им учебно-тематического
