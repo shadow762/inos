@@ -125,6 +125,10 @@
   width: 955px;
 }
 
+.w900 {
+  width: 900px;
+}
+
 .w800 {
   width: 800px;
 }
@@ -213,6 +217,10 @@
 
 .ml-30 {
   margin-left: 30px;
+}
+
+.pl5 {
+  padding-left: 5px;
 }
 
 .pl20 {
@@ -503,4 +511,8 @@
 .docs-cont-2 img {
   width: 60%;
   height: 30%;
+}
+
+table ul {
+  list-style: none;
 }

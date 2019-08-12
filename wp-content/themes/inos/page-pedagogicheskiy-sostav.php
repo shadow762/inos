@@ -87,18 +87,18 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
     <div style="margin: 0 auto;display: table;margin-top: 50px">
-        <table style="border-spacing:0;font-size: 12px" class="w800">
+        <table style="border-spacing:0;font-size: 10px" class="w900">
             <tr style="background-color: #fbd4b4">
-                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:14px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ФИО СОТРУДНИКА</span></td>
+                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:11px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ФИО СОТРУДНИКА</span></td>
                 <td style="height: 305px;text-align: center;;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">МЕСТО РАБОТЫ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ЗАНИМАЕМАЯ ДОЛЖНОСТЬ / ДОЛЖНОСТИ/ ВИД ЗАНЯТОСТИ / УСЛОВИЯ ПРИВЛЕЧЕНИЯ К РАБОТЕ (ШТАТНЫЙ, СОВМЕСТИТЕЛЬ, ИНОЕ)</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">КАКОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ ОКОНЧИЛ /СПЕЦИАЛИТЕТ (СПЕЦИАЛЬНОСТЬ ПО ДИПЛОМУ)</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">АСПИРАНТУРА/ ДОКТОРАНТУРА</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ПРЕПОДАВАЕМЫЕ ДИСЦИПЛИНЫ</span></td>
-                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:49px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">НАИМЕНОВАНИЕ НАПРАВЛЕНИЯ ПОДГОТОВКИ И (ИЛИ) СПЕЦИАЛЬНОСТИ</span></td>
+                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:30px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">НАИМЕНОВАНИЕ НАПРАВЛЕНИЯ ПОДГОТОВКИ И (ИЛИ) СПЕЦИАЛЬНОСТИ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ДАННЫЕ О ПОВЫШЕНИИ КВАЛИФИКАЦИИ И (ИЛИ) ПРОФЕССИОНАЛЬНОЙ ПЕРЕПОДГОТОВКЕ (ПРИ НАЛИЧИИ)</span></td>
-                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:14px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ОБЩИЙ СТАЖ РАБОТЫ</span></td>
-                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:36px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">СТАЖ РАБОТЫ ПО СПЕЦИАЛЬНОСТИ (НАУЧНО-ПЕДАГОГИЧЕСКИЙ СТАЖ)</span></td>
+                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:12px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ОБЩИЙ СТАЖ РАБОТЫ</span></td>
+                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:15px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">СТАЖ РАБОТЫ ПО СПЕЦИАЛЬНОСТИ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">УЧЕНАЯ СТЕПЕНЬ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">УЧЕНОЕ ЗВАНИЕ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="text-align: center">ДОСТИЖЕНИЯ/ НАГРАДЫ</span></td>
@@ -117,7 +117,7 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd" style="writing-mode: vertical-rl;text-align: center">50 лет</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Кандидат педагогических наук (13.00.01). (2000)</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Профессор (2002)</span></td>
-                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl20">
+                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
                     <li>Действительный член Международной Академии интеграции науки и бизнеса.</li>
                     <li>Руководитель экспериментальной площадки.Ветеран труда.</li>
                     </ul></span></td>
@@ -136,7 +136,7 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd" style="writing-mode: vertical-rl;text-align: center">35 лет</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Кандидат педагогических наук (13.00.02). (1996)</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Старший научный сотрудник (1998) Доцент (2001)</span></td>
-                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl20">
+                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
                     <li>Автор более 100 научных и учебно-методических работ, в числе которых программы, учебники по биологии, естествознанию, начальному образованию, в том числе с грифом МО РФ.</li>
                     <li>Ведущий научный сотрудник Иоо Министерства Образования РФ (1987-97).</li>
                     <li>Заведующий лабораторией Рино (1997-01).</li>
@@ -163,7 +163,7 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd" style="writing-mode: vertical-rl;text-align: center">47лет</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Доктор физико математических наук (1998)</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Профессор (2001)</span></td>
-                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl20">
+                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
                     <li>Почетный работник высшего профессионального образования РФ (декабрь 2013).</li>
                     <li>Почетная грамота Министерства Образования и Науки РФ (январь 2011).</li>
                     <li>Член редколлегии журнала «Функциональный анализ и его приложения».</li>
@@ -189,7 +189,7 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd" style="writing-mode: vertical-rl;text-align: center">54 года</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Кандидат педагогичес ких наук (13.00.02). (1979)</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Профессор(2002)</span></td>
-                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl20">
+                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
                     <li>Заслуженный учитель РФ.</li>
                     <li>Автор более 170 учебнометодических работ, в числекоторых учебники и программы по начальной школе с грифом Министерства Образования и Науки РФ.</li>
 
@@ -210,7 +210,7 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd" style="writing-mode: vertical-rl;text-align: center">50 лет</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd"></span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd"></span></td>
-                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl20">
+                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
                     <li>Заслуженный учитель РФ.</li>
                     <li>Автор более 50 учебнометодических трудов, в числе которых учебники и программы по обучению грамоте и чтению в начальной школе с грифом Министерства Образования и Науки РФ.</li>
 
@@ -232,7 +232,7 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd" style="writing-mode: vertical-rl;text-align: center">38 лет</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Кандидат педагогичес ких наук (13.00.02). (1979)</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Профессор (2002)</span></td>
-                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl20">
+                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
                     <li>Автор более 170 учебнометодических работ, в числе которых учебники и программы по начальной школе с грифом Министерства Образования и Науки РФ.</li>
                  </ul></span></td>
             </tr>
@@ -252,7 +252,7 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd" style="writing-mode: vertical-rl;text-align: center">43 года</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Кандидат педагогичес ких наук (13.00.02). (1999)</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Старший научный сотрудник (доцент) (2003)</span></td>
-                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl20">
+                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
                     <li>Автор более 250 научных и научно-методических работ</li>
                             <li>Автор более 250 научных и научно-методических работ</li>
                             <li>Один из разработчиков фундаментального ядра содержания ОО, Федеральных Государственных Образовательных Стандартов 2002,2004,2010,2012, примерных и авторских программ; концепций иноязычного образования, автор серии федеральных УМК «Английский с удовольствием»/ ―Enjoy English‖.</li>
@@ -277,7 +277,7 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd" style="writing-mode: vertical-rl;text-align: center">34 года</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Кандидат педагогичес ких наук (13.00.02). (1999)</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Старший научный сотрудник (доцент) (2003)</span></td>
-                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl20">
+                <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
                     <li>Член-корреспондент Международной академии наук педагогическогообразования.</li>
                             <li>Автор более 250 научных и научно-методических работ</li>
                             <li>Отличник народного просвещения.</li>
