@@ -87,7 +87,7 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
     <div style="margin: 0 auto;display: table;margin-top: 50px">
-        <table style="border-spacing:0;font-size: 14px" class="w800">
+        <table style="border-spacing:0;font-size: 12px" class="w800">
             <tr style="background-color: #fbd4b4">
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ФИО СОТРУДНИКА</span></td>
                 <td style="height: 305px;text-align: center;;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">МЕСТО РАБОТЫ</span></td>
