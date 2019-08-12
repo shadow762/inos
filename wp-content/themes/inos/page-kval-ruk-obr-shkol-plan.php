@@ -64,20 +64,24 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
 
-    <table class="w600 m0auto bkg-we" style="border-spacing:0;border: 2px solid black">
+    <table class="w600 m0auto bkg-we mt-80" style="border-spacing:0;border: 2px solid black;position: relative">
         <tr>
-            <th class="tw-25px b-1p">№ п/п
+            <th class="tw-25px b-1p" rowspan="2"><img src="<?php echo get_template_directory_uri()?>/img/svitok1.png" alt="" style="width: 620px;position: absolute;top: -84px;left: -12px;">№ п/п
             </th>
-            <th class="tw-30p b-1p">Наименование разделов, дисциплин (модулей)</th>
+            <th class="tw-30p b-1p" rowspan="2">Наименование разделов, дисциплин (модулей)</th>
+            <th class="tw-12p b-1p" colspan="4">В том числе</th>
+
+            <th class="tw-12p b-1p" rowspan="2">Форма итоговой
+                аттестации
+            </th>
+        </tr>
+        <tr>
             <th class="tw-12p b-1p">Всего часов</th>
             <th class="tw-12p b-1p">лекции</th>
             <th class="tw-12p b-1p">консуль-
                 тации</th>
             <th class="tw-12p b-1p">сам. и практ.
                 работа</th>
-            <th class="tw-12p b-1p">Форма итоговой
-                аттестации
-            </th>
         </tr>
         <tr>
             <td class="tw-25px b-1p tac">1
@@ -138,7 +142,7 @@ get_header();
             <td class="tw-12p b-1p tac"><b>72-144</b></td>
             <td class="tw-12p b-1p tac"><b>18-32</b></td>
             <td class="tw-12p b-1p tac"><b>6-18</b></td>
-            <td class="tw-12p b-1p tac"><b>48-104</b></td>
+            <td class="tw-12p b-1p tac"><b><img src="<?php echo get_template_directory_uri()?>/img/svitok1.png" alt="" style="width: 620px;position: absolute;bottom: -80px;left: -12px;">48-104</b></td>
         </tr>
     </table>
 
