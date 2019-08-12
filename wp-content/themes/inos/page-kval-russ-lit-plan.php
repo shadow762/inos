@@ -17,7 +17,7 @@ get_header();
 
     <h4 class="h4-page-header mt-50 tsd">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ ПРЕПОДАВАНИЯ</h4>
     <h4 class="h4-page-header mt-10  tsd">РУССКОГО ЯЗЫКА И ЛИТЕРАТУРЫ</h4>
-    <h4 class="h4-page-header mt-10  tsd">в контексте Федерального образовательного стандарта</h4>
+    <h4 class="h4-page-header fs20 mt-10  tsd">в контексте Федерального государственного образовательного стандарта</h4>
 
 
     <p class="w800 m0auto tal mt-20 fs18 fi tsd">

@@ -19,7 +19,7 @@ get_header();
     <h4 class="h4-page-header mt-50 tsd">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ РАБОТЫ</h4>
     <h4 class="h4-page-header mt-10  tsd">РУКОВОДИТЕЛЯ</h4>
     <h4 class="h4-page-header mt-10  tsd">ОБЩЕОБРАЗОВАТЕЛЬНОЙ ШКОЛЫ</h4>
-    <h4 class="h4-page-header mt-10  tsd">в контексте Федерального образовательного стандарта</h4>
+    <h4 class="h4-page-header fs20 mt-10  tsd">в контексте Федерального государственного образовательного стандарта</h4>
 
 
 

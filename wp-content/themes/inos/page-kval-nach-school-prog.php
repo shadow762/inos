@@ -19,7 +19,7 @@ get_header();
 
     <h4 class="h4-page-header mt-50 tsd">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ ПРЕПОДАВАНИЯ</h4>
     <h4 class="h4-page-header mt-10  tsd">В СОВРЕМЕННОЙ НАЧАЛЬНОЙ ШКОЛЕ</h4>
-    <h4 class="h4-page-header mt-10  tsd">в контексте Федерального образовательного стандарта</h4>
+    <h4 class="h4-page-header fs20 mt-10  tsd">в контексте Федерального государственного образовательного стандарта</h4>
 
     <p class="w600 m0auto fs25 fb tac mt-50 txt-vi tsd">
         <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30">
