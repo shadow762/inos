@@ -98,7 +98,7 @@ get_header();
                 <td style="height: 305px;text-align: center;border: 2px solid black;min-width:49px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">НАИМЕНОВАНИЕ НАПРАВЛЕНИЯ ПОДГОТОВКИ И (ИЛИ) СПЕЦИАЛЬНОСТИ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ДАННЫЕ О ПОВЫШЕНИИ КВАЛИФИКАЦИИ И (ИЛИ) ПРОФЕССИОНАЛЬНОЙ ПЕРЕПОДГОТОВКЕ (ПРИ НАЛИЧИИ)</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black;min-width:14px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ОБЩИЙ СТАЖ РАБОТЫ</span></td>
-                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:14px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">СТАЖ РАБОТЫ ПО СПЕЦИАЛЬНОСТИ (НАУЧНО-ПЕДАГОГИЧЕСКИЙ СТАЖ)</span></td>
+                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:36px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">СТАЖ РАБОТЫ ПО СПЕЦИАЛЬНОСТИ (НАУЧНО-ПЕДАГОГИЧЕСКИЙ СТАЖ)</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">УЧЕНАЯ СТЕПЕНЬ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">УЧЕНОЕ ЗВАНИЕ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="text-align: center">ДОСТИЖЕНИЯ/ НАГРАДЫ</span></td>
