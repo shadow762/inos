@@ -130,18 +130,18 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0128-1mt.JPG" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0128-1mt.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0132-1-1.JPG" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0132-1-1.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0112-1.JPG" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0112-1.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <h4 class="h4-page-header fb mt-50 tsd">СРЕДСТВА ОБУЧЕНИЯ:</h4>
