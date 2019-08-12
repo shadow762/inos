@@ -408,7 +408,7 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/gallery/0091.jpg" alt="фото" class="w600 m0auto d-block mtb-20">
 
-    <h4 class="h4-page-header fb mt-50 tsd">ОБРАЗЕЦ УДОСТОВЕРЕНИЯ</h4>
+    <h4 id="id-nach" class="h4-page-header fb mt-50 tsd">ОБРАЗЕЦ УДОСТОВЕРЕНИЯ</h4>
     <h4 class="h4-page-header fb tsd">О ПОВЫШЕНИИ КВАЛИФИКАЦИИ</h4>
     <h4 class="h4-page-header fb tsd">УЧИТЕЛЕЙ НАЧАЛЬНОЙ ШКОЛЫ</h4>
 

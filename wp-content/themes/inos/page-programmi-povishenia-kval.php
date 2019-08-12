@@ -99,11 +99,11 @@ get_header();
 
     </p>
 
-    <ul class="w600 m0auto fs18 fi fb mtb-10 ul-2">
-        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30"><a href="#">Удостоверение 1</a></li>
-        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30"><a href="#">Удостоверение 2</a></li>
-        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30"><a href="#">Удостоверение 3</a></li>
-        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30"><a href="#">Удостоверение 4</a></li>
+    <ul class="w600 m0auto fs18   mtb-10 ul-2">
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-russ-lit-cikl#id-russ">Удостоверение <b>ПО РУССКОМУ ЯЗЫКУ И ЛИТЕРАТУРЕ</b></a></li>
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-ruk-obr-shkol#id-ruk">Удостоверение <b>РУКОВОДИТЕЛЯ</b> </a></li>
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-math-cikl/#id-math">Удостоверение <b>ПО МАТЕМАТИКЕ</b></a></li>
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-nach-school-cikl/#id-nach">Удостоверение <b>УЧИТЕЛЕЙ НАЧАЛЬНОЙ ШКОЛЫ</b></a></li>
     </ul>
 
     <!--Нижнее меню-->

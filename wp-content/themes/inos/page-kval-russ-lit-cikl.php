@@ -409,9 +409,9 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/gallery/01191fr.jpg" alt="фото" class="w400 m0auto d-block mtb-20">
 
 
-    <h4 class="h4-page-header fb mt-50 tsd">ОБРАЗЕЦ УДОСТОВЕРЕНИЯ</h4>
+    <h4 id="id-russ" class="h4-page-header fb mt-50 tsd">ОБРАЗЕЦ УДОСТОВЕРЕНИЯ</h4>
     <h4 class="h4-page-header fb tsd">О ПОВЫШЕНИИ КВАЛИФИКАЦИИ</h4>
-    <h4 class="h4-page-header fb tsd">РУКОВОДИТЕЛЯ ОБЩЕОБРАЗОВАТЕЛЬНОГО УЧРЕЖДЕНИЯ</h4>
+    <h4 class="h4-page-header fb tsd">ПО РУССКОМУ ЯЗЫКУ И ЛИТЕРАТУРЕ</h4>
 
 
     <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
