@@ -70,11 +70,11 @@ get_header();
         </li>
         <li>
             <img src="<?php echo get_template_directory_uri()?>/img/butor19.png" alt="" class="w50h50">
-            -31 - КАНДИДАТ НАУК (60%),
+            - 31 - КАНДИДАТ НАУК (60%),
         </li>
         <li>
             <img src="<?php echo get_template_directory_uri()?>/img/butor19.png" alt="" class="w50h50">
-            -7 - ЗАСЛУЖЕННЫЕ УЧИТЕЛЯ ШКОЛЫ (10%).
+            - 7 - ЗАСЛУЖЕННЫЕ УЧИТЕЛЯ ШКОЛЫ (10%).
         </li>
     </ul>
 
@@ -105,7 +105,7 @@ get_header();
             </tr>
             <tr style="background-color: #FDE9D9"><td style="border: 2px solid black;height: 50px;text-align: center;" colspan="13"><span class="fs18 fb tsd">СОКОЛОВА ГАЛИНА КОНСТАНТИНОВНА</span></td></tr>
             <tr style="background-color: #FDE9D9">
-                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">СОКОЛОВА <br> ГАЛИНА КОНСТАНТИНОВНА</span></span></td>
+                <td style="height: 390px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">СОКОЛОВА ГАЛИНА КОНСТАНТИНОВНА</span></span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd">Институт новых образовательных систем/ ИНОС</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Директор <i>Штат</i></span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">(1968) Московский государственный заочный педагогический институт /Специальность «Психология и педагогика»</span></td>
@@ -124,7 +124,7 @@ get_header();
             </tr>
             <tr style="background-color: #FDE9D9"><td style="border: 2px solid black;height: 50px;text-align: center;" colspan="13"><span class="fs18 fb tsd">УТЕШИНСКИЙ ДМИТРИЙ ДМИТРИЕВИЧ</span></td></tr>
             <tr style="background-color: #FDE9D9">
-                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">УТЕШИНСКИЙ <br> ДМИТРИЙ ДМИТРИЕВИЧ</span></span></td>
+                <td style="height: 390px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">УТЕШИНСКИЙ ДМИТРИЙ ДМИТРИЕВИЧ</span></span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd">Институт новых образовательных систем/ ИНОС</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Проректор по научной работе <br><i>Штат</i></span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">(1985) Московский государственный педагогический институт им. В. И. Ленина. /Специальность «Биология и иностранный язык»</span></td>
@@ -151,7 +151,7 @@ get_header();
             </tr>
             <tr style="background-color: #FDE9D9"><td style="border: 2px solid black;height: 50px;text-align: center;" colspan="13"><span class="fs18 fb tsd">СЕМЕНОВ ПАВЕЛ ВЛАДИМИРОВИЧ</span></td></tr>
             <tr style="background-color: #FDE9D9">
-                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">СЕМЕНОВ <br> ПАВЕЛ ВЛАДИМИРОВИЧ</span></span></td>
+                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">СЕМЕНОВ ПАВЕЛ ВЛАДИМИРОВИЧ</span></span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd">Национальный Исследовательс кий Университет «Высшая школа экономики» /МГУ им. М. В. Ломоносова</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">Преподаватель (совместитель) /почасовая/ Академический руководитель отдела математического образования/ Профессор кафедры общей топологии и геометрии</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">(1976) Московский государственный педагогический институт им. В. И. Ленина. Специальность «Математика»</span></td>
@@ -177,7 +177,7 @@ get_header();
 
             <tr style="background-color: #FDE9D9"><td style="border: 2px solid black;height: 50px;text-align: center;" colspan="13"><span class="fs18 fb tsd">ЖЕЛТОВСКАЯ ЛЮБОВЬ ЯКОВЛЕВНА</span></td></tr>
             <tr style="background-color: #FDE9D9">
-                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">ЖЕЛТОВСКАЯ <br> ЛЮБОВЬ ЯКОВЛЕВНА</span></span></td>
+                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">ЖЕЛТОВСКАЯ ЛЮБОВЬ ЯКОВЛЕВНА</span></span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd">ИСМО/ ИСРО Российской академии образования</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">Преподаватель (совместитель) /почасовая/ Старший научный сотрудник</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">(1968) Тюменский педагогический институт /Специальность «русский язык и литература»</span></td>
@@ -198,7 +198,7 @@ get_header();
 
             <tr style="background-color: #FDE9D9"><td style="border: 2px solid black;height: 50px;text-align: center;" colspan="13"><span class="fs18 fb tsd">АНДРИАНОВА ТАИСИЯ МИХАЙЛОВНА</span></td></tr>
             <tr style="background-color: #FDE9D9">
-                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">АНДРИАНОВА <br> ТАИСИЯ МИХАЙЛОВНА</span></span></td>
+                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">АНДРИАНОВА ТАИСИЯ МИХАЙЛОВНА</span></span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd">Член редколлегии журнала «Начальная школа»</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">Преподаватель (совместитель)/почасовая/</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">(1976) Московский государственный педагогический институт им. В. И. Ленина. /Специальность «русский язык и литература»</span></td>
@@ -220,7 +220,7 @@ get_header();
 
             <tr style="background-color: #FDE9D9"><td style="border: 2px solid black;height: 50px;text-align: center;" colspan="13"><span class="fs18 fb tsd">ПОТАПОВ ИГОРЬ ВЛАДИМИРОВИЧ</span></td></tr>
             <tr style="background-color: #FDE9D9">
-                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">ПОТАПОВ <br> ИГОРЬ ВЛАДИМИРОВИЧ</span></span></td>
+                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">ПОТАПОВ ИГОРЬ ВЛАДИМИРОВИЧ</span></span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd">Институт системных проектов, ГАОУ ВО Московский городской педагогический университет /ГБОУ ВПО «Московский городской педагогический университет»</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">Преподаватель (совместитель) /почасовая/ Ведущий научный сотрудник лаборатории развития общего образования/ главный научный сотрудник лаборатории инноваций в начальном образовании</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">(1980) Московский государственный заочный педагогический институт /Специальность «Биология и химия</span></td>
@@ -240,7 +240,7 @@ get_header();
 
             <tr style="background-color: #FDE9D9"><td style="border: 2px solid black;height: 50px;text-align: center;" colspan="13"><span class="fs18 fb tsd">БИБОЛЕТОВА МЕРЕМ ЗАБАТОВНА</span></td></tr>
             <tr style="background-color: #FDE9D9">
-                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">БИБОЛЕТОВА <br> МЕРЕМ ЗАБАТОВНА</span></span></td>
+                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">БИБОЛЕТОВА МЕРЕМ ЗАБАТОВНА</span></span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd">Институт стратегии развития образования Российской академии образования</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">Преподаватель (совместитель) /почасовая/ Старший научный сотрудник Центра филологиче ского образования</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">(1972) Московский государственный педагогический институт им. В. И. Ленина. /Специальность «Английский язык»</span></td>
@@ -265,7 +265,7 @@ get_header();
 
             <tr style="background-color: #FDE9D9"><td style="border: 2px solid black;height: 50px;text-align: center;" colspan="13"><span class="fs18 fb tsd">ГОСТЕВА ЮЛИЯ НИКОЛАЕВНА</span></td></tr>
             <tr style="background-color: #FDE9D9">
-                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">ГОСТЕВА <br>ЮЛИЯ НИКОЛАЕВНА</span></span></td>
+                <td style="height: 290px;border: 1px solid black"><span style="writing-mode: vertical-rl;text-align: center"><span class="fb tsd">ГОСТЕВА ЮЛИЯ НИКОЛАЕВНА</span></span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd">Институт стратегии развития образования Российской академии образования</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">Преподаватель (совместитель) /почасовая/ Старший научный сотрудник Центра филологиче ского образования</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center;word-wrap: break-word;max-width:50px"><span class="tsd">(1985) Московский государственный педагогический институт им. В. И. Ленина. /Специальность «русский язык и литература»</span></td>

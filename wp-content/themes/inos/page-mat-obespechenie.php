@@ -66,7 +66,7 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <table class="w600 m0auto bkg-we">
+    <table class="w600 m0auto bkg-we" style="border-spacing:0;border: 2px solid black">
     <tr>
         <th class="tw-25p b-1p fi tsd">Наименование специализированных аудиторий,
             кабинетов Института

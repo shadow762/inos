@@ -5,171 +5,399 @@
 //
 get_header();
 ?>
-    <p class="w600 m0auto mtb-20 fs18 tac">ТЕКУЩИЕ ЦИКЛЫ ЛЕКЦИЙ
-    </p>
-    <p class="w600 m0auto fb fs18 tac">ПОВЫШЕНИЯ КВАЛИФИКАЦИИ
-    </p>
+    <h4 class="h4-page-header mt-20 tsd">ОБРАЗОВАНИЕ</h4>
+    <h2 class="h2-page-header mtb-10 tsd"><span>&#10037;</span></h2>
+    <h2 class="h2-page-header tsd">ТЕКУЩИЕ ЦИКЛЫ ЛЕКЦИЙ</h2>
+
+    <img src="<?php echo get_template_directory_uri()?>/img/globus.png" alt="" class="w150 m0auto d-block mt-50">
 
 
-    <p class="w600 m0auto fs25 mt-20 fb tac">УЧИТЕЛЕЙ</p>
-    <p class="w600 m0auto fs25 fb tac">РУССКОГО ЯЗЫКА И ЛИТЕРАТУРЫ</p>
+    <h4 class="h4-page-header mt-50 tsd">ПОВЫШЕНИЯ КВАЛИФИКАЦИИ</h4>
+    <h4 class="h4-page-header mt-10  tsd">УЧИТЕЛЕЙ</h4>
+    <h4 class="h4-page-header mt-10  tsd">РУССКОГО ЯЗЫКА И ЛИТЕРАТУРЫ</h4>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/globus.png" alt="" class="w150 m0auto d-block mtb-20">
-
-
-    <p>Проводятся на базе Института
-        авторами УМК,
-        Федеральных нормативных документов
-        (ФГОС, ГИА, ОГЭ, ЕГЭ).
-    </p>
+    <p class="w800 m0auto fs18 fi mt-50 tar txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+        Проводятся на базе Института</p>
+    <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
+        авторами УМК, УМС</p>
+    <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
+        Федеральных нормативных документов</p>
+    <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
+        (ФГОС, ГИА, ОГЭ, ЕГЭ).</p>
 
     <img src="<?php echo get_template_directory_uri()?>/img/img-btn-8.png" alt="" class="w400 m0auto d-block mtb-20">
 
-    <p class="w600 m0auto fs25 fb fi mt-20 fb tac">
+    <p class="w600 m0auto fs25 fb fi mt-20 fb tac tsd txt-vi2">
         <img src="<?php echo get_template_directory_uri()?>/img/butor5.png" alt=""class="w100h100">
         август – сентябрь
     </p>
 
-    <p class="w800 m0auto fs18 fb fi"><span class="mr-10 wd fin fs25"></span>Нормативная база преподавания русского языка и литературы в общеобразовательной школе.</p>
-    <p class="w800 m0auto fs18 fb fi"><span class="mr-10 wd fin fs25"></span>Обзор нормативных правовых актов и иных документов в сфере образования.</p>
 
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Нормативная база преподавания русского языка и литературы в общеобразовательной школе.
+    </p>
 
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Распоряжение Правительства Российской Федерации № 637-р от 09.04.2016 «Об утверждении Концепции преподавания русского языка и литературы в Российской Федерации». </li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Распоряжение Правительства РФ от 03.06.2017 № 1155-р «Об утверждении Концепции программы поддержки детского и юношеского чтения в Российской Федерации».  </li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Приказ Министерства образования и науки Российской Федерации № 1400 от 26.12.2013 (в редакции от 09.01.2017) «Об утверждении Порядка проведения государственной итоговой аттестации по образовательным программам среднего общего образования».</li>
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Обзор нормативных правовых актов и иных документов в сфере образования.
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Распоряжение Правительства Российской Федерации № 637-р от 09.04.2016 «Об утверждении Концепции преподавания русского языка и литературы в Российской Федерации».
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Распоряжение Правительства РФ от 03.06.2017 № 1155-р «Об утверждении Концепции программы поддержки детского и юношеского чтения в Российской Федерации».
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Приказ Министерства образования и науки Российской Федерации № 1400 от 26.12.2013 (в редакции от 09.01.2017) «Об утверждении Порядка проведения государственной итоговой аттестации по образовательным программам среднего общего образования».
+        </li>
+    </ul>
+
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Федеральные государственные образовательные стандарты общего образования в системе нормативно-правового и методического обеспечения.
+    </p>
+
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Требования к образовательным результатам предметной области русский язык и литература.
+    </p>
+
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Нормативно-законодательная и методическая основа проектной деятельности.
+    </p>
+
+    <p class="w800 m0auto  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Обновление содержания школьного курса русского языка в условиях современной <b>информационно-образовательной среды.</b>
+    </p>
+
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Ресурсы сети Интернет как средство повышения качества обучения русскому языку.
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Отбор значимых для учителя русского языка Интернет-ресурсов.
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Приемы и методы работы с Интернет-ресурсами на уроках русского языка.
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Значение Интернет-ресурсов при формировании метапредметных (в т. ч. информационных) умений у обучающихся 5-9 классов в процессе обучения русскому языку.
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Отбор значимых для учителя русского языка Интернет-ресурсов.
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Проектирование урока на основе Интернет-ресурсов.
+        </li>
+    </ul>
+
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Элементы дистанционного обучения в практике обучения русскому языку.
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Уроки русского языка с использованием фото-, аудио-, видеоинформации.
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Урок русского языка на основе текстов «новой природы».
+        </li>
+    </ul>
+
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Проект как результат творческой инновационной деятельности учащихся в аспекте реализации системно-деятельностного подхода в обучении.
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <b>Требования к организации</b> и результату проектной деятельности.
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <b>Типичные ошибки</b> в подготовке и организации проектной деятельности.
+        </li>
     </ul>
 
 
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Федеральные государственные образовательные стандарты общего образования в системе нормативно-правового и методического обеспечения.</p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Требования к образовательным результатам предметной области русский язык и литература. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Нормативно-законодательная и методическая основа проектной деятельности.</p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Обновление содержания школьного курса русского языка в условиях современной информационно-образовательной среды. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Ресурсы сети Интернет как средство повышения качества обучения русскому языку.</p>
 
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Отбор значимых для учителя русского языка Интернет-ресурсов.</li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Приемы и методы работы с Интернет-ресурсами на уроках русского языка.</li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Значение Интернет-ресурсов при формировании метапредметных (в т. ч. информационных) умений у обучающихся 5-9 классов в процессе обучения русскому языку.</li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Отбор значимых для учителя русского языка Интернет-ресурсов.</li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Проектирование урока на основе Интернет-ресурсов.</li>
-    </ul>
-
-    <p class="w800 m0auto fs18 fb fi"><span class="mr-10 wd fin fs25"></span>Элементы дистанционного обучения в практике обучения русскому языку.</p>
-
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Уроки русского языка с использованием фото-, аудио-, видеоинформации.</li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Урок русского языка на основе текстов «новой природы».</li>
-    </ul>
-
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Проект как результат творческой инновационной деятельности учащихся в аспекте реализации системно-деятельностного подхода в обучении. </p>
-
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Требования к организации и результату проектной деятельности. </li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Типичные ошибки в подготовке и организации проектной деятельности.</li>
-    </ul>
-
-
-
-     <p class="w600 m0auto fs25 fb fi mt-20 fb tac">
+     <p class="w600 m0auto fs25 fb fi mt-20 fb tac tsd txt-vi2">
         <img src="<?php echo get_template_directory_uri()?>/img/clock.png" alt=""class="w100h100">
         октябрь – февраль
     </p>
 
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Современная социолингвистическая ситуация. </p>
 
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Активные процессы в современном русском языке.</li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Влияние на литературный язык ненормированной разговорной
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Современная социолингвистическая ситуация.
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="fb">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Активные процессы в современном русском языке.
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <b>Влияние на литературный язык</b> ненормированной разговорной
             речи, проникновения просторечных слов, жаргонизмов, немотивированного использования иноязычной лексики и
             других негативных процессов, которые отрицательно сказываются на преподавании русского языка в школе,
             приводят к заметному падению речевой грамотности.
         </li>
     </ul>
 
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Методика формирования у учащихся ответственного и осознанного отношения к использованию русского языка во всех сферах жизни, повышение речевой культуры. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Культура речи в школьном курсе «Русский язык»: содержание обучения и методика формирования коммуникативных умений.</p>
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Методика формирования у учащихся ответственного и осознанного отношения к использованию русского языка во всех сферах жизни, повышение речевой культуры.
+    </p>
 
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Культура речи как обязательный аспект содержания обучения русскому языку в 5 – 9 классах: </li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>лингвометодические основы; основные содержательные линии;
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Культура речи в школьном курсе «Русский язык»: содержание обучения и методика формирования коммуникативных умений.
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="fb">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Культура речи как обязательный аспект содержания обучения русскому языку в 5 – 9 классах:
+        </li>
+        <li class="">
+            <span class="mr-10 fs25 fin">&#10004;</span>
+            лингвометодические основы; основные содержательные линии;
             ведущие умения; грамматические ошибки; речевые ошибки; этико-речевые ошибки.
         </li>
     </ul>
 
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Культура речи как раздел лингвистики, имеющий свою понятийную базу, систему норм и вооружающий умением использовать основные способы организации языковых средств при учёте закономерностей их употребления для достижения коммуникативного совершенства речевого высказывания и, соответственно, максимальной эффективности общения. </p>
-
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Основные нормы русского литературного языка: орфоэпические, лексические, грамматические, стилистические, правописные.</li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Содержание раздела «Культура речи» на уровне учебных действий.</li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Этапность в изучении и освоении норм русского литературного языка.</li>
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        <b>Культура речи как раздел лингвистики</b>, имеющий свою понятийную базу, систему норм и вооружающий умением использовать основные способы организации языковых средств при учёте закономерностей их употребления для достижения коммуникативного совершенства речевого высказывания и, соответственно, максимальной эффективности общения.
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <b>Основные нормы русского литературного языка:</b> орфоэпические, лексические, грамматические, стилистические, правописные.
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Содержание раздела «Культура речи» на уровне учебных действий.
+        </li>
+        <li class="fb">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Этапность в изучении и освоении норм русского литературного языка.
+        </li>
     </ul>
 
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Методика проектирования урока русского языка, нацеленного на формирование коммуникативных умений в области культуры речи.</p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Совершенствование культуры речи при работе с текстом. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Методика предупреждения грамматических и речевых ошибок в устной и письменной речи. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Нормы оценивания устной и письменной речи. </p>
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Методика проектирования урока русского языка, нацеленного на формирование коммуникативных умений в области культуры речи.
+    </p>
 
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Оценка письменного речевого высказывания по критериям оценивания сочинения-рассуждения по русскому языку организациями, реализующими образовательные программы среднего общего образования.</li>
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Совершенствование культуры речи при работе с текстом.
+    </p>
+
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Методика предупреждения грамматических и речевых ошибок в устной и письменной речи.
+    </p>
+
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Нормы оценивания устной и письменной речи.
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Оценка письменного речевого высказывания по критериям оценивания сочинения-рассуждения по русскому языку организациями, реализующими образовательные программы среднего общего образования.
+        </li>
     </ul>
 
 
-
-    <p class="w600 m0auto fs25 fb fi mt-20 fb tac">
+    <p class="w600 m0auto fs25 fb fi mt-20 fb tac tsd txt-vi2">
         <img src="<?php echo get_template_directory_uri()?>/img/docum.png" alt=""class="w100h100">
         март-май
     </p>
 
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Функциональная грамотность как метапредметное явление. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Современная методика формирования и оценки метапредметных умений при обучении русскому языку в общеобразовательной школе (содержание обучения и методика формирования коммуникативных умений)</p>
 
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Развитие функциональной грамотности учащихся при обучении русскому языку. </li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Индикаторы функциональной грамотности.</li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Развитие всех видов речевой деятельности: умения слушать и читать (осмысленно воспринимать устную и письменную речь) и умения говорить и писать (устно и письменно воспроизводить и продуцировать речевые высказывания).</li>
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Функциональная грамотность как метапредметное явление.
+    </p>
+
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Современная методика формирования и оценки метапредметных умений при обучении русскому языку в общеобразовательной школе (содержание обучения и методика формирования коммуникативных умений)
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <b>Развитие функциональной грамотности</b> учащихся при обучении русскому языку.
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <b>Индикаторы</b> функциональной грамотности.
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <b>Развитие всех видов речевой деятельности:</b> умения слушать и читать (осмысленно воспринимать устную и письменную речь) и умения говорить и писать (устно и письменно воспроизводить и продуцировать речевые высказывания).
+        </li>
     </ul>
 
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Специфика целей и содержания работы по формированию читательской грамотности на уроках русского языка в основной школе.
+    </p>
 
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Специфика целей и содержания работы по формированию читательской грамотности на уроках русского языка в основной школе.</p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Читательская грамотность как компонент функциональной грамотности подростка и как важнейший планируемый результат обучения русскому языку в основной школе. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Специфика формирования читательской грамотности на уроках русского языка. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Формирование читательской грамотности (способности к поиску, пониманию и интерпретации информации текста, к определению коммуникативной установки устного и письменного сообщения, его темы, основной мысли, основной и дополнительной информации). </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Формирование читательской грамотности в процессе работы над различными видами чтения в основной школе.</p>
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Читательская грамотность как компонент функциональной грамотности подростка и как важнейший планируемый результат обучения русскому языку в основной школе.
+    </p>
 
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Формирование способности владеть разными видами чтения (поисковым, просмотровым, ознакомительным, изучающим) текстов разных стилей и жанров.</li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>Овладение различными способами информационной переработки содержания текста: составление вопросов по теоретическому материалу, различных видов плана текста (простого, сложного, в виде вопросов или назывных предложений, выражающих тему каждой части, тезисного, плана-конспекта), написание конспектов разных типов и т. д.</li>
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Специфика формирования читательской грамотности на уроках русского языка.
+    </p>
+
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Формирование читательской грамотности (способности к поиску, пониманию и интерпретации информации текста, к определению коммуникативной установки устного и письменного сообщения, его темы, основной мысли, основной и дополнительной информации).
+    </p>
+
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Формирование читательской грамотности в процессе работы над различными видами чтения в основной школе.
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <b>Формирование способности владеть разными видами чтения</b> (поисковым, просмотровым, ознакомительным, изучающим) текстов разных стилей и жанров.
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            Овладение различными <b>способами информационной переработки содержания текста:</b> составление вопросов по теоретическому материалу, различных видов плана текста (простого, сложного, в виде вопросов или назывных предложений, выражающих тему каждой части, тезисного, плана-конспекта), написание конспектов разных типов и т. д.
+        </li>
     </ul>
 
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Учебные, учебно-научные и научно-популярные тексты на уроках русского языка. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Умения работать с текстом как источником информации. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Извлечение информации, предъявляемой в различных формах: в виде связного текста, таблицы, схемы, простого, сложного или тезисного плана, рисунка лингвистического содержания и т. п.</p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Приёмы работы с текстом, группа действий и операций, применяемых для полноценного освоения содержания текста на каждом этапе чтения. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Оценивание метапредметных умений школьника при работе с учебным текстом. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Примеры комплексных работ для оценивания метапредметных умений школьника при работе с учебным текстом.</p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Анализ современных УМК: определение основных подходов к достижению метапредметных результатов. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Информационное пространство учебника. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Различные формы предъявления информации: </p>
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Учебные, учебно-научные и научно-популярные тексты на уроках русского языка.
+    </p>
 
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>текст, таблица, схема; </li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>план (сложный, простой, тезисный); </li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>на основе назывных предложений; </li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>на основе вопросов; </li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>рисунка лингвистического содержания.</li>
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Умения работать с текстом как источником информации.
+    </p>
+
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Извлечение информации, предъявляемой в различных формах: в виде связного текста, таблицы, схемы, простого, сложного или тезисного плана, рисунка лингвистического содержания и т. п.
+    </p>
+
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        <b>Приёмы работы с текстом</b>, группа действий и операций, применяемых для полноценного освоения содержания текста на каждом этапе чтения.
+    </p>
+
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Оценивание метапредметных умений школьника при работе с учебным текстом.
+    </p>
+
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Примеры комплексных работ для оценивания метапредметных умений школьника при работе с учебным текстом.
+    </p>
+
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Анализ современных УМК: определение основных подходов к достижению метапредметных результатов.
+    </p>
+
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Информационное пространство учебника.
+    </p>
+
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Различные <b>формы предъявления информации:</b>
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            текст, таблица, схема;
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            план (сложный, простой, тезисный);
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            на основе назывных предложений;
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            на основе вопросов;
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            рисунка лингвистического содержания.
+        </li>
     </ul>
 
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Корпус текстов учебника: тексты учебно-научные, научно-популярные, художественные, публицистические, деловые.</p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Текстоцентричная методика преодоления речевых ошибок. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Основные виды речевых ошибок: нарушение лексической сочетаемости‚ речевая избыточность (плеоназм‚ тавтология) и др. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Примеры учебных заданий‚ связанных с редактированием предложения‚ текста. </p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Организация проектной деятельности на основе работы с текстом.</p>
-    <p class="w800 m0auto fs18  fb fi"><span class="mr-10 wd fin fs25"></span>Важнейший аспект «обновления содержания образования в сфере русского языка и литературы», «модернизации программ основного общего образования» − установление возможных взаимосвязей предметных и метапредметных результатов обучения, зафиксированных в Федеральных государственных образовательных стандартах;</p>
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Корпус текстов учебника: тексты учебно-научные, научно-популярные, художественные, публицистические, деловые.
+    </p>
 
-    <ul class="w800 m0auto ul-2">
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>определение их оптимального соотношения и реализация этих взаимосвязей в курсах русского языка и литературы;</li>
-        <li class="fi"><span class="mr-10 fin">&#9734;</span>усиление деятельностной составляющей курсов.</li>
+    <p class="w800 m0auto fb  fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Текстоцентричная методика преодоления речевых ошибок.
+    </p>
+
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        <b>Основные виды речевых ошибок:</b> нарушение лексической сочетаемости‚ речевая избыточность (плеоназм‚ тавтология) и др.
+    </p>
+
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        <b>Примеры учебных заданий‚</b> связанных с редактированием предложения‚ текста.
+    </p>
+
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        <b>Организация проектной деятельности</b> на основе работы с текстом.
+    </p>
+
+    <p class="w800 m0auto   fs18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        Важнейший аспект «обновления содержания образования в сфере русского языка и литературы», «модернизации программ основного общего образования» − установление возможных взаимосвязей предметных и метапредметных результатов обучения, зафиксированных в Федеральных государственных образовательных стандартах;
+    </p>
+    <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            определение их оптимального соотношения и реализация этих взаимосвязей в курсах русского языка и литературы;
+        </li>
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            усиление деятельностной составляющей курсов.
+        </li>
     </ul>
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
@@ -178,16 +406,19 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/gallery/+01191fr.jpg" alt="фото" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/01191fr.jpg" alt="фото" class="w400 m0auto d-block mtb-20">
 
 
-<p class="w800 fs25 m0auto">ОБРАЗЕЦ УДОСТОВЕРЕНИЯ
-    О ПОВЫШЕНИИ КВАЛИФИКАЦИИ
-    ПО РУССКОМУ ЯЗЫКУ И ЛИТЕРАТУРЕ
-</p>
-
-    <img src="<?php echo get_template_directory_uri()?>/img/udostov/inos2.png" alt="фото" class="w400 m0auto d-block mtb-20">
+    <h4 class="h4-page-header fb mt-50 tsd">ОБРАЗЕЦ УДОСТОВЕРЕНИЯ</h4>
+    <h4 class="h4-page-header fb tsd">О ПОВЫШЕНИИ КВАЛИФИКАЦИИ</h4>
+    <h4 class="h4-page-header fb tsd">РУКОВОДИТЕЛЯ ОБЩЕОБРАЗОВАТЕЛЬНОГО УЧРЕЖДЕНИЯ</h4>
 
 
+    <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
+
+
+    <img src="<?php echo get_template_directory_uri()?>/img/udostov/inos2.png" alt="фото" class="w600 m0auto d-block mtb-20">
+
+    <p class="p-rel m0auto" style="height: 30px;margin-bottom: 100px"><img src="<?php echo get_template_directory_uri()?>/img/corner2.png" alt="" class="w200h200 c-right"></p>
 
 <?php get_footer(); ?>
