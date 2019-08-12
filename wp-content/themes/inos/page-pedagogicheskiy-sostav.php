@@ -89,16 +89,16 @@ get_header();
     <div style="margin: 0 auto;display: table;margin-top: 50px">
         <table style="border-spacing:0;font-size: 12px" class="w800">
             <tr style="background-color: #fbd4b4">
-                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:12px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ФИО СОТРУДНИКА</span></td>
+                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:14px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ФИО СОТРУДНИКА</span></td>
                 <td style="height: 305px;text-align: center;;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">МЕСТО РАБОТЫ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ЗАНИМАЕМАЯ ДОЛЖНОСТЬ / ДОЛЖНОСТИ/ ВИД ЗАНЯТОСТИ / УСЛОВИЯ ПРИВЛЕЧЕНИЯ К РАБОТЕ (ШТАТНЫЙ, СОВМЕСТИТЕЛЬ, ИНОЕ)</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">КАКОЕ ОБРАЗОВАТЕЛЬНОЕ УЧРЕЖДЕНИЕ ПРОФЕССИОНАЛЬНОГО ОБРАЗОВАНИЯ ОКОНЧИЛ /СПЕЦИАЛИТЕТ (СПЕЦИАЛЬНОСТЬ ПО ДИПЛОМУ)</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">АСПИРАНТУРА/ ДОКТОРАНТУРА</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ПРЕПОДАВАЕМЫЕ ДИСЦИПЛИНЫ</span></td>
-                <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">НАИМЕНОВАНИЕ НАПРАВЛЕНИЯ ПОДГОТОВКИ И (ИЛИ) СПЕЦИАЛЬНОСТИ</span></td>
+                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:49px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">НАИМЕНОВАНИЕ НАПРАВЛЕНИЯ ПОДГОТОВКИ И (ИЛИ) СПЕЦИАЛЬНОСТИ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ДАННЫЕ О ПОВЫШЕНИИ КВАЛИФИКАЦИИ И (ИЛИ) ПРОФЕССИОНАЛЬНОЙ ПЕРЕПОДГОТОВКЕ (ПРИ НАЛИЧИИ)</span></td>
-                <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ОБЩИЙ СТАЖ РАБОТЫ</span></td>
-                <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">СТАЖ РАБОТЫ ПО СПЕЦИАЛЬНОСТИ (НАУЧНО-ПЕДАГОГИЧЕСКИЙ СТАЖ)</span></td>
+                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:14px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">ОБЩИЙ СТАЖ РАБОТЫ</span></td>
+                <td style="height: 305px;text-align: center;border: 2px solid black;min-width:14px;"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">СТАЖ РАБОТЫ ПО СПЕЦИАЛЬНОСТИ (НАУЧНО-ПЕДАГОГИЧЕСКИЙ СТАЖ)</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">УЧЕНАЯ СТЕПЕНЬ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="writing-mode: vertical-rl;text-align: center">УЧЕНОЕ ЗВАНИЕ</span></td>
                 <td style="height: 305px;text-align: center;border: 2px solid black"><span class="fb tsd" style="text-align: center">ДОСТИЖЕНИЯ/ НАГРАДЫ</span></td>
