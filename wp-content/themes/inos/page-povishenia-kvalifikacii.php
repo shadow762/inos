@@ -13,7 +13,7 @@ get_header();
 
 
     <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         Цель обучения:
     </p>
@@ -22,7 +22,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Уровень (ступень) образования:</i>
     </p>
@@ -31,7 +31,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Вид образовательной программы:</i>
     </p>
@@ -40,7 +40,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Категория слушателей:</i>
     </p>
@@ -49,7 +49,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Сроки обучения: </i>
     </p>
@@ -58,7 +58,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Нормативный срок освоения: </i>
     </p>
@@ -67,7 +67,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Режим занятий: </i>
     </p>
@@ -76,7 +76,7 @@ get_header();
     </p>
 
     <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w50h50">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Форма обучения: </i>
     </p>
@@ -148,50 +148,6 @@ get_header();
         <a href="/kval-nach-school-plan">«Содержание, методика и технологии преподавания в современной
             начальной школе в контексте Федерального государственного образовательного стандарта».  </a>
     </p>
-
-    <!--Нижнее меню-->
-    <div class="bottom-pic-block">
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
-        </div>
-
-
-    </div>
-<?php wp_nav_menu([
-    'theme_location' => 'bottom',
-    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
-    'walker' => new BottomMenuWalker()
-]); ?>
-
-
-
-
-
-
-
-
-
-
-
-    <!--    <img src="--><?php //echo get_template_directory_uri()?><!--/img/gallery/doc31.jpg" alt="" class=" m0auto d-block">-->
 
 
 <?php get_footer(); ?>

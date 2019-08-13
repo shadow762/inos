@@ -81,7 +81,7 @@ get_header();
     </div>
     <div class="center-text-block clearfix">
         <div class="lamp"></div>
-        <p><span>цель:</span> развитие профессиональной, информационно-познавательной,
+        <p><span fs20 fb>ЦЕЛЬ:</span> развитие профессиональной, информационно-познавательной,
             коммуникативной и социально-личностной компетенций слушателей
             в процессе изучения актуальных проблем преподавания, повышение
             профессионального уровня в рамках имеющейся квалификации.</p>
@@ -103,65 +103,6 @@ get_header();
             программу и прошедшим итоговую аттестацию, выдаются Удостоверения
             о повышении квалификации.</p>
     </div>
-
-
-
-
-    <div class="bottom-pic-block">
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
-        </div>
-
-
-    </div>
-<?php wp_nav_menu([
-    'theme_location' => 'bottom',
-    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
-    'walker' => new BottomMenuWalker()
-]); ?>
-    <!--        <div class="bottom-menu-block">-->
-    <!--            <div class="bottom-menu-block-item b-m-b-i-color-1">-->
-    <!--                <p>ОСНОВНЫЕ СВЕДЕНИЯ</p>-->
-    <!--            </div>-->
-    <!--            <div class="bottom-menu-block-item b-m-b-i-color-2">-->
-    <!--                <p>ОБРАЗОВАНИЕ</p>-->
-    <!--            </div>-->
-    <!--            <div class="bottom-menu-block-item b-m-b-i-color-3">-->
-    <!--                <p>ИНСТИТУТ НА КАРТЕ</p>-->
-    <!--            </div>-->
-    <!--            <div class="bottom-menu-block-item b-m-b-i-color-4">-->
-    <!--                <p>СТРУКТУРА И ОРГАНЫ УПРАВЛЕНИЯ</p>-->
-    <!--            </div>-->
-    <!--            <div class="bottom-menu-block-item b-m-b-i-color-5">-->
-    <!--                <p>НАУЧНО-ПЕДАГОГИЧЕСКИЙ СОСТАВ</p>-->
-    <!--            </div>-->
-    <!--            <div class="bottom-menu-block-item b-m-b-i-color-6">-->
-    <!--                <p>ТЕКУЩИЕ ЦИКЛЫ ЛЕКЦИЙ</p>-->
-    <!--            </div>-->
-    <!--            <div class="bottom-menu-block-item b-m-b-i-color-7">-->
-    <!--                <p>ГАЛЕРЕЯ</p>-->
-    <!--            </div>-->
-    <!---->
-    <!---->
-    <!--        </div>-->
 
 
 

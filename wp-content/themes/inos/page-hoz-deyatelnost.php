@@ -48,37 +48,6 @@ get_header();
     <p class="w800 m0auto fs18 mt-20 fb tal tsd "><span class="mr-30 fs35">&#128394;</span><span class="txt-und">УЧЕТНАЯ КАРТОЧКА СЛУШАТЕЛЯ ИНОС</span></p>
     <p class="w800 m0auto fs18"><span class="mr-30 fs25 ml-10">&#10022;</span><a href="#" class="w800 m0auto fb fi">Скачать .pdf</a></p>
 
-    <!--Нижнее меню-->
-<p class="mtb-20"></p>
-    <div class="bottom-pic-block">
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-4.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-30.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-3.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
-        </div>
-        <div class="pic-block-item ">
-            <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-19.png" alt="" class="w100phi">
-        </div>
 
-
-    </div>
-<?php wp_nav_menu([
-    'theme_location' => 'bottom',
-    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
-    'walker' => new BottomMenuWalker()
-]); ?>
 
 <?php get_footer(); ?>

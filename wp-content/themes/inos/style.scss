@@ -53,6 +53,7 @@ body {
 
 .menu-btn p {
   margin: 0;
+  text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
 }
 
 
@@ -458,13 +459,14 @@ body {
 .center-text-block p {
   display: inline-block;
   vertical-align: top;
-  width:850px;
+  width: 850px;
   margin-left: 25px;
-  color: #000000;
+  color: #001848;
   font-size: 18px;
   font-family: "Times New Roman PS - Bold MT";
   font-weight: 700;
   word-wrap: break-word;
+  text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
 }
 
 .center-text-block span {
@@ -476,7 +478,7 @@ body {
 .bottom-pic-block {
   background-color: #ddd9e4;
   width: 1029px;
-  height: 190px;
+  height: 175px;
   margin: 0 auto;
   border-radius: 15px;
   border-left: 2px solid #000;
@@ -499,7 +501,7 @@ body {
 
 .pic-block-item {
   width: 127px;
-  height: 140px;
+  height: 127px;
   background-color: #fff;
   border-radius: 10px;
   border: 2px solid #000;
@@ -553,7 +555,7 @@ body {
 
 .bottom-menu-block {
   width: 1029px;
-  height: 275px;
+  height: 50px;
   margin: 0 auto;
   margin-top: -10px;
   display: flex;
@@ -562,7 +564,7 @@ body {
 
 .bottom-menu-block-item {
   width: 128px;
-  height: 160px;
+  height: 95px;
   border-radius: 0 0 10px 10px;
   position: relative;
 }
@@ -578,7 +580,7 @@ body {
 .bottom-menu-block-item::after {
   content: '';
   display: block;
-  height: 145px;
+  height: 80px;
   width: 0;
   border-right: 4px solid #f3e0ff;
   border-bottom: 0px solid transparent;
@@ -591,7 +593,7 @@ body {
 .bottom-menu-block-item::before {
   content: '';
   display: block;
-  height: 145px;
+  height: 80px;
   width: 0;
   border-left: 4px solid #f3e0ff;
   border-bottom: 0px solid transparent;
@@ -631,8 +633,9 @@ body {
 
 .bottom-menu-block-item p {
   color: #f8f6f9;
-  font-size: 18px;
+  font-size: 12px;
   font-family: "Open Sans";
+  text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
   font-weight: 500;
   text-align: center;
   word-wrap: break-word;

@@ -12,6 +12,41 @@
  */
 
 ?>
+
+<p class="mtb-20"></p>
+<div class="bottom-pic-block">
+    <div class="pic-block-item ">
+        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
+    </div>
+    <div class="pic-block-item">
+        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
+    </div>
+    <div class="pic-block-item ">
+        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-8.png" alt="" class="w100phi">
+    </div>
+    <div class="pic-block-item ">
+        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-1.png" alt="" class="w100phi">
+    </div>
+    <div class="pic-block-item">
+        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-5.png" alt="" class="w100phi">
+    </div>
+    <div class="pic-block-item ">
+        <img src="<?php echo get_template_directory_uri() ?>/img/school.jpg" alt="" class="w100phi">
+    </div>
+    <div class="pic-block-item ">
+        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
+    </div>
+
+
+</div>
+<?php wp_nav_menu([
+    'theme_location' => 'bottom',
+    'items_wrap' => '<div id="%1$s" class="bottom-menu-block %2$s">%3$s</div>',
+    'walker' => new BottomMenuWalker()
+]); ?>
+
+
+
 </div>
 </div>
 
