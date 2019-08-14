@@ -16,7 +16,7 @@ get_header();
 
     <p class="w800 m0auto fs18 fb mt-50 tal txt-vi tsd">ФЕДЕРАЛЬНАЯ СЛУЖБА ПО НАДЗОРУ В СФЕРЕ ОБРАЗОВАНИЯ И НАУКИ (РОСОБРНАДЗОР)</p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href=" http://obrnadzor.gov.ru/" target="_blank"> http://obrnadzor.gov.ru/</a>
     </p>
 
@@ -29,7 +29,7 @@ get_header();
         организациях, нормативно-правовая база, сведения по ФГОС, ЕГЭ и ГИА и многое другое.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://www.edu.ru/" target="_blank">http://www.edu.ru/</a>
     </p>
 
@@ -38,7 +38,7 @@ get_header();
     <p class="w600 m0auto fs18 txt-vi2 tsd">В коллекции собраны электронные ресурсы по всем школьным предметам.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://school-collection.edu.ru/" target="_blank">http://school-collection.edu.ru/</a>
     </p>
 
@@ -47,7 +47,7 @@ get_header();
         на распространение электронных образовательных ресурсов и сервисов для всех уровней и ступеней образования.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://fcior.edu.ru/" target="_blank">: http://fcior.edu.ru/</a>
     </p>
 
@@ -57,7 +57,7 @@ get_header();
         объявления, презентации и многое другое.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://pedsovet.su/" target="_blank">http://pedsovet.su/</a>
     </p>
 
@@ -66,7 +66,7 @@ get_header();
         методику, содержание обучения и контроль знаний, компьютеризацию образования.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://paidagogos.com/" target="_blank">http://paidagogos.com/</a>
     </p>
 
@@ -77,7 +77,7 @@ get_header();
         новому, пообщаться с единомышленниками.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://vashabnp.info/" target="_blank">http://vashabnp.info/</a>
     </p>
 
@@ -86,7 +86,7 @@ get_header();
         по методике преподавания, дошкольному образованию, истории педагогики.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://www.profile-edu.ru/" target="_blank">http://www.profile-edu.ru/</a>
     </p>
 
@@ -97,7 +97,7 @@ get_header();
         эффективные приемы обучения и воспитания собственных детей, найти с ними взаимопонимание.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://www.zanimatika.ru/" target="_blank">http://www.zanimatika.ru/</a>
     </p>
 
@@ -106,7 +106,7 @@ get_header();
         «Блоги», «Форум», «Фотогалерея», «Образовательные сайты», «Обратная связь».
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://ya-uchitel.ru/" target="_blank">http://ya-uchitel.ru/</a>
     </p>
 
@@ -116,7 +116,7 @@ get_header();
         для руководителей образовательных учреждений.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://www.educationworld.com/" target="_blank">http://www.educationworld.com/</a>
     </p>
 
@@ -125,7 +125,7 @@ get_header();
         технологиях, способах оценки, видеоролики для педагогов, профессиональные дискуссии и многое другое.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://www.edutopia.org/article/new-teacher-resources-toolkit" target="_blank">http://www.edutopia.org/article/new-teacher-resources-toolkit</a>
     </p>
 
@@ -142,7 +142,7 @@ get_header();
         политике, о содержании и ходе модернизации образования.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://vestnik.apkpro.ru/" target="_blank">http://vestnik.apkpro.ru/</a>
     </p>
 
@@ -152,7 +152,7 @@ get_header();
         отечественной педагогической мысли.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://pedagogika-rao.ru/" target="_blank">http://pedagogika-rao.ru/</a>
     </p>
 
@@ -164,7 +164,7 @@ get_header();
         «Педагогические науки», «Психологические науки».
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://mggu-sh.ru/vestnik/pedagogika-i-psihologiya" target="_blank">http://mggu-sh.ru/vestnik/pedagogika-i-psihologiya</a>
     </p>
 
@@ -175,7 +175,7 @@ get_header();
         образовательных учреждений всех видов, типов и уровней.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://ychitel.com/" target="_blank">http://ychitel.com/</a>
     </p>
 
@@ -184,7 +184,7 @@ get_header();
         вебинары и другая полезная информация для педагогов.
     </p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://1september.ru/" target="_blank">http://1september.ru/</a>
     </p>
 

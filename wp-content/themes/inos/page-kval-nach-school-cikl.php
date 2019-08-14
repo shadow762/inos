@@ -21,11 +21,10 @@ get_header();
         <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
         Проводятся на базе Института</p>
     <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
-        авторами УМК, УМС</p>
+        авторами УМК, УМС,</p>
     <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
         Федеральных нормативных документов</p>
-    <p class="w800 m0auto fs18 fi tar txt-vi2 tsd">
-        (ФГОС, ГИА, ОГЭ, ЕГЭ).</p>
+
 
     <img src="<?php echo get_template_directory_uri()?>/img/school.jpg" alt="" class="w600 m0auto d-block mtb-20">
 

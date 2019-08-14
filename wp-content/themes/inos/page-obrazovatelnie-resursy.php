@@ -14,7 +14,7 @@ get_header();
 
 
    <h4 class="h4-page-header fb mt-50 tsd">
-       <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" class="w30h30">
+<!--       <img src="--><?php //echo get_template_directory_uri()?><!--/img/icons/flag.png" class="w30h30">-->
        ЭЛЕКТРОННЫЕ ОБРАЗОВАТЕЛЬНЫЕ РЕСУРСЫ</h4>
     <h4 class="h4-page-header fb  txt-bo tsd">ИСПОЛЬЗУЕМЫЕ ПРЕПОДАВАТЕЛЯМИ И
         СЛУШАТЕЛЯМИ ИНСТИТУТА В</h4>
@@ -39,7 +39,7 @@ get_header();
         деятельности.
     </p>
     <p class="w800 m0auto fs18 fb mt-20 txt-vi2 tsd ">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://window.edu.ru/">http://window.edu.ru/</a>
     </p>
 
@@ -50,7 +50,7 @@ get_header();
         хранение и распространение информации в интересах научных психолого-педагогических исследований и образования.
     </p>
     <p class="w800 m0auto fs18 fb mt-20 txt-vi2 tsd ">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://elib.gnpbu.ru/">http://elib.gnpbu.ru/</a>
     </p>
 
@@ -65,7 +65,7 @@ get_header();
         с полными текстами.
     </p>
     <p class="w800 m0auto fs18 fb mt-20 txt-vi2 tsd ">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://books.google.ru/">http://books.google.ru/</a>
     </p>
 
@@ -78,7 +78,7 @@ get_header();
         организациями.
     </p>
     <p class="w800 m0auto fs18 fb mt-20 txt-vi2 tsd ">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://scholar.google.ru/">http://scholar.google.ru/</a>
     </p>
 

@@ -159,7 +159,7 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/butor14.png" alt="" class="w200 m0auto d-block mt-50">
 
     <p class="w800 m0auto fs18 mt-50 fb tac tsd txt-vi">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w30h30 mr-10">
         В ИНСТИТУТЕ ДЛЯ ОБЕСПЕЧЕНИЯ БЕЗОПАСНОСТИ</p>
     <p class="w800 m0auto fs18 fb tac tsd txt-vi">СОЗДАНА ЭФФЕКТИВНАЯ СИСТЕМА ОХРАНЫ:</p>
 
@@ -185,7 +185,7 @@ get_header();
 
 
     <p class="w800 m0auto fs18 mt-50 fb tac tsd txt-vi">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w30h30 mr-10">
         В ИНСТИТУТЕ СОБЛЮДАЮТСЯ НОРМЫ</p>
     <p class="w800 m0auto fs18 fb tac tsd txt-vi">ЭЛЕКТРОБЕЗОПАСНОСТИ:</p>
 
@@ -245,7 +245,7 @@ get_header();
 
 
     <p class="w800 m0auto fs18 mt-50 fb tac tsd txt-vi">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w30h30 mr-10">
         В ИНСТИТУТЕ СОБЛЮДАЮТСЯ</p>
     <p class="w800 m0auto fs18 fb tac tsd txt-vi">САНИТАРНЫЕ И ГИГИЕНИЧЕСКИЕ НОРМЫ:</p>
 
@@ -392,7 +392,7 @@ get_header();
 
 
     <h4 class="h4-page-header fb tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w30h30 mr-10">
         ПРОТИВОПОЖАРНАЯ БЕЗОПАСНОСТЬ В ИНСТИТУТЕ</h4>
 
 

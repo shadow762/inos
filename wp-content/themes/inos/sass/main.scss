@@ -301,6 +301,11 @@
   height: 107px;
 }
 
+.w65ph107 {
+  width: 65%;
+  height: 107px;
+}
+
 //.w100phi {
 //  width: 100%;
 //  height: inherit;
@@ -522,5 +527,6 @@
 }
 
 table ul {
-  list-style: none;
+  list-style: disc;
+  margin-left: 10px;
 }

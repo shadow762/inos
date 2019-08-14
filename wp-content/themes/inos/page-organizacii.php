@@ -15,7 +15,7 @@ get_header();
 
     <p class="w600 m0auto fs18 fb mt-50 tal txt-vi tsd">МИНИСТЕРСТВО ПРОСВЕЩЕНИЯ РОССИЙСКОЙ ФЕДЕРАЦИИ</p>
     <p class="w800 m0auto fs18 fb  tal txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="https://edu.gov.ru/  " target="_blank">https://edu.gov.ru/</a>
     </p>
 
@@ -23,19 +23,19 @@ get_header();
 
     <p class="w600 m0auto fs18 fb mt-50 tal txt-vi tsd">ФЕДЕРАЛЬНАЯ СЛУЖБА ПО НАДЗОРУ В СФЕРЕ ОБРАЗОВАНИЯ И НАУКИ (РОСОБРНАДЗОР)</p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href=" http://obrnadzor.gov.ru/" target="_blank"> http://obrnadzor.gov.ru/</a>
     </p>
 
     <p class="w600 m0auto fs18 fb mt-50 tal txt-vi tsd">Академия повышения квалификации и профессиональной переподготовки работников образования</p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://www.apkpro.ru/" target="_blank">http://www.apkpro.ru/</a>
     </p>
 
     <p class="w600 m0auto fs18 fb mt-50 tal txt-vi tsd">Координационный совет учебно-методических объединений и научно-методических советов высшей школы</p>
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://fgosvo.ru/" target="_blank">http://fgosvo.ru/</a>
     </p>
 
@@ -45,7 +45,7 @@ get_header();
     </p>
 
     <p class="w800 m0auto fs18 fb tal txt-vi2 tsd">
-         <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+         <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://www.apkpro.ru/" target="_blank">http://www.apkpro.ru/</a>
     </p>
 

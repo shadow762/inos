@@ -16,25 +16,25 @@
 <p class="mtb-20"></p>
 <div class="bottom-pic-block">
     <div class="pic-block-item ">
-        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w100phi">
+        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-14.png" alt="" class="w65ph107">
     </div>
     <div class="pic-block-item">
-        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w100phi">
+        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-7.png" alt="" class="w65ph107">
     </div>
     <div class="pic-block-item ">
         <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-8.png" alt="" class="w100phi">
     </div>
     <div class="pic-block-item ">
-        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-1.png" alt="" class="w100phi">
+        <img src="<?php echo get_template_directory_uri() ?>/img/+inos+.png" alt="" class="w100phi">
     </div>
     <div class="pic-block-item">
         <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-5.png" alt="" class="w100phi">
     </div>
     <div class="pic-block-item ">
-        <img src="<?php echo get_template_directory_uri() ?>/img/school.jpg" alt="" class="w100phi">
+        <img src="<?php echo get_template_directory_uri() ?>/img/abacus1.jpg" alt="" class="w100phi">
     </div>
     <div class="pic-block-item ">
-        <img src="<?php echo get_template_directory_uri() ?>/img/img-btn-9.png" alt="" class="w100phi">
+        <img src="<?php echo get_template_directory_uri() ?>/img/kts-19.png" alt="" class="w65ph107">
     </div>
 
 

@@ -13,7 +13,7 @@ get_header();
 
 
     <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         Цель обучения:
     </p>
@@ -22,7 +22,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Уровень (ступень) образования:</i>
     </p>
@@ -31,7 +31,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Вид образовательной программы:</i>
     </p>
@@ -40,7 +40,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Категория слушателей:</i>
     </p>
@@ -49,7 +49,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Сроки обучения: </i>
     </p>
@@ -58,7 +58,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Нормативный срок освоения: </i>
     </p>
@@ -67,7 +67,7 @@ get_header();
     </p>
 
      <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Режим занятий: </i>
     </p>
@@ -76,7 +76,7 @@ get_header();
     </p>
 
     <p class="w800 m0auto tal mt-10 fi fb fs20 txt-lblue tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h50 mr-10">
         <img src="<?php echo get_template_directory_uri()?>/img/shurup.png" alt="" class="w65h35">
         <i>Форма обучения: </i>
     </p>

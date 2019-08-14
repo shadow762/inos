@@ -19,19 +19,21 @@ get_header();
     <p class="w800 m0auto fs18 fb txt-red tac tsd">«ИНОС - ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»:</p>
 
     <ul class="w600 mt-10 m0auto ul-2 txt-vi fs18">
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Конституция Российской Федерации.</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Федеральный закон Российской Федерации от 29 декабря 2012 г. N 273-ФЗ "Об образовании в Российской Федерации".</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Указы и распоряжения Президента Российской Федерации.</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Постановления и распоряжения Правительства Российской Федерации.</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Постановление Правительства Российской Федерации от 25.04.2012 г. № 390 «О противопожарном режиме» (ред. от 06.04.2016,
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Конституция Российской Федерации.</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Федеральный закон Российской Федерации от 29 декабря 2012 г. N 273-ФЗ "Об образовании в Российской Федерации".</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Указы и распоряжения Президента Российской Федерации.</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Постановления и распоряжения Правительства Российской Федерации.</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Постановление Правительства Российской Федерации от 25.04.2012 г. № 390 «О противопожарном режиме» (ред. от 06.04.2016,
                 с изм. от 18.08.2016) «Правила противопожарного режима в РФ»</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Трудовой Кодекс Российской Федерации.</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Нормативные правовые акты Министерства просвещения Российской Федерации.</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Нормативные правовые акты Департамента образования города Москвы.</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Устав НОУ ДО «ИНОС».
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Трудовой Кодекс Российской Федерации.</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Нормативные правовые акты Министерства просвещения Российской Федерации.</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Нормативные правовые акты Департамента образования города Москвы.</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Устав НОУ ДО «ИНОС».
                 (утвержден Министерством юстиции Российской Федерации).</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Локальные акты НОУ ДО «ИНОС».</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Локальные акты НОУ ДО «ИНОС».</a></li>
     </ul>
+
+<!--    <span class="mr-10 fs25">&#10209;</span>-->
 
 
     <div class="img-container">
@@ -39,8 +41,8 @@ get_header();
     </div>
 
     <p class="w600 m0auto tac mt-50">
-        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
-        <span class="fs35 fb txt-bo">&#128366;</span>
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w50h50 mr-10">
         <span class="fs25 fb txt-vi tsd">ЛИЦЕНЗИЯ</span>
     </p>
     <p class="w800 m0auto fs18 fb txt-vi tsd tac">НА ОСУЩЕСТВЛЕНИЕ ОБРАЗОВАТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ</p>
@@ -96,15 +98,15 @@ get_header();
         </li>
     </ul>
 
-     <p class="w800 m0auto fb fs18 mt-20 txt-vi">Полный перечень организаций, имеющих лицензию на осуществление образовательной деятельности, содержится в
+     <p class="w800 m0auto fb fi fs18 mt-20 txt-vi">Полный перечень организаций, имеющих лицензию на осуществление образовательной деятельности, содержится в
          сводном реестре лицензий, оператором которого является Федеральная служба по надзору в сфере образования и науки
-         (http://obrnadzor.gov.ru/ru/activity/main_directions/licensing/search_lic/).</p>
+         (<a href="http://obrnadzor.gov.ru/ru/activity/main_directions/licensing/search_lic/" target="_blank">http://obrnadzor.gov.ru/ru/activity/main_directions/licensing/search_lic/</a>).</p>
 
 <!--    ***свидетельство 1*** -->
 
     <p class="w600 m0auto tac mt-50">
-        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
-        <span class="fs35 fb txt-bo">&#128366;</span>
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w50h50 mr-10">
         <span class="fs25 fb txt-vi tsd">СВИДЕТЕЛЬСТВО</span>
     </p>
     <p class="w800 m0auto fs18 fb txt-vi tsd tac">О ВНЕСЕНИИ ЗАПИСИ В ЕДИНЫЙ ГОСУДАРСТВЕННЫЙ
@@ -142,8 +144,8 @@ get_header();
 
 
     <p class="w600 m0auto tac mt-50">
-        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
-        <span class="fs35 fb txt-bo">&#128366;</span>
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w50h50 mr-10">
         <span class="fs25 fb txt-vi tsd">СВИДЕТЕЛЬСТВО</span>
     </p>
     <p class="w800 m0auto fs18 fb txt-vi tsd tac">О ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ
@@ -190,8 +192,8 @@ get_header();
     <!--    ***свидетельство 3*** -->
 
     <p class="w600 m0auto tac mt-50">
-        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
-        <span class="fs35 fb txt-bo">&#128366;</span>
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w50h50 mr-10">
         <span class="fs25 fb txt-vi tsd">СВИДЕТЕЛЬСТВО</span>
     </p>
     <p class="w800 m0auto fs18 fb txt-vi tsd tac">О ПОСТАНОВКИ НА УЧЕТ ЮРИДИЧЕСКОГО ЛИЦА
@@ -235,8 +237,8 @@ get_header();
 
     <!--    ***свидетельство 4*** -->
     <p class="w600 m0auto tac mt-50">
-        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
-        <span class="fs35 fb txt-bo">&#128366;</span>
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w50h50 mr-10">
         <span class="fs25 fb txt-vi tsd">ВИДЫ ДЕЯТЕЛЬНОСТИ ПО ОКВЭД</span>
     </p>
    <p class="w600 fs20 fb m0auto tac tsd">Сведения о видах экономической деятельности</p>
@@ -271,8 +273,8 @@ get_header();
 
     <!--    ***свидетельство 5*** -->
     <p class="w600 m0auto tac mt-50">
-        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
-        <span class="fs35 fb txt-bo">&#128366;</span>
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w50h50 mr-10">
         <span class="fs25 fb txt-vi tsd">СВИДЕТЕЛЬСТВО</span>
     </p>
     <p class="w800 m0auto fs18 fb txt-vi tsd tac">О ГОСУДАРСТВЕННОЙ РЕГИСТРАЦИИ ПРАВА
@@ -310,8 +312,8 @@ get_header();
 
     <!--    ***устав*** -->
     <p class="w600 m0auto tac mt-50">
-        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30">
-        <span class="fs35 fb txt-bo">&#128366;</span>
+        <img src="<?php echo get_template_directory_uri()?>/img/couleurs.png" alt="" class="w100h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w50h50 mr-10">
         <span class="fs25 fb txt-vi tsd">УСТАВ</span>
     </p>
     <p class="w800 m0auto fs18 fb txt-vi tsd tac">НЕГОСУДАРСТВЕННОГО ОБРАЗОВАТЕЛЬНОГО УЧРЕЖДЕНИЯ
@@ -380,71 +382,71 @@ get_header();
 
 
     <ul class="w800 m0auto fs18 mtb-20 ul-2 txt-vi">
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о правовом статусе Учреждения
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о правовом статусе Учреждения
                 (Некоммерческая организация)</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о Совете Учреждения</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о внесении изменений в Устав Учреждения</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о правилах внутреннего трудового распорядка Учреждения</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о номенклатуре дел в образовательной организации</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о дополнительном профессиональном образовании</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об организации образовательного процесса</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о формах обучения</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о защите прав обучающихся</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о порядке размещения обязательной информации на официальном сайте в сети Интернет</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об официальном сайте Учреждения</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о лицензировании</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о профессиональном стандарте</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о структурных подразделениях Учреждения</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о заведующем кафедрой, декане, проректоре</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о порядке возникновения и прекращения правоотношений</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об утверждении номенклатуры должностей педагогических работников организации, осуществляющей образовательную деятельность, должностей руководителей образовательной организации</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о приеме в Учреждение по образовательным программам повышения квалификации</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об отчислении обучающихся</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о семинарах и практических работах</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о промежуточной аттестации обучающихся</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о самостоятельной работе обучающихся</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об итоговой аттестации обучающихся</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о курсовой работе</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об аттестационной комиссии</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о заполнении удостоверения о повышении квалификации по дополнительным образовательным программам</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о порядке выдачи удостоверения о повышении квалификации по дополнительным образовательным программам</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о ведении журнала повышении квалификации по дополнительным образовательным программам</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об академических правах и мерах социальной поддержки, предоставляемых обучающимся</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об учебной аудитории</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об образовательных программах повышения квалификации</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об учебном плане повышения квалификации</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об учебно-тематическом планировании повышения квалификации</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о системе внутреннего мониторинга в образовательной организации</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об использовании ресурсных межотраслевых центров</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о дистанционных технологиях в образовании</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о профессиональном самообследовании</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о правовом статусе педагогического работника</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о научно-методической работе</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о нормах профессиональной этики педагогических работников организации, осуществляющей образовательную деятельность</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о правовой грамотности сотрудников Учреждения</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о режиме рабочего времени и времени отдыха педагогических работников (в соответствии с требованиями трудового законодательства)</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о распределении материальных средств</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об оказании платных образовательных услуг</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о материальной ответственности</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о приеме на работу и увольнении<</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о взаимодействии с работодателем</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение об оплате труда работников</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о стипендиальных выплатах</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о премировании</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о дисциплинарном взыскании</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о правах и мерах социальной поддержки, предоставляемых работникам</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о порядке реализации права на бесплатное пользование образовательными, ресурсными, методическими и научными услугами организации-работодателя</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о комиссии по урегулированию споров</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о получении сотрудниками дополнительного профессионального образования</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о прохождении медицинских осмотров</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о комиссии по охране труда в Учреждении</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о безопасности в Учреждении</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о комплектации аптечек</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Сводное Положение о пожарной безопасности</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Номенклатура дел по пожарной безопасности</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о защите персональных данных</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о пропускном и внутриобъектовом режиме Учреждения</a></li>
-        <li class="fb"><span class="mr-10 fs25">&#10209;</span><a href="#">Положение о внутриучрежденческом контроле</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о Совете Учреждения</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о внесении изменений в Устав Учреждения</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о правилах внутреннего трудового распорядка Учреждения</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о номенклатуре дел в образовательной организации</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о дополнительном профессиональном образовании</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об организации образовательного процесса</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о формах обучения</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о защите прав обучающихся</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о порядке размещения обязательной информации на официальном сайте в сети Интернет</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об официальном сайте Учреждения</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о лицензировании</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о профессиональном стандарте</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о структурных подразделениях Учреждения</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о заведующем кафедрой, декане, проректоре</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о порядке возникновения и прекращения правоотношений</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об утверждении номенклатуры должностей педагогических работников организации, осуществляющей образовательную деятельность, должностей руководителей образовательной организации</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о приеме в Учреждение по образовательным программам повышения квалификации</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об отчислении обучающихся</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о семинарах и практических работах</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о промежуточной аттестации обучающихся</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о самостоятельной работе обучающихся</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об итоговой аттестации обучающихся</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о курсовой работе</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об аттестационной комиссии</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о заполнении удостоверения о повышении квалификации по дополнительным образовательным программам</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о порядке выдачи удостоверения о повышении квалификации по дополнительным образовательным программам</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о ведении журнала повышении квалификации по дополнительным образовательным программам</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об академических правах и мерах социальной поддержки, предоставляемых обучающимся</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об учебной аудитории</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об образовательных программах повышения квалификации</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об учебном плане повышения квалификации</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об учебно-тематическом планировании повышения квалификации</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о системе внутреннего мониторинга в образовательной организации</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об использовании ресурсных межотраслевых центров</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о дистанционных технологиях в образовании</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о профессиональном самообследовании</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о правовом статусе педагогического работника</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о научно-методической работе</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о нормах профессиональной этики педагогических работников организации, осуществляющей образовательную деятельность</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о правовой грамотности сотрудников Учреждения</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о режиме рабочего времени и времени отдыха педагогических работников (в соответствии с требованиями трудового законодательства)</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о распределении материальных средств</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об оказании платных образовательных услуг</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о материальной ответственности</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о приеме на работу и увольнении<</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о взаимодействии с работодателем</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение об оплате труда работников</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о стипендиальных выплатах</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о премировании</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о дисциплинарном взыскании</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о правах и мерах социальной поддержки, предоставляемых работникам</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о порядке реализации права на бесплатное пользование образовательными, ресурсными, методическими и научными услугами организации-работодателя</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о комиссии по урегулированию споров</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о получении сотрудниками дополнительного профессионального образования</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о прохождении медицинских осмотров</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о комиссии по охране труда в Учреждении</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о безопасности в Учреждении</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о комплектации аптечек</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Сводное Положение о пожарной безопасности</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Номенклатура дел по пожарной безопасности</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о защите персональных данных</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о пропускном и внутриобъектовом режиме Учреждения</a></li>
+        <li class="fb"><span class="mr-10 fs25">&#128394;</span><a href="#">Положение о внутриучрежденческом контроле</a></li>
     </ul>
 
     <img src="<?php echo get_template_directory_uri()?>/img/gallery/doc31.jpg" alt="" class="w250 m0auto d-block mtb-20">
