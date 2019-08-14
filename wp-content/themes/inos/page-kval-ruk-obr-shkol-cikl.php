@@ -355,6 +355,8 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
+    <img src="<?php echo get_template_directory_uri()?>/img/kts-19.png" alt="фото" class="w250 m0auto d-block mtb-20">
+
 <!--    <img src="--><?php //echo get_template_directory_uri()?><!--/img/gallery/0072.jpg" alt="фото" class="w600 m0auto d-block mtb-20">-->
 <!---->
 <!--    <img src="--><?php //echo get_template_directory_uri()?><!--/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">-->

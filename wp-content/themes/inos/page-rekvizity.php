@@ -135,7 +135,7 @@ get_header();
 
     <div class="img-container">
         <img src="<?php echo get_template_directory_uri()?>/img/kts_brume_oceane.png" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-4.png" alt="">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-4.png" alt="" style="width: 112px">
     </div>
 
     <div class="rekv-info-block">

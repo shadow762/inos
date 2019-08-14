@@ -99,11 +99,19 @@ get_header();
 
     </p>
 
-    <ul class="w600 m0auto fs18   mtb-10 ul-2">
-        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-russ-lit-cikl#id-russ">Удостоверение <b>ПО РУССКОМУ ЯЗЫКУ И ЛИТЕРАТУРЕ</b></a></li>
-        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-ruk-obr-shkol#id-ruk">Удостоверение <b>РУКОВОДИТЕЛЯ</b> </a></li>
-        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-math-cikl/#id-math">Удостоверение <b>ПО МАТЕМАТИКЕ</b></a></li>
-        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-nach-school-cikl/#id-nach">Удостоверение <b>УЧИТЕЛЕЙ НАЧАЛЬНОЙ ШКОЛЫ</b></a></li>
+    <ul class="w600 m0auto fs18 fb fi   mtb-10 ul-2">
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-russ-lit-cikl#id-russ">образец удостоверения
+                о повышении квалификации
+                по русскому языку и литературе</b></a></li>
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-ruk-obr-shkol#id-ruk">образец удостоверения
+                о повышении квалификации
+                руководителя общеобразовательного учреждения</b> </a></li>
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-math-cikl/#id-math">образец удостоверения
+                о повышении квалификации
+                по математике</b></a></li>
+        <li><img src="<?php echo get_template_directory_uri()?>/img/icons/view.png" alt="" class="w30h30 mr-10"><a href="/kval-nach-school-cikl/#id-nach">образец удостоверения
+                о повышении квалификации
+                учителей начальной школы</b></a></li>
     </ul>
 
 

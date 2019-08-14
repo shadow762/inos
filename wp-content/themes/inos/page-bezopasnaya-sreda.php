@@ -60,7 +60,7 @@ get_header();
                     Нормативные правовые акты Министерства просвещения Российской Федерации.</li>
         <li class="fb mt-10">
             <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
-            Нормативные правовые акты Департамента образования города Москвы.</li>
+            Нормативные правовые акты Департамента образования и науки города Москвы.</li>
         <li class="fb mt-10">
             <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
             Локальные акты НОУ ДО «ИНОС»:</li>
@@ -241,7 +241,7 @@ get_header();
     </p>
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/butor20.png" alt="" class="w200 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/butor20.png" alt="" class="w250 m0auto d-block mtb-20">
 
 
     <p class="w800 m0auto fs18 mt-50 fb tac tsd txt-vi">
@@ -250,7 +250,7 @@ get_header();
     <p class="w800 m0auto fs18 fb tac tsd txt-vi">САНИТАРНЫЕ И ГИГИЕНИЧЕСКИЕ НОРМЫ:</p>
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/rac2.png" alt="" class="w150 m0auto d-block mt-50">
+    <img src="<?php echo get_template_directory_uri()?>/img/rac2.png" alt="" class="w250 m0auto d-block mt-50">
 
 
 
@@ -290,7 +290,7 @@ get_header();
         <img src="<?php echo get_template_directory_uri()?>/img/clip2.png" alt="" class="f-right w100h100">
     </div>
 
-    <div class="docs-cont-2">
+    <div class="docs-cont-1">
         <img src="<?php echo get_template_directory_uri()?>/img/docs/med/img-8734.jpg" alt="">
     </div>
 
@@ -489,7 +489,7 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0064-1.jpg" alt="" class="w600 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0064-1.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">

@@ -51,6 +51,10 @@ body {
   margin-top: 10px;
 }
 
+.menu-btn:hover {
+  color: black;
+}
+
 .menu-btn p {
   margin: 0;
   text-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
@@ -647,7 +651,9 @@ body {
   text-decoration: none;
 }
 
-
+.bottom-menu-block-item a p:hover {
+  color: black;
+}
 
 
 

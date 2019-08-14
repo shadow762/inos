@@ -26,7 +26,7 @@ get_header();
         Федеральных нормативных документов</p>
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/school.jpg" alt="" class="w600 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/school.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
     <p class="w600 m0auto fs25 fb fi mt-20 fb tac tsd txt-vi2">
         <img src="<?php echo get_template_directory_uri()?>/img/butor5.png" alt=""class="w100h100">
@@ -405,7 +405,7 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0091.jpg" alt="фото" class="w600 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/kts-19.png" alt="фото" class="w250 m0auto d-block mtb-20">
 
     <h4 id="id-nach" class="h4-page-header fb mt-50 tsd">ОБРАЗЕЦ УДОСТОВЕРЕНИЯ</h4>
     <h4 class="h4-page-header fb tsd">О ПОВЫШЕНИИ КВАЛИФИКАЦИИ</h4>

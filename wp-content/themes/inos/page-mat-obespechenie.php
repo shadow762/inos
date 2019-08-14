@@ -111,12 +111,18 @@ get_header();
     </div>
 
 
-    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0124-1.JPG" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0124-1.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
     <p class="w800 m0auto fs18 mt-10 fb txt-vi2 tar"><img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10"><i>Имеются информационные стенды.</i></p>
 
     <img src="<?php echo get_template_directory_uri()?>/img/gallery/0070.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
+    <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
+
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0065-1.jpg" alt="" class="w400 m0auto d-block mtb-20">
+    <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
+
+    <img src="<?php echo get_template_directory_uri()?>/img/gallery/0149.jpg" alt="" class="w400 m0auto d-block mtb-20">
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
     <img src="<?php echo get_template_directory_uri()?>/img/gallery/0145frag.jpg" alt="" class="w400 m0auto d-block mtb-20">
