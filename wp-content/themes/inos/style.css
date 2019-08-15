@@ -135,6 +135,9 @@
 .mt-10 {
   margin-top: 10px; }
 
+.mt-15 {
+  margin-top: 15px; }
+
 .mtb-10 {
   margin-bottom: 10px !important;
   margin-top: 10px !important; }
@@ -244,6 +247,10 @@
 .w50h50 {
   width: 50px;
   height: 50px; }
+
+.w50h60 {
+  width: 50px;
+  height: 60px; }
 
 .w50h40 {
   width: 50px;
