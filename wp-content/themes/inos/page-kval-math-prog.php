@@ -18,14 +18,17 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/+inos+.png" alt="" class="w400 m0auto d-block mtb-20">
 
 
-    <h4 class="h4-page-header mt-50 tsd">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ ПРЕПОДАВАНИЯ</h4>
-    <h4 class="h4-page-header mt-10  tsd">МАТЕМАТИКИ</h4>
-    <h4 class="h4-page-header fs20 mt-10  tsd">в контексте Федерального государственного образовательного стандарта</h4>
 
 
-    <p class="w600 m0auto fs25 fb tac mt-50 txt-vi tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30">
-        Цель реализации программы</p>
+    <h4 class="h3-page-header mt-50">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ</h4>
+    <h4 class="h3-page-header">ПРЕПОДАВАНИЯ</h4>
+    <h4 class="h3-page-header">МАТЕМАТИКИ</h4>
+    <h4 class="h3-page-header fs30">в контексте Федерального государственного</h4>
+    <h4 class="h3-page-header fs30">образовательного стандарта</h4>
+
+    <h4 class="h3-page-header fs30 mt-50">1. ЦЕЛЬ РЕАЛИЗАЦИИ ПРОГРАММЫ</h4>
+
+
     <p class="w800 m0auto fs18 fi tac mt-20 txt-vi2 tsd">
         Цель:
         <img src="<?php echo get_template_directory_uri()?>/img/icons/red-key.png" alt="" class="w30h30">
@@ -33,10 +36,8 @@ get_header();
         компетенций слушателей в процессе изучения актуальных
         проблем преподавания математики, повышение
         профессионального уровня в рамках имеющейся квалификации.</p>
-    <p class="w600 m0auto fs25 fb tac mt-50 txt-vi tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30">
-        Задачи программы:
-    </p>
+
+    <h4 class="h3-page-header fs30 mt-50">Задачи программы:</h4>
 
     <p class="w800 m0auto fs18 fi tal mt-20 txt-vi2 tsd txt-vi2 tsd">
         <span class="fs35 fb fin">&#10037;</span>

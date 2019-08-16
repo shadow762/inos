@@ -12,8 +12,13 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/globus.png" alt="" class="w150 m0auto d-block mt-50">
 
 
-    <h4 class="h4-page-header mt-50 tsd">ПОВЫШЕНИЯ КВАЛИФИКАЦИИ</h4>
-    <h4 class="h4-page-header mt-10  tsd">УЧИТЕЛЕЙ МАТЕМАТИКИ</h4>
+    <h4 class="h4-page-header fb mt-50 tsd">СОДЕРЖАНИЕ ПРОГРАММЫ</h4>
+    <h4 class="h3-page-header mt-15">ПОВЫШЕНИЯ КВАЛИФИКАЦИИ</h4>
+    <h4 class="h4-page-header fb mt-15  tsd">УЧИТЕЛЕЙ МАТЕМАТИКИ <sup>*</sup></h4>
+   
+    <p class="w600 m0auto fs18 tac mt-50 txt-vi tsd">УЧЕБНОЕ ПЛАНИРОВАНИЕ ЛЕКЦИОННО-СЕМИНАРСКИХ</p>
+    <p class="w600 m0auto fs18 tac txt-vi tsd">И ПРАКТИЧЕСКИХ ЗАНЯТИЙ.</p>
+
 
 
 
@@ -30,109 +35,109 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/math.png" alt="" class="w800 m0auto d-block mtb-20">
 
 
-    <p class="w600 m0auto fs25 fb fi mt-20 fb tac tsd txt-vi2">
+    <p class="w600 m0auto fs35 fb fi mt-20 fb tac tsd txt-vi2">
         <img src="<?php echo get_template_directory_uri()?>/img/butor5.png" alt=""class="w100h100">
         август – сентябрь
     </p>
 
-    <p class="w800 m0auto mt-20 fb fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Концепция и методические особенности обучения математике
-        в школе по новым учебно-методическим комплектам учебников.
-    </p>
-
-    <p class="w800 m0auto mt-20 fb fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Важнейший аспект обновления содержания образования,
-        модернизации программ математического образования − установление
-        возможных взаимосвязей предметных и метапредметных результатов
-        обучения, зафиксированных в Федеральных государственных
-        образовательных стандартах, определение их оптимального
-        соотношения и реализация этих взаимосвязей, усиление
-        деятельностной составляющей.
+    <p class="w800 m0auto mt-20  fs18 txt-vi2 tsd">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        <span class="fb fs20 fi txt-bo">Концепция и методические особенности обучения математике</span>
+        в школе по <span class="fb fs20 fi txt-bo">новым</span> учебно-методическим комплектам учебников.
     </p>
 
     <p class="w800 m0auto mt-20  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        <span class="fb fs20 fi txt-bo">Важнейший аспект обновления содержания образования,
+            модернизации программ математического образования</span> − установление
+        возможных <span class="fb fs20 fi txt-bo">взаимосвязей предметных и метапредметных результатов
+            обучения</span>, зафиксированных в <span class="fb fs20 fi txt-bo">Федеральных государственных
+            образовательных стандартах</span>, определение их <span class="fb fs20 fi txt-bo">оптимального
+            соотношения</span> и реализация этих взаимосвязей, <span class="fb fs20 fi txt-bo">усиление
+            деятельностной составляющей.</span>
+    </p>
+
+    <p class="w800 m0auto mt-20  fs18 txt-vi2 tsd">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
         Обновление математического образования в условиях современной
-        информационно-образовательной среды.
+        <span class="fb fs20 fi txt-bo">информационно-образовательной среды.</span>
     </p>
 
     <p class="w800 m0auto mt-20  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
         Стохастическая линия обучения в основной школе в новых макетах
         учебно-методических комплектов по математике, включенных в
-        <b>Федеральный перечень учебников.</b>
+        <span class="fb fs20 fi txt-bo">Федеральный перечень учебников.</span>
     </p>
 
     <p class="w800 m0auto mt-20  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
         Проблемы интеграции основ теории вероятности, комбинаторики и
         статистики в рамках традиционных курсов алгебры.
     </p>
     <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Методический анализ подходов в различных действующих
             учебно-методических комплектах учебников по математике,
             включенных в Федеральный перечень.
         </li>
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
-            <b>Пути реализации положений Примерной Общей
-                Образовательной Программы (ПООП)</b> обучения математике в
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
+            <span class="fb fs20 fi txt-bo">Пути реализации положений Примерной Общей
+                Образовательной Программы (ПООП)</span> обучения математике в
             основной школе
         </li>
     </ul>
 
     <p class="w800 m0auto mt-20  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Решения задач с параметрами в заданиях <b>ГИА основной школы</b> и
-        заданиях <b>Единого государственного экзамена</b> по математике, базовый и
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        Решения задач с параметрами в заданиях <span class="fb fs20 fi txt-bo">ГИА основной школы</span> и
+        заданиях <span class="fb fs20 fi txt-bo">Единого государственного экзамена</span> по математике, базовый и
         профильный уровни.
     </p>
     <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Метод «плавающей параболы» и метод областей.
         </li>
     </ul>
 
 
 
-    <p class="w600 m0auto fs25 fb fi mt-20 fb tac tsd txt-vi2">
+    <p class="w600 m0auto fs35 fb fi mt-20 fb tac tsd txt-vi2">
         <img src="<?php echo get_template_directory_uri()?>/img/clock.png" alt=""class="w100h100">
         октябрь – февраль
     </p>
 
 
     <p class="w800 m0auto mt-20  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
         Стохастическая линия обучения в старшей школе в новых макетах
         учебно-методических комплектов по математике, включенных в
-        <b>Федеральный перечень учебников.</b>
+        <span class="fb fs20 fi txt-bo">Федеральный перечень учебников.</span>
     </p>
 
     <p class="w800 m0auto mt-20  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
         Правило умножения, перестановки, факториал. Сочетания и число
         сочетаний. Треугольник Паскаля и бином Ньютона.
     </p>
     <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Опыты с большим числом равновозможных элементарных
             событий.
         </li>
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Вычисление вероятностей в опытах с применением элементов
             комбинаторики.
         </li>
     </ul>
 
     <p class="w800 m0auto mt-20  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
         Испытания Бернулли. Успех и неудача.
     </p>
     <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
@@ -146,162 +151,165 @@ get_header();
             Дискретная случайная величина и распределение вероятностей.
         </li>
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Равномерное дискретное распределение.
         </li>
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Геометрическое распределение вероятностей.
         </li>
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Распределение Бернулли.
         </li>
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Биномиальное распределение.
         </li>
     </ul>
 
     <p class="w800 m0auto mt-20  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
         Независимые случайные величины. Сложение, умножение
         случайных величин.
     </p>
     <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Математическое ожидание и его свойства.
         </li>
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Дисперсия и стандартное отклонение случайной величины;
             свойства дисперсии.
         </li>
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Дисперсия числа успехов в серии испытаний Бернулли.
         </li>
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Понятие о законе больших чисел. Теорема Бернулли.
         </li>
     </ul>
 
     <p class="w800 m0auto mt-20  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Особенности подготовки к <b>Единому государственному экзамену</b>
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        Особенности подготовки к <span class="fb fs20 fi txt-bo">Единому государственному экзамену</span>
         профильного уровня по математике.
     </p>
     <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
-            Разбор заданий с параметрами и заданий олимпиадного типа
-            в различных диагностических работах.
+            <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+            Разбор заданий с параметрами и заданий <span class="fb fs20 fi txt-bo">олимпиадного типа
+                в различных диагностических работах.</span>
         </li>
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
             Оценка диагностических и пробных материалов к
-            проведению Единого государственного экзамена.
+            проведению <span class="fb fs20 fi txt-bo">Единого государственного экзамена.</span>
         </li>
     </ul>
 
 
 
-    <p class="w600 m0auto fs25 fb fi mt-20 fb tac tsd txt-vi2">
+    <p class="w600 m0auto fs35 fb fi mt-20 fb tac tsd txt-vi2">
         <img src="<?php echo get_template_directory_uri()?>/img/docum.png" alt=""class="w100h100">
         март-май
     </p>
 
 
     <p class="w800 m0auto mt-20 fb  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Обсуждение актуальных материалов по математическому
-        образованию:
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        <span class="fb fs20 fi txt-bo">Обсуждение актуальных материалов по математическому
+            образованию:</span>
     </p>
     <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
-            актуальной версии Федеральных государственных
-            образовательных стандартов;
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
+            актуальной версии <span class="fb fs20 fi txt-bo">Федеральных государственных
+                образовательных стандартов;</span>
         </li>
         <li class="fb">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
-            Примерной Общей Образовательной Программы (ПООП);
-            обязательного минимума обучения математике в школе.
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
+            <span class="fb fs20 fi txt-bo">Примерной Общей Образовательной Программы (ПООП);
+                обязательного минимума обучения математике в школе.</span>
         </li>
     </ul>
 
     <p class="w800 m0auto mt-20   fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Особенности изучения <b>тригонометрических функций</b> по новым
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        Особенности изучения <span class="fb fs20 fi txt-bo">тригонометрических функций</span> по <span class="fb fs20 fi txt-bo">новым</span>
         учебно-методическим комплектам учебников.
     </p>
 
-    <p class="w800 m0auto mt-20 fb  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Базовые статистические характеристики и числовые
-        показатели результатов Единого государственного экзамена по
+    <p class="w800 m0auto mt-20   fs18 txt-vi2 tsd">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        <span class="fb fs20 fi txt-bo">Базовые статистические характеристики и числовые
+            показатели результатов Единого государственного экзамена</span> по
         математике (профильный уровень).
     </p>
 
     <p class="w800 m0auto mt-20   fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        <b>Методика введения и изучения функций</b> в школе по новым
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        <span class="fb fs20 fi txt-bo">Методика введения и изучения функций</span> в школе по <span class="fb fs20 fi txt-bo">новым</span>
         учебно-методическим комплектам учебников.
     </p>
 
     <p class="w800 m0auto mt-20   fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Особенности разработки <b>критериев оценивания выполнения
-            заданий</b> с развернутым ответом на <b>Едином государственном экзамене</b> по
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        Особенности разработки <span class="fb fs20 fi txt-bo">критериев оценивания выполнения
+            заданий</span> с развернутым ответом на <span class="fb fs20 fi txt-bo">Едином государственном экзамене</span> по
         математике, профильный уровень.
     </p>
 
-    <p class="w800 m0auto mt-20 fb  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Среднее арифметическое при обучении основам статистики,
-        теории вероятностей и в заданиях с развернутым ответом на Едином
+    <p class="w800 m0auto mt-20   fs18 txt-vi2 tsd">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        <span class="fb fs20 fi txt-bo">Среднее арифметическое при обучении основам статистики,
+            теории вероятностей и в заданиях с развернутым ответом</span> на Едином
         государственном экзамене по математике.
     </p>
 
     <p class="w800 m0auto mt-20   fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Формирование первоначальных представлений о <b>случайных
-            величинах</b> в курсе алгебры основной школы.
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        Формирование первоначальных представлений о <span class="fb fs20 fi txt-bo">случайных
+            величинах</span> в курсе алгебры основной школы.
     </p>
     <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
         <li class="">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
             Методологический анализ подходов в различных
             действующих учебно-методических комплектах.
         </li>
     </ul>
 
-    <p class="w800 m0auto mt-20 fb  fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Основные тенденции изучения числовых характеристик (меры
-        центральной тенденции и мера разброса) случайных величин в курсе алгебры
+    <p class="w800 m0auto mt-20   fs18 txt-vi2 tsd">
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        <span class="fb fs20 fi txt-bo">Основные тенденции изучения числовых характеристик</span> (меры
+        центральной тенденции и мера разброса) <span class="fb fs20 fi txt-bo">случайных величин</span> в курсе алгебры
         и начал математического анализа старшей школы.
     </p>
 
     <p class="w800 m0auto mt-20   fs18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30 mr-10">
-        Особенности подготовки к <b>Единому государственному экзамену
-            профильного уровня.</b>
+       <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w50h60">
+        Особенности подготовки к <span class="fb fs20 fi txt-bo">Единому государственному экзамену
+            профильного уровня.</span>
     </p>
     <ul class="w800 m0auto mt-10 fs18 ul-2 txt-vi2 tsd">
-        <li class="fb">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
-            Мониторинг текстовых задач и задач с целыми числами в
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
+            <span class="fb fs20 fi txt-bo">Мониторинг текстовых задач и задач с целыми числами</span> в
             различных диагностических работах.
         </li>
-        <li class="fb">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/star.png" alt="" class="w20h20 mr-10">
-            Оценка диагностических и пробных материалов к
-            проведению ЕГЭ.
+        <li class="">
+            <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20 mr-10">
+            <span class="fb fs20 fi txt-bo">Оценка диагностических и пробных материалов</span> к
+            проведению <span class="fb fs20 fi txt-bo">ЕГЭ</span>.
         </li>
     </ul>
+
+    <p class="800 tar fs10 f-arial mt-20 b-top"><sup>*</sup> Текст, отмеченный маркерами <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w30h30"> относится к содержанию программы повышения квалификации</p>
+    <p class="800 tar fs10 f-arial"><sup>*</sup> Текст, отмеченный маркерами <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20"> относится к учебному планированию лекционно-семинарских и практических занятий</p>
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">

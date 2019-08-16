@@ -16,10 +16,11 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/img-btn-7.png" alt="" class="w150 m0auto d-block mtb-20">
 
-    <h4 class="h4-page-header mt-50 tsd">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ РАБОТЫ</h4>
-    <h4 class="h4-page-header mt-10  tsd">РУКОВОДИТЕЛЯ</h4>
-    <h4 class="h4-page-header mt-10  tsd">ОБЩЕОБРАЗОВАТЕЛЬНОЙ ШКОЛЫ</h4>
-    <h4 class="h4-page-header fs20 mt-10  tsd">в контексте Федерального государственного образовательного стандарта</h4>
+    <h4 class="h3-page-header mt-50">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ</h4>
+    <h4 class="h3-page-header">РАБОТЫ РУКОВОДИТЕЛЯ</h4>
+    <h4 class="h3-page-header">ОБЩЕОБРАЗОВАТЕЛЬНОЙ ШКОЛЫ</h4>
+    <h4 class="h3-page-header fs30">в контексте Федерального государственного</h4>
+    <h4 class="h3-page-header fs30">образовательного стандарта</h4>
 
 
 
