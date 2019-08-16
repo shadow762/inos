@@ -18,25 +18,22 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/+inos+.png" alt="" class="w400 m0auto d-block mtb-20">
 
 
-    <h4 class="h3-page-header mt-50">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ ПРЕПОДАВАНИЯ</h4>
+    <h4 class="h3-page-header mt-50">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ</h4>
+    <h4 class="h3-page-header">ПРЕПОДАВАНИЯ</h4>
     <h4 class="h3-page-header">РУССКОГО ЯЗЫКА И ЛИТЕРАТУРЫ</h4>
-    <h4 class="h3-page-header fs30">в контексте Федерального государственного образовательного стандарта</h4>
+    <h4 class="h3-page-header fs30">в контексте Федерального государственного</h4>
+    <h4 class="h3-page-header fs30">образовательного стандарта</h4>
 
+    <h4 class="h3-page-header fs30 mt-50">1. ЦЕЛЬ РЕАЛИЗАЦИИ ПРОГРАММЫ</h4>
 
-    <p class="w600 m0auto fs25 fb tac mt-50 txt-vi tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30">
-        Цель реализации программы</p>
     <p class="w800 m0auto fs18 fi tac mt-20 txt-vi2 tsd">
         Цель:
         <img src="<?php echo get_template_directory_uri()?>/img/icons/red-key.png" alt="" class="w30h30">
         развитие профессиональной, информационно-познавательной, коммуникативной и социально-личностной компетенций
         слушателей в процессе изучения актуальных проблем преподавания русского языка и литературы, повышение
         профессионального уровня в рамках имеющейся квалификации.</p>
-    <p class="w600 m0auto fs25 fb tac mt-50 txt-vi tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/flag.png" alt="" class="w30h30">
-        Задачи программы:
-    </p>
 
+    <h4 class="h3-page-header fs30 mt-50">Задачи программы:</h4>
 
   
     <p class="w800 m0auto fs18 fi tal mt-20 txt-vi2 tsd">

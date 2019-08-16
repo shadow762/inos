@@ -12,13 +12,13 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/globus.png" alt="" class="w150 m0auto d-block mt-50">
 
 
-    <h4 class="h4-page-header mt-50 tsd">СОДЕРЖАНИЕ ПРОГРАММЫ</h4>
-    <h4 class="h4-page-header mt-15 tsd">ПОВЫШЕНИЯ КВАЛИФИКАЦИИ</h4>
-    <h4 class="h4-page-header mt-15  tsd">УЧИТЕЛЕЙ</h4>
-    <h4 class="h4-page-header mt-10  tsd">РУССКОГО ЯЗЫКА И ЛИТЕРАТУРЫ <sup>*</sup></h4>
+    <h4 class="h4-page-header fb mt-50 tsd">СОДЕРЖАНИЕ ПРОГРАММЫ</h4>
+    <h4 class="h3-page-header mt-15">ПОВЫШЕНИЯ КВАЛИФИКАЦИИ</h4>
+    <h4 class="h4-page-header fb mt-15  tsd">УЧИТЕЛЕЙ</h4>
+    <h4 class="h4-page-header  fb mt-10  tsd">РУССКОГО ЯЗЫКА И ЛИТЕРАТУРЫ <sup>*</sup></h4>
 
     <p class="w600 m0auto fs18 tac mt-50 txt-vi tsd">УЧЕБНОЕ ПЛАНИРОВАНИЕ ЛЕКЦИОННО-СЕМИНАРСКИХ</p>
-    <p class="w600 m0auto fs18 tac txt-vi2 tsd">И ПРАКТИЧЕСКИХ ЗАНЯТИЙ.</p>
+    <p class="w600 m0auto fs18 tac txt-vi tsd">И ПРАКТИЧЕСКИХ ЗАНЯТИЙ.</p>
 
 
 
@@ -418,8 +418,8 @@ get_header();
     </ul>
 
 
-    <p class="800 tar fs15"><sup>*</sup>Текст,отмеченный маркерами <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w30h30"> относится к содержанию программы повышения квалификации</p>
-    <p class="800 tar fs15"><sup>*</sup>Текст,отмеченный маркерами <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20"> относится к учебному планированию лекционно-семинарских и практических занятий</p>
+    <p class="800 tar fs15 mt-20 b-top"><sup>*</sup> Текст, отмеченный маркерами <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w30h30"> относится к содержанию программы повышения квалификации</p>
+    <p class="800 tar fs15"><sup>*</sup> Текст, отмеченный маркерами <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20"> относится к учебному планированию лекционно-семинарских и практических занятий</p>
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 

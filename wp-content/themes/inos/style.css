@@ -352,6 +352,9 @@
 .bb2s-blue {
   border-bottom: 2px solid blue; }
 
+.b-top {
+  border-top: 1px solid black; }
+
 .wd {
   font-family: Wingdings; }
 
