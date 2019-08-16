@@ -7,7 +7,7 @@ get_header();
 ?>
     <h4 class="h4-page-header mt-20 tsd">ОБРАЗОВАНИЕ</h4>
     <h2 class="h2-page-header mtb-10 tsd"><span>&#10037;</span></h2>
-    <h2 class="h2-page-header tsd">ПРОГРАММА</h2>
+    <h2 class="h3-page-header fs40">ПРОГРАММА</h2>
     <h2 class="h2-page-header tsd">ПОВЫШЕНИЯ КВАЛИФИКАЦИИ</h2>
     <h2 class="h2-page-header tsd">ПЕДАГОГИЧЕСКИХ РАБОТНИКОВ</h2>
 
@@ -18,9 +18,9 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/+inos+.png" alt="" class="w400 m0auto d-block mtb-20">
 
 
-    <h4 class="h4-page-header mt-50 tsd">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ ПРЕПОДАВАНИЯ</h4>
-    <h4 class="h4-page-header mt-10  tsd">РУССКОГО ЯЗЫКА И ЛИТЕРАТУРЫ</h4>
-    <h4 class="h4-page-header fs20 mt-10  tsd">в контексте Федерального государственного образовательного стандарта</h4>
+    <h4 class="h3-page-header mt-50">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ ПРЕПОДАВАНИЯ</h4>
+    <h4 class="h3-page-header">РУССКОГО ЯЗЫКА И ЛИТЕРАТУРЫ</h4>
+    <h4 class="h3-page-header fs30">в контексте Федерального государственного образовательного стандарта</h4>
 
 
     <p class="w600 m0auto fs25 fb tac mt-50 txt-vi tsd">

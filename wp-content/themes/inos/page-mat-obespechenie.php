@@ -41,8 +41,8 @@ get_header();
 
 
 
-    <h4 class="h4-page-header fb mt-50 tsd">
-
+    <h4 class="h4-page-header fb mt-50 tsd txt-bo">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/mat-tech.png" alt="" class="w30h30 mr-10">
         ОБОРУДОВАНИЕ УЧЕБНЫХ АУДИТОРИЙ ИНСТИТУТА:</h4>
 
     <p class="w600 m0auto fs18 mt-20 txt-vi2">
@@ -66,35 +66,39 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <table class="w600 m0auto bkg-we" style="border-spacing:0;border: 2px solid black">
+    <table class="w600 m0auto bkg-we mt-80" style="border-spacing:0;border: 2px solid black;position: relative">
     <tr>
-        <th class="tw-25p b-1p fi tsd">Наименование специализированных аудиторий,
+        <th class="tw-25p b-1p fi tsd">
+            <img src="<?php echo get_template_directory_uri()?>/img/svitok1.png" alt="" style="width: 620px;position: absolute;top: -84px;left: -12px;">
+            Наименование специализированных аудиторий,
             кабинетов Института
         </th>
         <th class="tw-25p b-1p fi tsd">Вид занятий</th>
         <th class="b-1p fi tsd">Наименование оборудования</th>
     </tr>
     <tr>
-        <td class="tw-25p b-1p tac fi fb txt-vi2">Учебные
+        <td class="tw-25p b-1p tac fi  txt-vi2">Учебные
             аудитории
         </td>
-        <td class="tw-25p b-1p tac fi fb txt-vi2">
+        <td class="tw-25p b-1p tac fi  txt-vi2">
             Лекции,
             семинары, консультации
 
         </td>
-        <td class="b-1p tac fi fb txt-vi2">Компьютеры, проектор, экран,
+        <td class="b-1p tac fi  txt-vi2">Компьютеры, проектор, экран,
             оверхэд, аудиторная доска, демонстрационные планшеты.
         </td>
     </tr>
         <tr>
-            <td class="tw-25p b-1p tac fi fb txt-vi2">Консультационные кабинеты
+            <td class="tw-25p b-1p tac fi  txt-vi2">Консультационные кабинеты
             </td>
-            <td class="tw-25p b-1p tac fi fb txt-vi2">
+            <td class="tw-25p b-1p tac fi  txt-vi2">
                 Практические занятия, консультации
 
             </td>
-            <td class="b-1p tac fi fb txt-vi2">Компьютеры и планшеты
+            <td class="b-1p tac fi  txt-vi2">
+                <img src="<?php echo get_template_directory_uri()?>/img/svitok1.png" alt="" style="width: 620px;position: absolute;bottom: -80px;left: -12px;">
+                Компьютеры и планшеты
                 (с доступом к информационно-телекоммуникационным сетям, образовательным Интернет-ресурсам и полнотекстовой электронной библиотеке), презентационные материалы
                 (на цифровых носителях).
 
@@ -102,6 +106,7 @@ get_header();
         </tr>
 
     </table>
+    <p style="height: 100px"></p>
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
@@ -150,7 +155,9 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/gallery/0112-1.jpg" alt="" class="w400 m0auto d-block mtb-20">
 
 
-    <h4 class="h4-page-header fb mt-50 tsd">СРЕДСТВА ОБУЧЕНИЯ:</h4>
+    <h4 class="h4-page-header fb mt-50 tsd txt-bo">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/pager.png" alt="" class="w50h30 mr-10">
+        СРЕДСТВА ОБУЧЕНИЯ:</h4>
     <img src="<?php echo get_template_directory_uri()?>/img/img-btn-19.png" alt="" class="w250 m0auto d-block mtb-20">
 
     <ul class="ul-2 fs18 fb w600 m0auto txt-vi2 tsd">

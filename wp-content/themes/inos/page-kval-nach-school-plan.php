@@ -135,4 +135,6 @@ get_header();
         </tr>
     </table>
 
+    <p style="height: 100px"></p>
+
 <?php get_footer(); ?>
