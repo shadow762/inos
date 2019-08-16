@@ -32,7 +32,7 @@ get_header();
 
     </ul>
     <p class="w800 m0auto fs18 fb mt-10 tal txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://univertv.ru/" target="_blank">http://univertv.ru/</a>
     </p>
 
@@ -51,7 +51,7 @@ get_header();
 
     </ul>
     <p class="w800 m0auto fs18 fb mt-10 tal txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://videolectures.net/" target="_blank">http://videolectures.net/</a>
     </p>
 
@@ -67,7 +67,7 @@ get_header();
         <li class="fb"><img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w20h20 mr-10">Доступ к библиотеке – свободный и бесплатный. </li>
     </ul>
     <p class="w800 m0auto fs18 fb mt-10 tal txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/computer.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/nout-blue.svg" class="w30h30">
         Адрес ресурса: <a href="http://www.lektorium.tv/" target="_blank">http://www.lektorium.tv/</a>
     </p>
 

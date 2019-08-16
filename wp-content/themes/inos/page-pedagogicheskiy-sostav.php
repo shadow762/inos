@@ -119,7 +119,9 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Профессор (2002)</span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
                     <li>Действительный член Международной Академии интеграции науки и бизнеса.</li>
-                    <li>Руководитель экспериментальной площадки.Ветеран труда.</li>
+                    <li>Руководитель экспериментальной площадки.</li>
+                    <li>Ветеран труда.</li>
+                    <li>Отличник народного просвещения.</li>
                     </ul></span></td>
             </tr>
             <tr style="background-color: #FDE9D9"><td style="border: 2px solid black;height: 50px;text-align: center;" colspan="13"><span class="fs18 fb tsd">УТЕШИНСКИЙ ДМИТРИЙ ДМИТРИЕВИЧ</span></td></tr>
@@ -191,7 +193,7 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Профессор(2002)</span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
                     <li>Заслуженный учитель РФ.</li>
-                    <li>Автор более 170 учебно-методических работ, в числекоторых учебники и программы по начальной школе с грифом Министерства Образования и Науки РФ.</li>
+                    <li>Автор более 170 учебно-методических работ, в числе которых учебники и программы по начальной школе с грифом Министерства Образования и Науки РФ.</li>
 
                  </ul></span></td>
             </tr>
@@ -253,7 +255,7 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Кандидат педагогичес ких наук (13.00.02). (1999)</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Старший научный сотрудник (доцент) (2003)</span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
-                    <li>Автор более 250 научных и научно-методических работ</li>
+
                             <li>Автор более 250 научных и научно-методических работ</li>
                             <li>Один из разработчиков фундаментального ядра содержания ОО, Федеральных Государственных Образовательных Стандартов 2002,2004,2010,2012, примерных и авторских программ; концепций иноязычного образования, автор серии федеральных УМК «Английский с удовольствием»/ ―Enjoy English‖.</li>
                             <li>Член редколлегии международного журнала Language Awareness 1996 - 2000.</li>
@@ -278,8 +280,8 @@ get_header();
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Кандидат педагогичес ких наук (13.00.02). (1999)</span></td>
                 <td style="height: 290px;border: 1px solid black;text-align: center"><span class="tsd">Старший научный сотрудник (доцент) (2003)</span></td>
                 <td style="height: 290px;border: 1px solid black"><span class="tsd"><ul class="pl5">
-                    <li>Член-корреспондент Международной академии наук педагогическогообразования.</li>
-                            <li>Автор более 250 научных и научно-методических работ</li>
+                    <li>Член-корреспондент Международной академии наук педагогического образования.</li>
+
                             <li>Отличник народного просвещения.</li>
                             <li>Автор более 150 научных и учебно-методических работ, в числе которых учебники по русскому языку с грифом Министерства Образования и Науки РФ.</li>
                             <li>Член Федеральной предметной комиссии по русскому языку (ЕГЭ).</li>

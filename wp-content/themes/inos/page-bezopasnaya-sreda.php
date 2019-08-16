@@ -36,7 +36,7 @@ get_header();
 
 
     <p class="w800 m0auto fs18 mt-50 fb tac tsd txt-vi">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/pen.png" alt="" class="w30h30 mr-10">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w30h30 mr-10">
         ЗАКОНОДАТЕЛЬНЫЕ И НОРМАТИВНЫЕ ПРАВОВЫЕ АКТЫ,</p>
     <p class="w800 m0auto fs18 fb tac tsd txt-vi">РЕГЛАМЕНТИРУЮЩИЕ ДЕЯТЕЛЬНОСТЬ ИНСТИТУТА</p>
     <p class="w600 m0auto fs18 fb tac mt-20 tsd txt-vi">ПО ОХРАНЕ ТРУДА И БЕЗОПАСНОСТИ:</p>
@@ -44,25 +44,25 @@ get_header();
 
     <ul class="w800 m0auto fs18 ul-2 txt-vi2 tsd mt-10">
         <li class="fb mt-10">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+            <span class="mr-10 fs25">&#128394;</span>
             Постановления и распоряжения Правительства Российской Федерации.</li>
         <li class="fb mt-10">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+            <span class="mr-10 fs25">&#128394;</span>
             Трудовой Кодекс Российской Федерации.</li>
         <li class="fb mt-10">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+            <span class="mr-10 fs25">&#128394;</span>
             Федеральный закон Российской Федерации Л2181 ФЗ.</li>
         <li class="fb mt-10">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+            <span class="mr-10 fs25">&#128394;</span>
             Федеральный закон Российской Федерации от 29 декабря 2012 г. N 273-ФЗ "Об образовании в Российской Федерации".</li>
         <li class="fb mt-10">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+            <span class="mr-10 fs25">&#128394;</span>
                     Нормативные правовые акты Министерства просвещения Российской Федерации.</li>
         <li class="fb mt-10">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+            <span class="mr-10 fs25">&#128394;</span>
             Нормативные правовые акты Департамента образования и науки города Москвы.</li>
         <li class="fb mt-10">
-            <img src="<?php echo get_template_directory_uri()?>/img/icons/zvezda-romb.png" alt="" class="w20h20 mr-10">
+            <span class="mr-10 fs25">&#128394;</span>
             Локальные акты НОУ ДО «ИНОС»:</li>
     </ul>
 
