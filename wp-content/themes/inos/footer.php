@@ -56,13 +56,13 @@
         <div class="needle-block"></div>
 
         <div class="footer-split">
-            <p>Обновление сайта – октябрь 2019</p>
+            <p class="fi fb">Обновление сайта – 1 сентября 2019</p>
         </div>
 
         <div class="footer-copyright">
-            <p>© Институт новых образовательных систем.</p>
+            <p>© ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ.</p>
             <p>Все права защищены. Использование материалов возможно только с разрешения владельцев сайта.</p>
-            <p>Обратная связь:<a href="mailto:inosru@mail.ru"></a>inosru@mail.ru</p>
+            <p>Обратная связь:<a href="mailto:inosru@mail.ru" class="txt-blue">inosru@mail.ru</a></p>
         </div>
     </div>
 </div>

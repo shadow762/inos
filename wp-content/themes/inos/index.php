@@ -25,9 +25,9 @@ get_header();
     <div class="center-block">
 
         <div class="center-block-pic-1">
-
         </div>
-        <p class="center-block-text-1">ИНCТИТУТ</p>
+
+        <p class="center-block-text-1"><br>ИНCТИТУТ</p>
     </div>
     <div class="center-block">
         <div class="center-block-pic-2">
@@ -39,7 +39,7 @@ get_header();
         <div class="center-block-pic-3">
 
         </div>
-        <p>СИСТЕМ</p>
+        <p class="center-block-text-2">СИСТЕМ</p>
         <ul class="center-block-text-3">
             <li>ИНОС</li>
             <li>Работает в сфере образования с 1998 года</li>
@@ -71,39 +71,74 @@ get_header();
 
 
 
-    <div class="center-text-block clearfix">
-        <div class="lamp"></div>
-        <p>Работает в сфере образования с <span>1998</span> года.</p>
-    </div>
-    <div class="center-text-block clearfix">
-        <div class="lamp"></div>
-        <p>Обладает эффективной системой повышения квалификации научно-педагогических кадров. </p>
-    </div>
-    <div class="center-text-block clearfix">
-        <div class="lamp"></div>
-        <p><span fs20 fb>ЦЕЛЬ:</span> развитие профессиональной, информационно-познавательной,
-            коммуникативной и социально-личностной компетенций слушателей
-            в процессе изучения актуальных проблем преподавания, повышение
-            профессионального уровня в рамках имеющейся квалификации.</p>
-    </div>
-    <div class="center-text-block clearfix">
-        <div class="lamp"></div>
-        <p>Осуществляет свою деятельность в соответствии с лицензией на право
-            образовательной деятельности, выданной Департаментом образования
-            города Москвы.</p>
-    </div>
-    <div class="center-text-block clearfix">
-        <div class="lamp"></div>
-        <p>Лекционно-семинарские занятия, проводятся на базе Института авторами
-            УМК и Федеральных нормативных документов (ФГОС, ПООП, ГИА, ОГЭ, ЕГЭ).</p>
-    </div>
-    <div class="center-text-block clearfix">
-        <div class="lamp"></div>
-        <p>Слушателям, успешно освоившим дополнительную профессиональную
-            программу и прошедшим итоговую аттестацию, выдаются Удостоверения
-            о повышении квалификации.</p>
-    </div>
+    <p class="w900 m0auto fb fs 18 txt-vi2 tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+        <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
 
+        РАБОТАЕТ В СФЕРЕ ОБРАЗОВАНИЯ С <span class="txt-vi">1998</span> ГОДА.
+    </p>
+
+    <p class="w900 m0auto fb fs 18 txt-vi2 tsd mt-20">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+        <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
+        ОБЛАДАЕТ ЭФФЕКТИВНОЙ СИСТЕМОЙ ПОВЫШЕНИЯ КВАЛИФИКАЦИИ
+    </p>
+    <p class="w800 m0auto fb fs 18 txt-vi2 tsd">
+        НАУЧНО-ПЕДАГОГИЧЕСКИХ КАДРОВ.
+    </p>
+
+    <p class="w900 m0auto fb fs 18 txt-vi2 tsd mt-20">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+        <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
+        <span class="txt-vi mr-30">ЦЕЛЬ:</span>ОСУЩЕСТВЛЯЕТ СВОЮ ДЕЯТЕЛЬНОСТЬ В СООТВЕТСТВИИ С ЛИЦЕНЗИЕЙ
+    </p>
+    <p class="w800 m0auto fb fs 18 txt-vi2 tsd">
+        НА ПРАВО
+        ОБРАЗОВАТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ, ВЫДАННОЙ ДЕПАРТАМЕНТОМ ОБРАЗОВАНИЯ
+        ГОРОДА МОСКВЫ.
+    </p>
+
+    <p class="w900 m0auto fb fs 18 txt-vi2 tsd mt-20">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+        <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
+        <span class="txt-vi mr-30">ЦЕЛЬ:</span>
+        РАЗВИТИЕ ПРОФЕССИОНАЛЬНОЙ,
+        ИНФОРМАЦИОННО-ПОЗНАВАТЕЛЬНОЙ,
+    </p>
+    <p class="w800 m0auto fb fs 18 txt-vi2 tsd">
+        КОММУНИКАТИВНОЙ И
+        СОЦИАЛЬНО-ЛИЧНОСТНОЙ КОМПЕТЕНЦИЙ СЛУШАТЕЛЕЙ В
+        ПРОЦЕССЕ ИЗУЧЕНИЯ АКТУАЛЬНЫХ ПРОБЛЕМ ПРЕПОДАВАНИЯ,
+        ПОВЫШЕНИЕ ПРОФЕССИОНАЛЬНОГО УРОВНЯ В РАМКАХ
+        ИМЕЮЩЕЙСЯ КВАЛИФИКАЦИКВАЛИФИКАЦИИ.
+    </p>
+
+    <p class="w900 m0auto fb fs 18 txt-vi2 tsd mt-20">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+        <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
+        ЛЕКЦИОННО-СЕМИНАРСКИЕ ЗАНЯТИЯ, ПРОВОДЯТСЯ НА БАЗЕ ИНСТИТУТА АВТОРАМИ
+    </p>
+    <p class="w800 m0auto fb fs 18 txt-vi2 tsd">
+        УМК И ФЕДЕРАЛЬНЫХ НОРМАТИВНЫХ ДОКУМЕНТОВ (ФГОС, ПООП, ГИА, ОГЭ, ЕГЭ).
+    </p>
+
+
+    <p class="w900 m0auto fb fs 18 txt-vi2 tsd mt-20">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+        <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
+        СЛУШАТЕЛЯМ, УСПЕШНО ОСВОИВШИМ ДОПОЛНИТЕЛЬНУЮ ПРОФЕССИОНАЛЬНУЮ
+
+    </p>
+    <p class="w800 m0auto fb fs 18 txt-vi2 tsd">
+        ПРОГРАММУ И ПРОШЕДШИМ ИТОГОВУЮ АТТЕСТАЦИЮ, ВЫДАЮТСЯ УДОСТОВЕРЕНИЯ
+        О ПОВЫШЕНИИ КВАЛИФИКАЦИИ.
+    </p>
 
 
 <?php

@@ -13,7 +13,7 @@ get_header();
     <h4 class="h4-page-header tsd">дополнительного образования</h4>
 
 
-    <img src="<?php  echo get_template_directory_uri() ?>/img/img-btn-2.png " alt="logo" class=" m0auto d-block mtb-20">
+    <img src="<?php  echo get_template_directory_uri() ?>/img/globus1.png " alt="logo" class="w250 m0auto d-block mtb-20">
 
 
 
