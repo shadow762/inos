@@ -5,8 +5,8 @@
 
 //wp_enqueue_script("jquery");
 
-//wp_register_script('jquery-lightbox', get_template_directory_uri() . '/bootstrap.min.js', array('jquery'));
-//wp_enqueue_script('jquery-lightbox');
+wp_register_script('lightbox', plugins_url('/wp-jquery-lightbox/jquery.lightbox.min.js'. __FILE__ ));
+wp_enqueue_script('lightbox');
 
 
 //register styles
