@@ -15,7 +15,9 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
 
-    <a href="<?php echo get_template_directory_uri()?>/img/gallery/02481.jpg" rel="lightbox" title="my caption"> </a>
+    <a href="<?php echo get_template_directory_uri()?>/img/gallery/02481.jpg" rel="lightbox" title="" >
+        <img src="<?php echo get_template_directory_uri() ?>/img/gallery/02481.jpg" class="w600 m0auto d-block mtb-20">
+    </a>
 
 <!--    <img src="--><?php //echo get_template_directory_uri()?><!--/img/gallery/02481.jpg" alt="" class="w600 m0auto d-block mtb-20">-->
 

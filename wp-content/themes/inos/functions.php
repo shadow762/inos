@@ -5,7 +5,7 @@
 
 //wp_enqueue_script("jquery");
 
-wp_register_script('lightbox', plugins_url('/wp-jquery-lightbox/jquery.lightbox.min.js'. __FILE__ ));
+wp_register_script('lightbox', plugins_url('/wp-jquery-lightbox/jquery.lightbox.min.js'),['jquery']);
 wp_enqueue_script('lightbox');
 
 
