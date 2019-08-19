@@ -14,7 +14,9 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/img-btn-6.png" alt="" class="w250 m0auto d-block mtb-20">
 
-    <p class="w800 m0auto fs18 fb txt-red tac tsd">Законодательные и нормативные правовые акты, регламентирующие деятельность Негосударственное
+    <p class="w800 m0auto fs18 fb txt-red tac tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w50h50 mr-10">
+        Законодательные и нормативные правовые акты, регламентирующие деятельность Негосударственное
         образовательное учреждение дополнительного образования </p>
     <p class="w800 m0auto fs18 fb txt-red tac tsd">«ИНОС - ИНСТИТУТ НОВЫХ ОБРАЗОВАТЕЛЬНЫХ СИСТЕМ»:</p>
 
@@ -375,7 +377,9 @@ get_header();
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block">
 
-    <p class="w600 m0auto fs25 fb tac txt-vi tsd"><span class="mr-10 fs35">&#127985;</span>ЛОКАЛЬНЫЕ АКТЫ, РЕГЛАМЕНТИРУЮЩИЕ ДЕЯТЕЛЬНОСТЬ
+    <p class="w600 m0auto fs25 fb tac txt-vi tsd">
+        <img src="<?php echo get_template_directory_uri()?>/img/chernila.png" alt="" class="w50h50 mr-10">
+        ЛОКАЛЬНЫЕ АКТЫ, РЕГЛАМЕНТИРУЮЩИЕ ДЕЯТЕЛЬНОСТЬ
      </p>
     <p class="w600 m0auto fs25 fb tac txt-vi tsd">НОУ ДО «ИНОС»:
     </p>

@@ -20,82 +20,82 @@ get_header();
 
 
 
-    <h4 class="h3-page-header mt-50">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ</h4>
-    <h4 class="h3-page-header">ПРЕПОДАВАНИЯ</h4>
-    <h4 class="h3-page-header">МАТЕМАТИКИ</h4>
-    <h4 class="h3-page-header fs30">в контексте Федерального государственного</h4>
-    <h4 class="h3-page-header fs30">образовательного стандарта</h4>
+    <h4 class="h3-page-header fs30 mt-50">СОДЕРЖАНИЕ, МЕТОДИКА И ТЕХНОЛОГИИ</h4>
+    <h4 class="h3-page-header fs30">ПРЕПОДАВАНИЯ</h4>
+    <h4 class="h3-page-header fs30">МАТЕМАТИКИ</h4>
+    <h4 class="h3-page-header fs25">в контексте Федерального государственного</h4>
+    <h4 class="h3-page-header fs25">образовательного стандарта</h4>
 
-    <h4 class="h3-page-header fs30 mt-50">1. ЦЕЛЬ РЕАЛИЗАЦИИ ПРОГРАММЫ</h4>
+    <h4 class="h3-page-header fs25 mt-50 s-c">1. цель реализации программы</h4>
 
 
-    <p class="w800 m0auto fs18 fi tac mt-20 txt-vi2 tsd">
-        Цель:
+    <p class="w800 m0auto fs20 fb fi tac mt-20 txt-vi tsd">
+        <span class="fs18 txt-vi2">Цель:</span>
         <img src="<?php echo get_template_directory_uri()?>/img/icons/red-key.png" alt="" class="w30h30">
         развитие профессиональной, информационнопознавательной, коммуникативной и социально-личностной
         компетенций слушателей в процессе изучения актуальных
         проблем преподавания математики, повышение
         профессионального уровня в рамках имеющейся квалификации.</p>
 
-    <h4 class="h3-page-header fs30 mt-50">Задачи программы:</h4>
+    <h4 class="h3-page-header fs25 mt-50">Задачи программы:</h4>
 
     <p class="w800 m0auto fs18 fi tal mt-20 txt-vi2 tsd txt-vi2 tsd">
-        <span class="fs35 fb fin">&#10037;</span>
+       <span class="fs35 fb fin txt-vi mr-10">&#10037;</span>
         <img src="<?php echo get_template_directory_uri()?>/img/colored-pencils.png" class="w100h100">
         обеспечить готовность к преподаванию
         математики в современной общеобразовательной школе на
-        основе Федеральных государственных образовательных
-        стандартов, в том числе с учетом специфики
-        компетентностного, личностно-ориентированного подхода;
+        основе <span class="fs20 txt-vi fb">Федеральных государственных образовательных
+            стандартов</span>, в том числе с учетом специфики
+        <span class="fs20 txt-vi fb">компетентностного, личностно-ориентированного подхода;</span>
     </p>
 
     <p class="w800 m0auto fs18 fi tal mt-20 txt-vi2 tsd txt-vi2 tsd">
-        <span class="fs35 fb fin">&#10037;</span>
+       <span class="fs35 fb fin txt-vi mr-10">&#10037;</span>
         <img src="<?php echo get_template_directory_uri()?>/img/colored-pencils.png" class="w100h100">
-        способствовать развитию профессиональной
+        способствовать <span class="fs20 txt-vi fb">развитию профессиональной
         культуры, когнитивных способностей, критического
-        мышления, функциональной грамотности;
+            мышления, функциональной грамотности;</span>
     </p>
 
     <p class="w800 m0auto fs18 fi tal mt-20 txt-vi2 tsd txt-vi2 tsd">
-        <span class="fs35 fb fin">&#10037;</span>
+       <span class="fs35 fb fin txt-vi mr-10">&#10037;</span>
         <img src="<?php echo get_template_directory_uri()?>/img/colored-pencils.png" class="w100h100">
         способствовать повышению уровня
-        профессиональной компетентности, педагогического
+        <span class="fs20 txt-vi fb">профессиональной компетентности</span>, педагогического
         мастерства;
     </p>
 
     <p class="w800 m0auto fs18 fi tal mt-20 txt-vi2 tsd txt-vi2 tsd">
-        <span class="fs35 fb fin">&#10037;</span>
+       <span class="fs35 fb fin txt-vi mr-10">&#10037;</span>
         <img src="<?php echo get_template_directory_uri()?>/img/colored-pencils.png" class="w100h100">
-        познакомить с основами государственной
-        политики в области образования, концепциями модернизации
+        познакомить с <span class="fs20 txt-vi fb">основами государственной
+            политики в области образования</span>, концепциями модернизации
         структуры и содержания общего образования;
     </p>
 
     <p class="w800 m0auto fs18 fi tal mt-20 txt-vi2 tsd txt-vi2 tsd">
-        <span class="fs35 fb fin">&#10037;</span>
+       <span class="fs35 fb fin txt-vi mr-10">&#10037;</span>
         <img src="<?php echo get_template_directory_uri()?>/img/colored-pencils.png" class="w100h100">
         познакомить с современными
         методологическими походами к изучению математики,
         характерным понятийно-категориальным аппаратом;
     </p>
     <p class="w800 m0auto fs18 fi tal mt-20 txt-vi2 tsd txt-vi2 tsd">
-        <span class="fs35 fb fin">&#10037;</span>
+       <span class="fs35 fb fin txt-vi mr-10">&#10037;</span>
         <img src="<?php echo get_template_directory_uri()?>/img/colored-pencils.png" class="w100h100">
         способствовать расширению ценностных
         гуманистических ориентаций;
     </p>
     <p class="w800 m0auto fs18 fi tal mt-20 txt-vi2 tsd txt-vi2 tsd">
-        <span class="fs35 fb fin">&#10037;</span>
+       <span class="fs35 fb fin txt-vi mr-10">&#10037;</span>
         <img src="<?php echo get_template_directory_uri()?>/img/colored-pencils.png" class="w100h100">
         повышение общекультурного уровня и
-        расширение социального кругозора;
+        расширение <span class="fs20 txt-vi fb">социального кругозора</span>;
     </p>
     <p class="w800 m0auto fs18 fi tal mt-20 txt-vi2 tsd txt-vi2 tsd">
-        <span class="fs35 fb fin">&#10037;</span>
+       <span class="fs35 fb fin txt-vi mr-10">&#10037;</span>
         <img src="<?php echo get_template_directory_uri()?>/img/colored-pencils.png" class="w100h100">
-        закрепить мотивацию к повышению
+        закрепить <span class="fs20 txt-vi fb">мотивацию</span> к повышению
         профессиональной (педагогической) квалификации в рамках
         непрерывного образования.
     </p>

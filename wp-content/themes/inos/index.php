@@ -71,73 +71,54 @@ get_header();
 
 
 
-    <p class="w900 m0auto fb fs 18 txt-vi2 tsd">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd s-c p-rel">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 p-abs-romb">
         <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
-
-        РАБОТАЕТ В СФЕРЕ ОБРАЗОВАНИЯ С <span class="txt-vi">1998</span> ГОДА.
+        работает в сфере образования с <span class="txt-vi">1998</span> года.
     </p>
 
-    <p class="w900 m0auto fb fs 18 txt-vi2 tsd mt-20">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd mt-20 s-c p-rel">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 p-abs-romb">
         <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
-        ОБЛАДАЕТ ЭФФЕКТИВНОЙ СИСТЕМОЙ ПОВЫШЕНИЯ КВАЛИФИКАЦИИ
-    </p>
-    <p class="w800 m0auto fb fs 18 txt-vi2 tsd">
-        НАУЧНО-ПЕДАГОГИЧЕСКИХ КАДРОВ.
+        обладает эффективной системой повышения квалификации научно-педагогических кадров.
     </p>
 
-    <p class="w900 m0auto fb fs 18 txt-vi2 tsd mt-20">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd mt-20 s-c p-rel">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 p-abs-romb">
         <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
-        <span class="txt-vi mr-30">ЦЕЛЬ:</span>ОСУЩЕСТВЛЯЕТ СВОЮ ДЕЯТЕЛЬНОСТЬ В СООТВЕТСТВИИ С ЛИЦЕНЗИЕЙ
-    </p>
-    <p class="w800 m0auto fb fs 18 txt-vi2 tsd">
-        НА ПРАВО
-        ОБРАЗОВАТЕЛЬНОЙ ДЕЯТЕЛЬНОСТИ, ВЫДАННОЙ ДЕПАРТАМЕНТОМ ОБРАЗОВАНИЯ
-        ГОРОДА МОСКВЫ.
+        <span class="txt-vi mr-30">цель:</span>осуществляет свою деятельность в соответствии с лицензией на право
+        образовательной деятельности, выданной департаментом образования
+        города москвы.
     </p>
 
-    <p class="w900 m0auto fb fs 18 txt-vi2 tsd mt-20">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd mt-20 s-c p-rel">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 p-abs-romb">
         <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
-        <span class="txt-vi mr-30">ЦЕЛЬ:</span>
-        РАЗВИТИЕ ПРОФЕССИОНАЛЬНОЙ,
-        ИНФОРМАЦИОННО-ПОЗНАВАТЕЛЬНОЙ,
-    </p>
-    <p class="w800 m0auto fb fs 18 txt-vi2 tsd">
-        КОММУНИКАТИВНОЙ И
-        СОЦИАЛЬНО-ЛИЧНОСТНОЙ КОМПЕТЕНЦИЙ СЛУШАТЕЛЕЙ В
-        ПРОЦЕССЕ ИЗУЧЕНИЯ АКТУАЛЬНЫХ ПРОБЛЕМ ПРЕПОДАВАНИЯ,
-        ПОВЫШЕНИЕ ПРОФЕССИОНАЛЬНОГО УРОВНЯ В РАМКАХ
-        ИМЕЮЩЕЙСЯ КВАЛИФИКАЦИКВАЛИФИКАЦИИ.
+        развитие профессиональной,
+        информационно-познавательной, коммуникативной и
+        социально-личностной компетенций слушателей в
+        процессе изучения актуальных проблем преподавания,
+        повышение профессионального уровня в рамках
+        имеющейся квалификациквалификации.
     </p>
 
-    <p class="w900 m0auto fb fs 18 txt-vi2 tsd mt-20">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd mt-20 s-c p-rel">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 p-abs-romb">
         <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
-        ЛЕКЦИОННО-СЕМИНАРСКИЕ ЗАНЯТИЯ, ПРОВОДЯТСЯ НА БАЗЕ ИНСТИТУТА АВТОРАМИ
-    </p>
-    <p class="w800 m0auto fb fs 18 txt-vi2 tsd">
-        УМК И ФЕДЕРАЛЬНЫХ НОРМАТИВНЫХ ДОКУМЕНТОВ (ФГОС, ПООП, ГИА, ОГЭ, ЕГЭ).
+        лекционно-семинарские занятия, проводятся на базе института авторами умк и федеральных нормативных документов (фгос, пооп, гиа, огэ, егэ).
     </p>
 
-
-    <p class="w900 m0auto fb fs 18 txt-vi2 tsd mt-20">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 mr-30">
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd mt-20 s-c p-rel">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 p-abs-romb">
         <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
-        СЛУШАТЕЛЯМ, УСПЕШНО ОСВОИВШИМ ДОПОЛНИТЕЛЬНУЮ ПРОФЕССИОНАЛЬНУЮ
-
-    </p>
-    <p class="w800 m0auto fb fs 18 txt-vi2 tsd">
-        ПРОГРАММУ И ПРОШЕДШИМ ИТОГОВУЮ АТТЕСТАЦИЮ, ВЫДАЮТСЯ УДОСТОВЕРЕНИЯ
-        О ПОВЫШЕНИИ КВАЛИФИКАЦИИ.
+        слушателям, успешно освоившим дополнительную профессиональную программу и прошедшим итоговую аттестацию, выдаются удостоверения
+        о повышении квалификации.
     </p>
 
 

@@ -141,6 +141,9 @@
 .fs40 {
   font-size: 40px; }
 
+.s-c {
+  font-variant: small-caps; }
+
 .m0auto {
   margin: 0 auto; }
 
@@ -372,6 +375,14 @@
 
 .p-rel {
   position: relative; }
+
+.p-abs {
+  position: absolute; }
+
+.p-abs-romb {
+  position: absolute;
+  left: -50px;
+  top: 50px; }
 
 .c-left {
   position: absolute;

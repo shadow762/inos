@@ -357,7 +357,7 @@ get_header();
 
 
     <p class="800 tar fs10 f-arial mt-20 b-top"><sup>*</sup> Текст, отмеченный маркерами <img src="<?php echo get_template_directory_uri()?>/img/pero.png" alt="" class="w30h30"> относится к содержанию программы повышения квалификации</p>
-    <p class="800 tar fs10 f-arial"><sup>*</sup> Текст, отмеченный маркерами <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20"> относится к учебному планированию лекционно-семинарских и практических занятий</p>
+    <p class="800 tar fs10 f-arial"><sup>*</sup> Текст, отмеченный дополнительными маркерами <img src="<?php echo get_template_directory_uri()?>/img/icons/sand-clock.svg" alt="" class="w20h20"> относится к учебному планированию лекционно-семинарских и практических занятий</p>
 
 
     <img src="<?php echo get_template_directory_uri()?>/img/shnur.png" alt="шнурки" class="w600 m0auto d-block mtb-20">
