@@ -17,11 +17,20 @@ get_header();
     <h4 class="h4-page-header">GPS координаты (координаты на карте):</h4>
     <h4 class="h4-page-header">долгота — 37.612021, широта — 55.603283.</h4>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/map/map1.png" alt="" class="w800 m0auto d-block mt-20">
+    <a href="<?php echo get_template_directory_uri()?>/img/map/map1.png" rel="lightbox[roadtrip]" title="" >
+        <img src="<?php echo get_template_directory_uri()?>/img/map/map1.png" alt="" class="w800 m0auto d-block mt-20">
+    </a>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/map/map2.png" alt="" class="w800 m0auto d-block mt-20">
+    <a href="<?php echo get_template_directory_uri()?>/img/map/map2.png" rel="lightbox[roadtrip]" title="" >
+        <img src="<?php echo get_template_directory_uri()?>/img/map/map2.png" alt="" class="w800 m0auto d-block mt-20">
+    </a>
+
 
     <img src="<?php echo get_template_directory_uri()?>/img/map/map3.png" alt="" class="w800 m0auto d-block mtb-20">
+
+
+
+
 
 
 

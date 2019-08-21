@@ -426,7 +426,9 @@ get_header();
 
     <p class="p-rel m0auto" style="height: 30px"><img src="<?php echo get_template_directory_uri()?>/img/corner1.png" alt="" class="w200h200 c-left"></p>
 
-    <img src="<?php echo get_template_directory_uri()?>/img/udostov/inos4.png" alt="фото" class="w600 m0auto d-block mtb-20">
+    <a href="<?php echo get_template_directory_uri()?>/img/udostov/inos4.png" rel="lightbox" title="" >
+        <img src="<?php echo get_template_directory_uri()?>/img/udostov/inos4.png" alt="образец удостоверения" class="w600 m0auto d-block mtb-20">
+    </a>
 
     <p class="p-rel m0auto" style="height: 30px;margin-bottom: 100px"><img src="<?php echo get_template_directory_uri()?>/img/corner2.png" alt="" class="w200h200 c-right"></p>
 

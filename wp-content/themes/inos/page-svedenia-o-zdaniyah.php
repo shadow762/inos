@@ -58,12 +58,19 @@ get_header();
     <img src="<?php echo get_template_directory_uri()?>/img/pen1.png" alt="" class="w150 m0auto d-block mtb-20">
 
     <div class="docs-cont-1">
-        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8696obr.jpg" alt="">
+        <a href="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8696obr.jpg" rel="lightbox" title="" >
+            <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8696obr.jpg" alt="">
+        </a>
+
     </div>
 
     <div class="docs-cont-1">
-        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8693.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8700.jpg" alt="">
+        <a href="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8693.jpg" rel="lightbox" title="" >
+            <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8693.jpg" alt="">
+        </a>
+        <a href="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8700.jpg" rel="lightbox" title="" >
+            <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8700.jpg" alt="">
+        </a>
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">
@@ -80,12 +87,25 @@ get_header();
 
 
     <div class="docs-cont-1">
-        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8706.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8691.jpg" alt="">
+        <a href="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8706.jpg" rel="lightbox" title="" >
+            <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8706.jpg" alt="">
+        </a>
+        <a href="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8691.jpg" rel="lightbox" title="" >
+            <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8691.jpg" alt="">
+        </a>
+
+
     </div>
     <div class="docs-cont-1">
-        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8698.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8702.jpg" alt="">
+        <a href="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8698.jpg" rel="lightbox" title="" >
+            <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8698.jpg" alt="">
+        </a>
+        <a href="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8702.jpg" rel="lightbox" title="" >
+            <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8702.jpg" alt="">
+        </a>
+
+
+
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">
@@ -101,12 +121,24 @@ get_header();
     </div>
 
     <div class="docs-cont-1">
-        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8689.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8682.jpg" alt="">
+        <a href="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8689.jpg" rel="lightbox" title="" >
+            <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8689.jpg" alt="">
+        </a>
+        <a href="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8682.jpg" rel="lightbox" title="" >
+            <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8682.jpg" alt="">
+        </a>
+
+
     </div>
     <div class="docs-cont-1">
-        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8686.jpg" alt="">
-        <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8684.jpg" alt="">
+        <a href="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8686.jpg" rel="lightbox" title="" >
+            <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8686.jpg" alt="">
+        </a>
+        <a href="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8684.jpg" rel="lightbox" title="" >
+            <img src="<?php echo get_template_directory_uri()?>/img/docs/explication/img-8684.jpg" alt="">
+        </a>
+
+
     </div>
 
     <div class="w400 m0auto clearfix mt-20 bb2s-blue">
