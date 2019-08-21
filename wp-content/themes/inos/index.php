@@ -89,15 +89,7 @@ get_header();
         <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 p-abs-romb">
         <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
         <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
-        <span class="txt-vi mr-30">цель:</span>осуществляет свою деятельность в соответствии с лицензией на право
-        образовательной деятельности, выданной департаментом образования
-        города москвы.
-    </p>
-
-    <p class="w800 m0auto fb fs18 txt-vi2 tsd mt-20 s-c p-rel">
-        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 p-abs-romb">
-        <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
-        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
+        <span class="txt-vi mr-30">цель:</span>
         развитие профессиональной,
         информационно-познавательной, коммуникативной и
         социально-личностной компетенций слушателей в
@@ -105,6 +97,16 @@ get_header();
         повышение профессионального уровня в рамках
         имеющейся квалификациквалификации.
     </p>
+
+    <p class="w800 m0auto fb fs18 txt-vi2 tsd mt-20 s-c p-rel">
+        <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 p-abs-romb">
+        <img src="<?php echo get_template_directory_uri()?>/img/hand.png" class="w30h30">
+        <img src="<?php echo get_template_directory_uri()?>/img/img-btn-3.png" class="w50h80">
+        осуществляет свою деятельность в соответствии с лицензией на право
+        образовательной деятельности, выданной департаментом образования
+        города москвы.
+    </p>
+
 
     <p class="w800 m0auto fb fs18 txt-vi2 tsd mt-20 s-c p-rel">
         <img src="<?php echo get_template_directory_uri()?>/img/icons/romb.png" class="w30h30 p-abs-romb">

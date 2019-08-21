@@ -68,12 +68,12 @@
 </div>
 
 
-<script>
-    document.querySelector('body').addEventListener('contextmenu', function (event) {
-        if(event.button == 2) {
-            event.preventDefault();
-        }
-    });
-</script>
+<!--<script>-->
+<!--    document.querySelector('body').addEventListener('contextmenu', function (event) {-->
+<!--        if(event.button == 2) {-->
+<!--            event.preventDefault();-->
+<!--        }-->
+<!--    });-->
+<!--</script>-->
 </body>
 </html>
